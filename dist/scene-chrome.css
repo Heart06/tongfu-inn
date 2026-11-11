@@ -1,0 +1,45 @@
+/* Scene controls belong to the picture, without a separate toolbar row. */
+.scene-viewport{position:relative}
+.scene-sr,.scene-viewport .stage-place .eyebrow{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}
+.scene-chrome{position:absolute;top:12px;right:12px;z-index:14;display:flex;align-items:flex-start;gap:8px;max-width:calc(100% - 64px);pointer-events:none}
+.scene-chrome .time-controls{flex:none;margin:0;pointer-events:auto}
+.daynight-toggle{display:flex;align-items:center;gap:5px;height:38px;padding:0 8px;color:#f1dfbd;background:#29211bd1;border:1px solid #b69a7366;border-radius:3px;backdrop-filter:blur(6px);cursor:pointer}
+.daynight-sun,.daynight-moon{font:18px/1 sans-serif;width:17px;text-align:center;opacity:.55}
+.daynight-toggle[aria-checked=false] .daynight-sun,.daynight-toggle[aria-checked=true] .daynight-moon{opacity:1;color:#ffdfa1}
+.daynight-track{width:27px;height:16px;position:relative;background:#a28760;border-radius:12px;box-shadow:inset 0 0 0 1px #f6dca344}
+.daynight-track i{display:block;position:absolute;top:3px;left:3px;width:10px;height:10px;background:#fff0d2;border-radius:50%;transition:transform .16s ease}
+.daynight-toggle[aria-checked=true] .daynight-track{background:#574c70}
+.daynight-toggle[aria-checked=true] .daynight-track i{transform:translateX(11px)}
+.scene-viewport .stage-place{position:absolute;left:12px;bottom:12px;z-index:11;min-width:0;max-width:calc(100% - 24px);pointer-events:none;background:#29211bc9;padding:5px 11px;border-left:2px solid #c6a676;border-radius:0;backdrop-filter:blur(4px)}
+.scene-viewport .stage-place h2,body[data-room=hall] .scene-viewport .stage-place h2{font:400 17px/1.5 'KaiTi','STKaiti',serif;margin:0;color:#f4dfb9}
+.scene-chrome .memory-dock,body[data-room=hall] .scene-chrome .memory-dock{margin:0;max-width:280px;min-width:0;flex-basis:auto;pointer-events:auto}
+.scene-chrome .memory-intro,body[data-room=hall] .scene-chrome .memory-intro{justify-content:flex-end}
+.scene-chrome .memory-dock button.story-bookmark-trigger,body[data-room=hall] .scene-chrome #hall-memory-open.story-bookmark-trigger{min-height:38px;padding:6px 12px;font-size:14px;line-height:1.5;white-space:nowrap;background:#29211bd1;border:1px solid #b69a7366;color:#f4dfb9;border-radius:3px;backdrop-filter:blur(6px)}
+.scene-chrome .story-bookmark-trigger:before{display:none}
+.scene-chrome .story-bookmark-trigger:after{content:'⌄';margin-left:7px;font:13px sans-serif}
+.scene-chrome .story-bookmark-trigger[aria-expanded=true]:after{content:'⌃'}
+.scene-chrome .memory-dock .story-bookmark-picker,body[data-room=hall] .scene-chrome .memory-dock .story-bookmark-picker{left:auto;right:0;top:calc(100% + 6px);width:min(340px,calc(100vw - 52px));z-index:30}
+.scene-chrome .memory-dock .story-bookmark>div[id$="-reader"]{margin-top:6px;padding:8px 10px;border:1px solid #b69a7366;border-radius:3px;background:#29211beF;max-width:min(280px,calc(100vw - 64px));backdrop-filter:blur(6px)}
+.scene-chrome .memory-dock .story-bookmark-current,body[data-room=hall] .scene-chrome .memory-dock .story-bookmark-current{font-size:13px;line-height:1.6;text-align:left;margin:0 0 5px;max-width:100%}
+.scene-chrome .memory-dock .memory-toolbar,body[data-room=hall] .scene-chrome .memory-dock .memory-toolbar{justify-content:flex-end;gap:4px}
+.scene-chrome .memory-dock .memory-toolbar button,body[data-room=hall] .scene-chrome .memory-dock .memory-toolbar button{font-size:12px;min-height:32px;padding:5px 6px}
+.scene-chrome button:focus-visible{outline:2px solid #ffdf9b;outline-offset:2px}
+@media(max-width:760px){
+ .scene-chrome{top:8px;right:8px;gap:6px;max-width:calc(100% - 60px)}
+ .scene-chrome .memory-dock,body[data-room=hall] .scene-chrome .memory-dock{max-width:calc(100vw - 165px)}
+ .daynight-toggle{height:40px;padding:0 6px;gap:3px}
+ .scene-chrome .memory-dock button.story-bookmark-trigger,body[data-room=hall] .scene-chrome #hall-memory-open.story-bookmark-trigger{min-height:40px;padding:7px 9px;font-size:13px}
+ .scene-viewport .stage-place{left:8px;bottom:8px;padding:3px 8px}
+ .scene-viewport .stage-place h2,body[data-room=hall] .scene-viewport .stage-place h2{font-size:14px}
+ .scene-chrome .memory-dock .story-bookmark>div[id$="-reader"]{width:max-content;max-width:calc(100vw - 64px);position:absolute;right:0;top:100%}
+ .scene-chrome .story-bookmark-list{max-height:45svh}
+}
+@media(prefers-reduced-motion:reduce){.daynight-track i{transition:none}}
+/* A phone uses the expanded map as its temporary navigation surface. */
+@media(max-width:760px){.scene-viewport:has(.minimap-toggle[aria-expanded=true]) .scene-chrome{visibility:hidden}}
+@media(max-width:760px){
+ .scene-chrome{top:auto;bottom:8px}
+ .scene-chrome .memory-dock .story-bookmark-picker,body[data-room=hall] .scene-chrome .memory-dock .story-bookmark-picker{top:auto;bottom:calc(100% + 6px)}
+ .scene-chrome .story-bookmark-list{max-height:30svh}
+ .scene-chrome .memory-dock .story-bookmark>div[id$="-reader"]{top:auto;bottom:calc(100% + 6px);margin-top:0}
+}

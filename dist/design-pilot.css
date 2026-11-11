@@ -1,0 +1,109 @@
+/* Bounded design pilot: hall, episode 61 reader, and the existing eleven-stop tour. */
+:root{--pilot-cream:#f4e6ca;--pilot-muted:#c2ae90;--pilot-accent:#b76b4d;--pilot-line:#af8c5c55}
+.welcome{padding:18px 0;gap:20px}.welcome h1{font-size:28px;margin:0 0 4px}.welcome-copy p{font-size:14px;color:var(--pilot-muted)}
+.welcome .guide:not(.is-floating) .guide-intro{display:none}
+.welcome .guide:not(.is-floating) .guide-mode button{min-height:44px;font-size:14px}
+body[data-room="hall"] .map-wrap{border:0;border-radius:0;box-shadow:none}
+body[data-room="hall"] .stage-heading{padding:8px 0 12px;background:transparent;gap:18px;border-radius:0}
+body[data-room="hall"] .stage-place h2{font-size:24px}
+body[data-room="hall"] .stage-place .eyebrow{font-size:12px;color:var(--pilot-muted)}
+body[data-room="hall"] .time-switch button{min-height:44px;font-size:13px}
+body[data-room="hall"] .memory-dock .story-bookmark-trigger{white-space:nowrap;min-height:42px;font-size:16px;padding:8px 14px;color:var(--pilot-cream);background:#55392a;border-color:#aa795955}
+body[data-room="hall"] .story-bookmark-trigger:before{display:none}
+body[data-room="hall"] .memory-dock .story-bookmark-current{font-size:14px;max-width:360px}
+body[data-room="hall"] .memory-dock .memory-toolbar button{font-size:13px;min-height:36px;padding:6px 8px}
+body[data-room="hall"] .map-tools{position:relative;min-height:54px;gap:14px;align-items:center;border-bottom:1px solid var(--pilot-line)}
+.explore-hint{display:none}body[data-room="hall"] .explore-hint{display:block;font:14px/1.6 'KaiTi','STKaiti',serif;color:var(--pilot-muted);margin-right:auto}
+.hotspot-options{position:relative}.hotspot-options>summary{display:none;cursor:pointer;list-style:none;color:var(--pilot-cream);font-size:14px;min-height:44px;padding:12px 8px}.hotspot-options>summary::-webkit-details-marker{display:none}
+body[data-room="hall"] .hotspot-options>summary{display:block}
+body[data-room="hall"] .hotspot-options>summary:after{content:'⌄';margin-left:9px;font:14px sans-serif}
+body[data-room="hall"] .hotspot-options[open]>summary:after{content:'⌃'}
+body[data-room="hall"] .hotspot-options .legend{position:absolute;right:0;bottom:calc(100% + 8px);z-index:18;width:250px;padding:8px;gap:4px;background:#30251b;border:1px solid #ad8c60;box-shadow:0 6px 20px #0005;display:grid;grid-template-columns:1fr 1fr}
+body[data-room="hall"] .hotspot-options .legend button{margin:0;min-height:44px;font-size:14px;text-align:left;padding:9px}
+body[data-room="hall"] .map-options button,body[data-room="hall"] .map-options a{min-height:44px;font-size:14px;padding:10px 6px}
+body[data-room="hall"] .visit-note p{font-size:13px;color:var(--pilot-muted)}
+body[data-room="hall"] .portal-target::before{box-shadow:none;background:#211b1980;border-color:#d4bd92;opacity:.8}
+body[data-room="hall"] .portal-target svg{color:#e9d6b6}
+body[data-room="hall"] .portal-target .tip{box-shadow:none;border:1px solid #a8885e;background:#f3e7cd;font-size:14px;padding:6px 9px}
+body[data-room="hall"] .gathering-target::before{box-shadow:none;border:1px solid #d4b47e;background:#40302480}
+body[data-room="hall"] .figure-target::before{opacity:.65;background:#f0d4a31a;border-color:#eed1a0;box-shadow:none}
+body[data-room="hall"] .figure-target:is(:hover,:focus-visible)::before{background:#e6be6d55;opacity:1}
+/* One marker identifies the object or person named by the current speech. */
+.map .guide-target{z-index:8}.map .guide-target::before{opacity:1!important;border:2px solid #f2d49a!important;box-shadow:0 0 0 4px #392a1d66!important;background:#44311d77}
+.map .guide-target .tip{opacity:1;box-shadow:none;border:1px solid #b18a59;background:#f4e6ca;color:#3b2c21;white-space:normal;width:max-content;max-width:220px;text-align:left;font-size:14px;line-height:1.6}
+/* The image establishes the scene before the reading begins. Other story readers stay unchanged. */
+.story-reading-pilot{padding:30px clamp(22px,5vw,64px) 48px}.story-reading-header{max-width:42em;margin:auto}
+.story-reading-pilot .eyebrow{font-size:14px;letter-spacing:.5px;color:#8e4632}
+.story-reading-pilot h2{font-size:clamp(26px,3vw,36px);line-height:1.45;margin:12px 0}
+.story-reading-pilot .lead{font:16px/1.85 'PingFang SC','Microsoft YaHei',sans-serif;color:#68513c;margin:0 0 24px}
+.story-opening-still{max-width:672px;margin:0 auto 28px}.story-opening-still img{display:block;width:100%;height:auto;background:#46372c}
+.story-opening-still figcaption{font-size:13px;line-height:1.8;color:#6c543d;margin-top:9px}.story-opening-still a{color:#854330;text-decoration:underline;text-underline-offset:3px}
+.story-reading-body{max-width:42em;margin:auto}.story-reading-pilot .sections{border:0}.story-reading-pilot .sections section{padding:0;margin:0 0 26px}
+.story-reading-pilot .sections h3{font:600 18px/1.6 'KaiTi','STKaiti',serif;color:#663e2c;margin:0 0 8px}
+.story-reading-pilot .sections p{font-size:16px;line-height:1.95}
+.story-more-stills{border-top:1px solid #b8a282;margin:24px 0;padding:6px 0}.story-more-stills>summary{cursor:pointer;font-size:15px;padding:12px 0;color:#7d412e;min-height:44px}
+.story-more-stills .memory-reference-gallery>h3{display:none}.story-reading-pilot .related{margin-top:22px;padding-top:16px}.story-reading-pilot .related h3{font-size:14px}.story-reading-pilot .related-links a{padding:10px 6px;min-height:44px}
+/* Speech, a single exhibit action, and route navigation have separate jobs. */
+.guide.is-floating .guide-copy{border-radius:4px;border-color:#b3936666;background:#2d231be8;padding:12px 16px;box-shadow:0 4px 20px #0003;backdrop-filter:none}
+.guide.is-floating .guide-bubble{border-radius:4px;background:#33271feF;border-color:#b3936688;box-shadow:none;backdrop-filter:none;font:15px/1.75 'KaiTi','STKaiti',serif;width:310px;padding:10px 14px}
+.guide.is-floating .guide-progress{font-size:13px;color:var(--pilot-muted);font-variant-numeric:tabular-nums}
+.guide.is-floating .guide-heading h2{font-size:19px}.guide.is-floating .guide-window-actions button{font-size:13px;border:0;min-height:36px;background:transparent;color:#d1bfa3;padding:6px}
+.guide.is-floating .guide-controls{gap:16px}.guide.is-floating .guide-recommended{flex:1}.guide.is-floating .guide-recommended .guide-primary{font-size:15px;min-height:44px;padding:9px 13px;background:#7c4430;border-color:#b77b57;color:#fff0d7}
+.guide.is-floating .guide-navigation button{min-height:44px;font-size:14px;padding:9px 11px;background:transparent;border-color:#a0805555}
+.guide.is-floating .guide-navigation button[data-guide="next"]{color:#f3d8aa;border-color:#b6956866}
+.guide.is-floating .guide-details summary{font-size:13px;color:#d5bd98;min-height:44px;padding:12px 0}
+.guide.is-floating .guide-details[open]{border-radius:4px;background:#2d231bf7;max-height:45svh;overscroll-behavior:contain}
+.guide.is-floating .guide-details h3{font-size:15px}.guide.is-floating .guide-details p{font-size:14px}.guide.is-floating .guide-details .guide-actions button{min-height:44px;font-size:14px}
+.guide.is-floating.is-minimized .guide-copy{padding:8px 12px}.guide-running main{padding-bottom:220px}
+@media(max-width:760px){
+ .welcome{padding:16px 0 12px}.welcome h1{font-size:27px}.welcome-copy p{font-size:14px;line-height:1.7}
+ :root .welcome .guide:not(.is-floating){margin-top:12px;justify-content:flex-start}.welcome .guide:not(.is-floating) .guide-mode button{min-height:44px;font-size:14px;padding:9px 13px}
+ body[data-room="hall"] .scene-switch button{min-height:44px;font-size:15px;padding:10px 13px}
+ body[data-room="hall"] .stage-heading{flex-wrap:wrap;gap:8px 12px;padding:12px 0}
+ body[data-room="hall"] .stage-place{flex:1}.stage-place h2{max-width:100%}
+ body[data-room="hall"] .memory-dock{max-width:none;flex-basis:100%;margin:0}
+ body[data-room="hall"] .memory-dock .memory-intro{justify-content:flex-start}
+ body[data-room="hall"] .memory-dock .story-bookmark-trigger{font-size:15px;min-height:44px;padding:8px 12px}
+ body[data-room="hall"] .memory-dock .story-bookmark-picker{left:0;right:auto;width:min(340px,calc(100vw - 32px))}
+ body[data-room="hall"] .memory-dock .story-bookmark-current{text-align:left;font-size:14px}
+ body[data-room="hall"] .memory-dock .memory-toolbar{justify-content:flex-start}
+ body[data-room="hall"] .map:not(.zoomed):not(.hall-story-active){min-width:0}
+ body[data-room="hall"] .map.zoomed{min-width:760px}
+ body[data-room="hall"] .map:not(.zoomed):not(.hall-story-active) .portal-target .tip{font-size:12px;padding:3px 5px;bottom:34px;max-width:100px;white-space:nowrap}
+ body[data-room="hall"] .map:not(.zoomed):not(.hall-story-active) .portal-target{width:36px;height:36px}
+ body[data-room="hall"] .map-tools{gap:4px 12px;flex-wrap:wrap;padding:8px 0}
+ body[data-room="hall"] .explore-hint{font-size:14px;flex-basis:100%;margin:0}
+ body[data-room="hall"] .hotspot-options{margin-right:auto}
+ body[data-room="hall"] .hotspot-options .legend{left:0;right:auto}
+ body[data-room="hall"] .visit-note{padding:6px 0}.story-reading-pilot{padding:24px 20px 32px}
+ .story-reading-pilot .lead{font-size:16px;margin-bottom:20px}.story-opening-still{margin:0 -8px 24px}.story-opening-still figcaption{padding:0 8px}
+ :root .guide.is-floating{width:calc(100vw - 16px);gap:6px;bottom:max(8px,env(safe-area-inset-bottom))}
+ .guide.is-floating .guide-portrait{width:46px}.guide.is-floating .guide-portrait img{height:78px}
+ .guide.is-floating .guide-copy{padding:10px;min-width:0}.guide.is-floating .guide-heading{gap:6px;flex-wrap:wrap}
+ .guide.is-floating .guide-heading h2{font-size:16px;flex:1 1 60%}.guide.is-floating .guide-window-actions{margin-left:auto}
+ .guide.is-floating .guide-window-actions button{min-height:36px;font-size:12px}
+ .guide.is-floating .guide-bubble{width:min(296px,calc(100vw - 32px));font-size:15px;line-height:1.7;max-height:34svh;overflow:auto}
+ .guide.is-floating .guide-controls{gap:4px 10px;flex-wrap:wrap}.guide.is-floating .guide-recommended{flex-basis:100%;margin-bottom:2px}
+ .guide.is-floating .guide-recommended .guide-primary{font-size:14px;min-height:44px;padding:8px 11px}
+ .guide.is-floating .guide-navigation{margin-left:auto;gap:6px}.guide.is-floating .guide-navigation button{min-height:44px;font-size:13px;padding:7px}
+ .guide.is-floating .guide-details summary{font-size:13px}.guide.is-floating .guide-details[open]{max-height:36svh;width:min(360px,calc(100vw - 24px))}
+ .guide-running main{padding-bottom:330px}
+}
+@media(prefers-reduced-motion:reduce){.guide-target,.guide-bubble,.story-reading-pilot{animation:none;transition:none}}
+
+body[data-room="hall"] #hall-memory-open.story-bookmark-trigger{min-height:44px;font-size:15px;width:auto;white-space:nowrap}
+@media(max-width:760px){body[data-room="hall"] .figure-target{min-height:44px}.guide.is-floating .guide-window-actions button{min-height:44px}}
+
+.story-reading-pilot h2{text-wrap:balance}
+.guide-label-short{display:none}
+.guide.is-floating:has(.guide-details[open]) .guide-bubble{visibility:hidden}
+@media(max-width:760px){
+ .guide.is-floating .guide-portrait{position:static}
+ .guide.is-floating .guide-bubble{left:0;bottom:calc(100% + 8px)}
+ .guide.is-floating .guide-heading{flex-wrap:nowrap;gap:5px}
+ .guide.is-floating .guide-heading h2{flex:1;min-width:0;font-size:15px}
+ .guide.is-floating .guide-window-actions{gap:0;margin-left:0}
+ .guide.is-floating .guide-window-actions button{min-width:44px;padding:6px 4px}
+ .guide-label-full{display:none}.guide-label-short{display:inline}
+}
+@media(max-width:760px){.guide.is-floating .guide-bubble{overflow:visible;max-height:none}}

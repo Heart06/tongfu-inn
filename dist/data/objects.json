@@ -1,0 +1,1284 @@
+[
+  {
+    "id": "abacus",
+    "title": "算盘",
+    "summary": "柜台上的算盘，用来核算客栈收支。",
+    "sections": [
+      {
+        "title": "位置与用途",
+        "text": "佟湘玉负责经营客栈，算盘与她算成本、核收支的掌柜职责相连。"
+      },
+      {
+        "title": "相关人物与故事",
+        "text": "算盘是柜台上的记账工具，可与账本一起查看。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "scene",
+        "id": "counter"
+      },
+      {
+        "kind": "relationship",
+        "id": "family"
+      }
+    ],
+    "sceneId": "counter",
+    "keywords": [
+      "客栈拾遗"
+    ]
+  },
+  {
+    "id": "ledger",
+    "title": "账本",
+    "summary": "吕秀才记账用的账本。",
+    "sections": [
+      {
+        "title": "位置与用途",
+        "text": "吕秀才是客栈账房，负责记录收支。账本与算盘摆在柜台工作区。"
+      },
+      {
+        "title": "相关人物与故事",
+        "text": "从账本可以查看秀才的人物志和他与掌柜的关系。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "scene",
+        "id": "counter"
+      },
+      {
+        "kind": "story",
+        "id": "scholar"
+      }
+    ],
+    "sceneId": "counter",
+    "keywords": [
+      "客栈拾遗"
+    ]
+  },
+  {
+    "id": "broom",
+    "title": "扫帚",
+    "summary": "郭芙蓉做杂役时使用的扫帚。",
+    "sections": [
+      {
+        "title": "位置与用途",
+        "text": "郭芙蓉在客栈做杂役，打扫是她的日常工作之一。"
+      },
+      {
+        "title": "相关人物与故事",
+        "text": "从扫帚可以查看小郭的经历及她与客栈众人的关系。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "scene",
+        "id": "hall"
+      },
+      {
+        "kind": "story",
+        "id": "arrival"
+      }
+    ],
+    "sceneId": "hall",
+    "keywords": [
+      "客栈拾遗"
+    ]
+  },
+  {
+    "id": "cleaver",
+    "title": "菜刀",
+    "summary": "李大嘴在厨房备菜使用的菜刀。",
+    "sections": [
+      {
+        "title": "位置与用途",
+        "text": "菜刀放在备菜区，与大嘴的厨子身份相连。"
+      },
+      {
+        "title": "相关人物与故事",
+        "text": "从菜刀可以查看大嘴的人物志与厨房场景。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "scene",
+        "id": "kitchen"
+      },
+      {
+        "kind": "story",
+        "id": "ordinary"
+      }
+    ],
+    "sceneId": "kitchen",
+    "keywords": [
+      "客栈拾遗"
+    ]
+  },
+  {
+    "id": "wine",
+    "title": "酒坛",
+    "summary": "楼梯脚边的大黑酒坛，坛口覆着红布。",
+    "sections": [
+      {
+        "title": "大堂陈设",
+        "text": "大酒坛摆在楼梯脚边，柜台后的木架上还有小酒坛与瓷瓶。红布坛盖是辨认这一角陈设的细节。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "scene",
+        "id": "hall"
+      },
+      {
+        "kind": "story",
+        "id": "past"
+      }
+    ],
+    "sceneId": "hall",
+    "keywords": [
+      "客栈拾遗"
+    ]
+  },
+  {
+    "id": "main-table",
+    "title": "主桌",
+    "summary": "大堂中央的长方形主桌，众人在这里吃饭、聊天。",
+    "sections": [
+      {
+        "title": "位置与用途",
+        "text": "主桌位于柜台与正门之间，长轴朝向柜台和大门。"
+      },
+      {
+        "title": "相关人物与故事",
+        "text": "从主桌可以查看客栈六人群像与相关故事。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "relationship",
+        "id": "family"
+      },
+      {
+        "kind": "scene",
+        "id": "hall"
+      },
+      {
+        "kind": "story",
+        "id": "ordinary"
+      },
+      {
+        "kind": "story",
+        "id": "trouble"
+      },
+      {
+        "kind": "story",
+        "id": "hall-floor-night"
+      }
+    ],
+    "sceneId": "hall",
+    "keywords": [
+      "群像入口"
+    ]
+  },
+  {
+    "id": "sign",
+    "title": "同福客栈牌匾",
+    "summary": "客栈门前的“同福客栈”招牌。",
+    "sections": [
+      {
+        "title": "位置与用途",
+        "text": "木招牌位于正门短瓦檐下，两旁是红灯笼。"
+      },
+      {
+        "title": "相关人物与故事",
+        "text": "招牌标示客栈店名，可从这里查看门前街道与大堂。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "scene",
+        "id": "entrance"
+      },
+      {
+        "kind": "story",
+        "id": "arrival"
+      }
+    ],
+    "sceneId": "entrance",
+    "keywords": [
+      "客栈拾遗"
+    ]
+  },
+  {
+    "id": "stairs",
+    "title": "楼梯",
+    "summary": "柜台旁的木楼梯，经中间缓步台转折，通向二层平台。",
+    "sections": [
+      {
+        "title": "结构与位置",
+        "text": "楼梯紧挨前台，分两段上行，中间有缓步台。二层平台接走廊，木栏杆围住楼梯与平台边缘。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "scene",
+        "id": "upper"
+      },
+      {
+        "kind": "story",
+        "id": "xiaobei-story"
+      }
+    ],
+    "sceneId": "upper",
+    "keywords": [
+      "客栈拾遗"
+    ]
+  },
+  {
+    "id": "well",
+    "title": "后院水井",
+    "summary": "后院的砖砌水井，用于取水。",
+    "sections": [
+      {
+        "title": "位置与用途",
+        "text": "水井位于院中，井口中空，旁边摆着取水桶。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "courtyard"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "story",
+        "id": "ordinary"
+      }
+    ],
+    "keywords": [
+      "生活物件",
+      "策展选品"
+    ]
+  },
+  {
+    "id": "washbasin",
+    "title": "洗衣盆",
+    "summary": "后院洗衣用的木盆与水桶。",
+    "sections": [
+      {
+        "title": "位置与用途",
+        "text": "木盆与水桶用于后院的洗涤和取水。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "courtyard"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "story",
+        "id": "ordinary"
+      }
+    ],
+    "keywords": [
+      "生活物件",
+      "策展选品"
+    ]
+  },
+  {
+    "id": "stone-mill",
+    "title": "后院石磨",
+    "summary": "后院的圆形石磨，用于磨粮。",
+    "keywords": [
+      "后院",
+      "日常劳动"
+    ],
+    "sections": [
+      {
+        "title": "在客栈里",
+        "text": "圆石磨由上下两块磨石组成，摆在木架上；与中空水井是不同物件。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "courtyard"
+      },
+      {
+        "kind": "story",
+        "id": "ordinary"
+      }
+    ]
+  },
+  {
+    "id": "stable",
+    "title": "后院马厩",
+    "summary": "院门旁的简易马厩。",
+    "keywords": [
+      "后院",
+      "日常劳动"
+    ],
+    "sections": [
+      {
+        "title": "在客栈里",
+        "text": "简易棚架靠近后院左侧院门，用于安置马匹。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "courtyard"
+      },
+      {
+        "kind": "story",
+        "id": "ordinary"
+      }
+    ]
+  },
+  {
+    "id": "chicken-coop",
+    "title": "后院鸡笼",
+    "summary": "男寝门旁的鸡笼，附近堆着柴草。",
+    "keywords": [
+      "后院",
+      "日常劳动"
+    ],
+    "sections": [
+      {
+        "title": "在客栈里",
+        "text": "鸡笼靠近男寝一侧，旁边是柴草与木料。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "courtyard"
+      },
+      {
+        "kind": "story",
+        "id": "ordinary"
+      }
+    ]
+  },
+  {
+    "id": "stove",
+    "title": "后厨灶台",
+    "summary": "砖灶上放着多层蒸笼，旁边摆着罐子与水桶。",
+    "sceneId": "kitchen",
+    "keywords": [
+      "后厨",
+      "日常劳动"
+    ],
+    "sections": [
+      {
+        "title": "在客栈里",
+        "text": "砖砌灶台位于厨房前侧，台面放着多层竹蒸笼与圆形灶盖。附近的小桌放着陶罐、盆与水桶。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "kitchen"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "story",
+        "id": "ordinary"
+      }
+    ]
+  },
+  {
+    "id": "prep-table",
+    "title": "后厨备菜桌",
+    "summary": "厨房右侧的备菜桌。",
+    "sceneId": "kitchen",
+    "keywords": [
+      "后厨",
+      "日常劳动"
+    ],
+    "sections": [
+      {
+        "title": "在客栈里",
+        "text": "备菜桌上放菜刀、砧板、蔬菜与碗盘，用于准备饭菜。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "kitchen"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "story",
+        "id": "ordinary"
+      }
+    ]
+  },
+  {
+    "id": "shared-platform",
+    "title": "女寝炕台与叠被",
+    "summary": "砖砌炕台铺着席面，低木柜上叠放被褥。",
+    "sceneId": "women-room",
+    "keywords": [
+      "女寝",
+      "起居"
+    ],
+    "sections": [
+      {
+        "title": "在房间里",
+        "text": "砖砌炕台上铺着席面，摆着矮桌，花被、条纹被与白枕叠在低柜上。这里是小贝与小郭的合住空间。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "women-room"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      }
+    ]
+  },
+  {
+    "id": "room-wardrobe",
+    "title": "女寝木柜",
+    "summary": "深色木柜用于存放衣物与日用物件。",
+    "sceneId": "women-room",
+    "keywords": [
+      "女寝",
+      "起居"
+    ],
+    "sections": [
+      {
+        "title": "在房间里",
+        "text": "深色高木柜立在房里，炕边另有低抽屉柜，叠放被褥；门旁柜上摆着瓷瓶和小摆件。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "women-room"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      }
+    ]
+  },
+  {
+    "id": "xiaobei-desk",
+    "title": "女寝书桌",
+    "summary": "书页、笔筒、红烛和瓜子碟摆在桌面上。",
+    "sceneId": "women-room",
+    "keywords": [
+      "女寝",
+      "起居"
+    ],
+    "sections": [
+      {
+        "title": "在房间里",
+        "text": "书桌上摆着书页、笔筒、红烛和瓜子碟。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "women-room"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      }
+    ]
+  },
+  {
+    "id": "room-washstand",
+    "title": "女寝洗漱架",
+    "summary": "女寝靠墙的木盆与毛巾架。",
+    "sceneId": "women-room",
+    "keywords": [
+      "女寝",
+      "起居"
+    ],
+    "sections": [
+      {
+        "title": "在房间里",
+        "text": "木盆摆在小木架上，旁边的架子挂着毛巾。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "women-room"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      }
+    ]
+  },
+  {
+    "id": "room-tea-table",
+    "title": "女寝茶桌",
+    "summary": "青花茶壶与杯碗用于房间里的闲坐。",
+    "sceneId": "women-room",
+    "keywords": [
+      "女寝",
+      "起居"
+    ],
+    "sections": [
+      {
+        "title": "在房间里",
+        "text": "窗边有茶桌，炕上另摆矮桌。青花茶壶与小碗，让房里的起居多了些生活气。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "women-room"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      }
+    ]
+  },
+  {
+    "id": "men-platforms",
+    "title": "男寝木床与砖炕",
+    "summary": "两处床铺形式不同，中央留着共同起居的空间。",
+    "sceneId": "men-room",
+    "keywords": [
+      "男寝",
+      "日常生活"
+    ],
+    "sections": [
+      {
+        "title": "在客栈里",
+        "text": "房间一侧是独立木床，另一侧是砖砌高炕。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "men-room"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      }
+    ]
+  },
+  {
+    "id": "men-bookcase",
+    "title": "男寝书架",
+    "summary": "男寝木床旁的开放木书架。",
+    "sceneId": "men-room",
+    "keywords": [
+      "男寝",
+      "日常生活"
+    ],
+    "sections": [
+      {
+        "title": "在客栈里",
+        "text": "木书架靠近木床，收放着书卷。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "men-room"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      }
+    ]
+  },
+  {
+    "id": "men-table",
+    "title": "男寝读书桌与小凳",
+    "summary": "男寝中央的木桌，周围摆着小凳。",
+    "sceneId": "men-room",
+    "keywords": [
+      "男寝",
+      "日常生活"
+    ],
+    "sections": [
+      {
+        "title": "在客栈里",
+        "text": "中央木桌上放着纸张、书本与笔筒，周围有小凳。墙边另有长凳；这里是室友共同起居与读书的位置。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "men-room"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      }
+    ]
+  },
+  {
+    "id": "kitchen-cupboard",
+    "title": "后厨碗碟柜",
+    "summary": "厨房后侧的深色碗柜。",
+    "sceneId": "kitchen",
+    "keywords": [
+      "后厨",
+      "日常生活"
+    ],
+    "sections": [
+      {
+        "title": "在客栈里",
+        "text": "碗柜与墙边桌子收放碗碟、陶罐和竹盘。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "kitchen"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      }
+    ]
+  },
+  {
+    "id": "owner-canopy-bed",
+    "title": "掌柜房床帐",
+    "summary": "粉色帐沿与深色木架床，黄绿隔帘在前方。",
+    "sections": [
+      {
+        "title": "原剧画面里的样子",
+        "text": "第15集画面里，粉色帐沿与透明床帐垂在深色木架床前，床上铺着红绿被褥。外侧黄色与绿色隔帘将床铺与起居位置分开。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "owner-room"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      }
+    ],
+    "keywords": [
+      "掌柜房",
+      "原剧陈设"
+    ]
+  },
+  {
+    "id": "owner-cabinet",
+    "title": "床边木柜与箱子",
+    "summary": "红褐木柜在床的右侧，黄褐箱放在柜顶。",
+    "sections": [
+      {
+        "title": "原剧画面里的样子",
+        "text": "红褐色木柜立在床边，柜顶放着黄褐色箱子。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "owner-room"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      }
+    ],
+    "keywords": [
+      "掌柜房",
+      "原剧陈设"
+    ]
+  },
+  {
+    "id": "owner-tea-table",
+    "title": "掌柜房圆茶桌",
+    "summary": "圆木桌上放着深色茶壶与茶杯。",
+    "sections": [
+      {
+        "title": "原剧画面里的样子",
+        "text": "圆茶桌位于床帐前方，桌上摆着茶壶与茶杯。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "owner-room"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      }
+    ],
+    "keywords": [
+      "掌柜房",
+      "原剧陈设"
+    ]
+  },
+  {
+    "id": "owner-standing-lamp",
+    "title": "红色布罩落地灯",
+    "summary": "木柜旁的红色布罩灯，有细长灯柱与落地支架。",
+    "sections": [
+      {
+        "title": "原剧画面里的样子",
+        "text": "红色布罩配着细长支架，是房里的落地灯。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "owner-room"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      }
+    ],
+    "keywords": [
+      "掌柜房",
+      "原剧陈设"
+    ]
+  },
+  {
+    "id": "owner-window-console",
+    "title": "格窗与窗下陈设",
+    "summary": "格窗下的木案，放着小佛像、青花瓷瓶与木盒。",
+    "sections": [
+      {
+        "title": "原剧画面里的样子",
+        "text": "木柜右侧经过黄绿隔帘与红色落地灯，是木格窗与窗下木案。木案上摆着小佛像、青花瓷瓶与木盒。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "owner-room"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      }
+    ],
+    "keywords": [
+      "掌柜房",
+      "原剧陈设"
+    ]
+  },
+  {
+    "id": "guest-sleeping-couch",
+    "title": "窗下木榻",
+    "summary": "大格窗下的深色木榻，上面叠着蓝花、白色与红色被褥。",
+    "sections": [
+      {
+        "title": "陈设说明",
+        "text": "窗下木榻上摆着小木几，旁边叠放着被褥。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      }
+    ],
+    "keywords": [
+      "客房",
+      "起居陈设"
+    ]
+  },
+  {
+    "id": "guest-screen",
+    "title": "红木折屏",
+    "summary": "红色折屏放在木榻右侧，旁边是置物架。",
+    "sections": [
+      {
+        "title": "陈设说明",
+        "text": "红木折屏与置物架立在窗下木榻右侧。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      }
+    ],
+    "keywords": [
+      "客房",
+      "起居陈设"
+    ]
+  },
+  {
+    "id": "guest-tea-table",
+    "title": "客房茶桌",
+    "summary": "方形茶桌与圆凳留在房间中央。",
+    "sections": [
+      {
+        "title": "陈设说明",
+        "text": "中央方桌配着圆凳，前方另有带白色小灯的长条木案。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      }
+    ],
+    "keywords": [
+      "客房",
+      "起居陈设"
+    ]
+  },
+  {
+    "id": "guest-settee",
+    "title": "前侧木坐榻",
+    "summary": "房间前侧的木坐榻有靠背与扶手，与窗下睡榻分开。",
+    "sections": [
+      {
+        "title": "陈设说明",
+        "text": "房间前侧还有一处木坐榻，与窗下木榻相对，旁边摆着矮桌。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      }
+    ],
+    "keywords": [
+      "客房",
+      "起居陈设"
+    ]
+  },
+  {
+    "id": "guest-door-lions",
+    "title": "门外成对小狮",
+    "summary": "客房门两旁的小狮，分别放在高木架上。",
+    "sections": [
+      {
+        "title": "陈设说明",
+        "text": "一对小狮摆在房门外的高木架上。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      }
+    ],
+    "keywords": [
+      "客房",
+      "起居陈设"
+    ]
+  },
+  {
+    "id": "men-wood-bed",
+    "title": "男寝木床",
+    "summary": "带床腿的木床，铺着浅灰色被褥。",
+    "sceneId": "men-room",
+    "keywords": [
+      "男寝",
+      "生活陈设"
+    ],
+    "sections": [
+      {
+        "title": "陈设说明",
+        "text": "木床沿左侧墙面摆放，床边有小书桌与字画。与另一侧砖炕不同，这处床铺由木架支撑。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "men-room"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      }
+    ]
+  },
+  {
+    "id": "men-brick-kang",
+    "title": "男寝砖炕",
+    "summary": "砖砌高台上放着矮茶桌，前侧留有小炉口。",
+    "sceneId": "men-room",
+    "keywords": [
+      "男寝",
+      "生活陈设"
+    ],
+    "sections": [
+      {
+        "title": "陈设说明",
+        "text": "砖炕靠近后墙格窗，角落叠放被褥。砖砌基座前有炉口，炕上摆着矮桌。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "men-room"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      }
+    ]
+  },
+  {
+    "id": "men-washstand",
+    "title": "男寝洗漱架",
+    "summary": "厨房门旁的木盆与毛巾架。",
+    "sceneId": "men-room",
+    "keywords": [
+      "男寝",
+      "生活陈设"
+    ],
+    "sections": [
+      {
+        "title": "陈设说明",
+        "text": "洗漱盆放在木架上，毛巾挂在旁边，位置靠近砖炕与通厨房的门。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "men-room"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      }
+    ]
+  },
+  {
+    "id": "street-bench",
+    "title": "门前长凳",
+    "summary": "客栈大门左侧的一条木长凳。",
+    "sceneId": "street",
+    "keywords": [
+      "街边",
+      "生活陈设"
+    ],
+    "sections": [
+      {
+        "title": "陈设说明",
+        "text": "大门左侧靠墙放着长凳，门前是石基。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "street"
+      }
+    ]
+  },
+  {
+    "id": "street-tea-stall",
+    "title": "街边茶棚",
+    "summary": "灰布棚下，一张方桌配两条长凳。",
+    "sceneId": "street",
+    "keywords": [
+      "街边",
+      "生活陈设"
+    ],
+    "sections": [
+      {
+        "title": "陈设说明",
+        "text": "侧墙茶棚以竹木杆支起灰色布顶，桌上放着青花茶壶和碗，墙边有车轮与茶旗。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "street"
+      }
+    ]
+  },
+  {
+    "id": "street-jar",
+    "title": "街边大缸",
+    "summary": "茶棚旁靠墙放着一口褐色大缸。",
+    "sceneId": "street",
+    "keywords": [
+      "街边",
+      "生活陈设"
+    ],
+    "sections": [
+      {
+        "title": "陈设说明",
+        "text": "褐色大缸放在街边茶棚附近。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "street"
+      }
+    ]
+  },
+  {
+    "id": "street-lanterns",
+    "title": "门前红灯笼",
+    "summary": "大门两旁各有上下两盏红灯笼。",
+    "sceneId": "street",
+    "keywords": [
+      "街边",
+      "生活陈设"
+    ],
+    "sections": [
+      {
+        "title": "陈设说明",
+        "text": "四盏红灯笼挂在短瓦檐下，与门柱、石基一起围出客栈入口。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "street"
+      }
+    ]
+  },
+  {
+    "id": "roof-tiles",
+    "title": "屋顶瓦面",
+    "summary": "屋顶铺着一排排灰色瓦片。",
+    "sceneId": "roof",
+    "keywords": [
+      "屋顶",
+      "建筑陈设"
+    ],
+    "sections": [
+      {
+        "title": "画面说明",
+        "text": "灰瓦沿屋坡一层层铺开，夜色里映着月光与檐下的暖光。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "roof"
+      }
+    ]
+  },
+  {
+    "id": "roof-ridge",
+    "title": "屋顶屋脊",
+    "summary": "屋脊分开两侧坡面。",
+    "sceneId": "roof",
+    "keywords": [
+      "屋顶",
+      "建筑陈设"
+    ],
+    "sections": [
+      {
+        "title": "画面说明",
+        "text": "横向屋脊连接两侧瓦坡，也是客栈众人坐下谈心的地方。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "roof"
+      }
+    ]
+  },
+  {
+    "id": "hall-guandi",
+    "title": "关公像",
+    "summary": "大堂右侧墙面，后院门旁的关公像立在黑色高座上。",
+    "sections": [
+      {
+        "title": "位置与细节",
+        "text": "关公像与后院门都在大堂右侧墙面；像立在门旁的黑色高座上，背后是蓝白色装饰。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "hall"
+      }
+    ],
+    "sceneId": "hall",
+    "keywords": [
+      "大堂陈设"
+    ]
+  },
+  {
+    "id": "hall-blue-bands",
+    "title": "蓝布横帘",
+    "summary": "二层平台下方，木梁间挂着蓝色布帘。",
+    "sections": [
+      {
+        "title": "位置与细节",
+        "text": "横帘沿梁展开，与后院通口的蓝布门帘呼应。它位于柱梁之间，不遮住楼梯与大堂通道。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "hall"
+      }
+    ],
+    "sceneId": "hall",
+    "keywords": [
+      "大堂陈设"
+    ]
+  },
+  {
+    "id": "yihong-lions",
+    "title": "怡红酒楼门前石狮",
+    "summary": "怡红酒楼入口两旁，各立着一尊小石狮。",
+    "sceneId": "yihong",
+    "keywords": [
+      "室外陈设"
+    ],
+    "sections": [
+      {
+        "title": "位置与细节",
+        "text": "石狮放在低石座上，分列怡红酒楼门前两侧。同福客栈门口不配置这对石狮。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "yihong"
+      },
+      {
+        "kind": "scene",
+        "id": "street"
+      }
+    ]
+  }
+]

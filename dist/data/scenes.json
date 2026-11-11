@@ -1,0 +1,967 @@
+[
+  {
+    "id": "hall",
+    "title": "大堂",
+    "summary": "来客吃饭，伙计拌嘴。一间做生意的屋子，也是一群人共同生活的地方。",
+    "sections": [
+      {
+        "title": "空间与通路",
+        "text": "柜台、纵向主桌和正门相对；柜台旁的两段木楼梯，经缓步台通向二层。后院门开在大堂右侧墙上，挂着蓝布门帘，穿过它到后院。"
+      },
+      {
+        "title": "大堂陈设",
+        "text": "木柱梁间挂蓝布横帘，柜台后摆酒坛与瓷瓶，墙上悬着木牌和红穗。楼梯脚边是覆红布的大黑酒坛，右侧墙面的后院门旁是关公像。"
+      },
+      {
+        "title": "可以从哪里看起",
+        "text": "点主桌看六人群像，点人物打开人物志；从楼梯上二层，或从右侧通口去后院。"
+      },
+      {
+        "title": "大堂里的往事",
+        "text": "夜里一起打地铺，听老白给小贝讲故事；危急时围在一处，看秀才应对姬无命。从大堂顶部的往事簿，可以翻到这些共同经历。 还有掌柜与老白闹分开时，一桌人表面僵住、心里各演各的那一刻。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "object",
+        "id": "main-table"
+      },
+      {
+        "kind": "relationship",
+        "id": "family"
+      },
+      {
+        "kind": "story",
+        "id": "ordinary"
+      },
+      {
+        "kind": "object",
+        "id": "hall-guandi"
+      },
+      {
+        "kind": "object",
+        "id": "hall-blue-bands"
+      },
+      {
+        "kind": "story",
+        "id": "hall-floor-night"
+      },
+      {
+        "kind": "story",
+        "id": "scholar"
+      },
+      {
+        "kind": "story",
+        "id": "arrival"
+      },
+      {
+        "kind": "story",
+        "id": "guest-yidianhong"
+      },
+      {
+        "kind": "story",
+        "id": "guest-murongzi-stay"
+      },
+      {
+        "kind": "story",
+        "id": "guest-simpson"
+      },
+      {
+        "kind": "story",
+        "id": "hall-heartvoices"
+      }
+    ],
+    "keywords": [
+      "公共空间",
+      "群像",
+      "烟火气"
+    ]
+  },
+  {
+    "id": "counter",
+    "title": "前台",
+    "summary": "大堂后侧的柜台，负责招呼客人、收钱和记账。",
+    "sections": [
+      {
+        "title": "这是什么地方",
+        "text": "前台承担招呼客人、收钱与记账的工作。佟湘玉是掌柜，吕秀才是账房；两人的职责不同，却一起维持着客栈的运转。"
+      },
+      {
+        "title": "人物与职责",
+        "text": "佟湘玉负责经营、核算和安排伙计，吕秀才负责记账。柜台旁的楼梯通往二层。"
+      },
+      {
+        "title": "空间关系",
+        "text": "前台正对中央主桌与大门。三个位置构成清楚的主轴，主桌的长边朝向前台和大门。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "object",
+        "id": "abacus"
+      },
+      {
+        "kind": "object",
+        "id": "ledger"
+      }
+    ],
+    "keywords": [
+      "生计",
+      "责任",
+      "记账"
+    ]
+  },
+  {
+    "id": "kitchen",
+    "title": "后厨",
+    "summary": "砖灶旁的蒸笼，备菜桌上的碗盘：这里也是通往男寝的一处入口。",
+    "sections": [
+      {
+        "title": "这是什么地方",
+        "text": "厨房既可从后院进入，也与男寝直接相通。以本馆画面为准，后墙房门返回后院，左侧门穿过去就是男寝，不用绕回院子。"
+      },
+      {
+        "title": "为什么值得记住",
+        "text": "一个群像故事需要有人把饭做出来。厨子的闲话、幻想和热心，与锅灶一起把江湖落回了吃饭这件普通的事。"
+      },
+      {
+        "title": "可以从哪里看起",
+        "text": "先看看灶台和备菜桌，再点李大嘴，读读厨子的日常与心事。菜刀是备菜工具，灶台是这间屋子的劳动中心。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "object",
+        "id": "cleaver"
+      },
+      {
+        "kind": "story",
+        "id": "huilan-story"
+      },
+      {
+        "kind": "scene",
+        "id": "courtyard"
+      },
+      {
+        "kind": "object",
+        "id": "stove"
+      },
+      {
+        "kind": "object",
+        "id": "prep-table"
+      },
+      {
+        "kind": "scene",
+        "id": "men-room"
+      },
+      {
+        "kind": "object",
+        "id": "kitchen-cupboard"
+      }
+    ],
+    "keywords": [
+      "做饭",
+      "普通劳动",
+      "日常"
+    ],
+    "mapId": "kitchen"
+  },
+  {
+    "id": "upper",
+    "title": "二层走廊",
+    "summary": "沿客房前的横向走廊转到右侧，掌柜的房门开在这里。",
+    "sections": [
+      {
+        "title": "怎么走",
+        "text": "从大堂楼梯上来，到右侧纵向走廊；转向客房前的横向走廊，走道呈 L 形围着大堂挑空区。掌柜房间入口在右侧走廊，三处客房入口沿横向走廊排列。"
+      },
+      {
+        "title": "左侧小巷窗口",
+        "text": "横向走廊左端窗口通向客栈左侧小巷。跃窗后先落在小巷中，沿巷口再走到门前街边；回二层需从正门进入大堂，再上楼梯。屋顶现已开放，可从本层通路标记前往。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "object",
+        "id": "stairs"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "story",
+        "id": "xiaobei-story"
+      },
+      {
+        "kind": "scene",
+        "id": "owner-room"
+      },
+      {
+        "kind": "scene",
+        "id": "guest-rooms"
+      },
+      {
+        "kind": "scene",
+        "id": "upper-window"
+      },
+      {
+        "kind": "scene",
+        "id": "roof-access"
+      },
+      {
+        "kind": "scene",
+        "id": "hall"
+      },
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      },
+      {
+        "kind": "scene",
+        "id": "roof"
+      }
+    ],
+    "keywords": [
+      "居住",
+      "上下楼",
+      "相遇"
+    ],
+    "mapId": "upper"
+  },
+  {
+    "id": "entrance",
+    "title": "门口",
+    "summary": "同福客栈正门，连接大堂与门前街道。",
+    "sections": [
+      {
+        "title": "这是什么地方",
+        "text": "从大堂正门出到店外街边，也可从同一入口返回大堂。门外与怡红酒楼隔街相对。"
+      },
+      {
+        "title": "为什么值得停留",
+        "text": "门一开，陌生人可以成为熟人；门一关，屋里还有要照顾的人。这个边界让“留下来”变成一种看得见的选择。"
+      },
+      {
+        "title": "空间关系",
+        "text": "门口面对主桌与前台，主轴保持畅通。牌匾与入口一起成为认出同福客栈的第一眼。 从大门可走到店外街边，再从同一处入口返回大堂。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "object",
+        "id": "sign"
+      },
+      {
+        "kind": "story",
+        "id": "arrival"
+      },
+      {
+        "kind": "scene",
+        "id": "street"
+      }
+    ],
+    "keywords": [
+      "相遇",
+      "留下",
+      "七侠镇"
+    ],
+    "mapId": "street"
+  },
+  {
+    "id": "courtyard",
+    "title": "后院",
+    "summary": "厨房、男寝与女寝围着后院，院中有水井和石磨。",
+    "mapId": "courtyard",
+    "keywords": [
+      "生活",
+      "劳动",
+      "日常"
+    ],
+    "sections": [
+      {
+        "title": "从哪里进来",
+        "text": "大堂右侧通口连接后院左侧院门。门前街边还有右侧路口，可经院外通路直接到后院，不必穿过大堂。厨房门是另一处入口。"
+      },
+      {
+        "title": "院子里的布局",
+        "text": "以本馆画面朝向为准：厨房与男寝沿后院后侧，女寝在左前侧。院门旁有简易马厩，院中有一口水井和一个石磨，男寝附近放置鸡笼与柴草。"
+      },
+      {
+        "title": "人物与活动",
+        "text": "李大嘴从这里进厨房，小郭与无双在院中料理杂务。女寝住小贝与小郭，男寝住秀才与大嘴。"
+      },
+      {
+        "title": "后院里的往事",
+        "text": "洗衣盆边的拌嘴、砖头前的武侠梦、井边笨拙的求和，还有一句把怒气压下去的自我提醒。从后院顶部的往事簿，可以走进这四段日常。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "scene",
+        "id": "hall"
+      },
+      {
+        "kind": "scene",
+        "id": "kitchen"
+      },
+      {
+        "kind": "object",
+        "id": "well"
+      },
+      {
+        "kind": "story",
+        "id": "ordinary"
+      },
+      {
+        "kind": "object",
+        "id": "stone-mill"
+      },
+      {
+        "kind": "object",
+        "id": "stable"
+      },
+      {
+        "kind": "object",
+        "id": "chicken-coop"
+      },
+      {
+        "kind": "scene",
+        "id": "women-room"
+      },
+      {
+        "kind": "scene",
+        "id": "men-room"
+      },
+      {
+        "kind": "scene",
+        "id": "street"
+      },
+      {
+        "kind": "story",
+        "id": "yard-washing-rope"
+      },
+      {
+        "kind": "story",
+        "id": "yard-dragon-palm"
+      },
+      {
+        "kind": "story",
+        "id": "yard-onion-apology"
+      },
+      {
+        "kind": "story",
+        "id": "yard-world-beautiful"
+      }
+    ]
+  },
+  {
+    "id": "women-room",
+    "title": "女寝 · 小贝与小郭的房间",
+    "mapId": "women-room",
+    "summary": "小贝和小郭合住的房间，砖砌炕台、叠被木柜和书桌构成日常起居。",
+    "keywords": [
+      "莫小贝",
+      "郭芙蓉",
+      "合住",
+      "日常生活"
+    ],
+    "sections": [
+      {
+        "title": "谁住在这里",
+        "text": "女寝是莫小贝与郭芙蓉合住的房间，位于后院左前侧。从后院的女寝房门进入，离开时也回到后院。"
+      },
+      {
+        "title": "房间里的日常",
+        "text": "砖砌炕台铺着席面，摆有矮桌；花被与枕头叠在低木柜上。窗下是黑白几何纹样墙裙，窗台放着泥老虎和脸谱，柱上挂着彩色纸玩具。书桌上摆着书页、笔筒、红烛和瓜子碟。"
+      },
+      {
+        "title": "从哪里看起",
+        "text": "可以点小贝、小郭或房间里的物件。炕台与叠被柜、书桌与洗漱架分别呈现歇息、读书和梳洗的位置。"
+      },
+      {
+        "title": "女寝里的往事",
+        "text": "小郭装病时，掌柜坐到床边探望；老白离开的那夜，小贝又在床上绑起“必胜”布带，把大家动员到一起。床边的小事，也能装下不舍和关心。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "scene",
+        "id": "courtyard"
+      },
+      {
+        "kind": "object",
+        "id": "shared-platform"
+      },
+      {
+        "kind": "object",
+        "id": "room-wardrobe"
+      },
+      {
+        "kind": "object",
+        "id": "xiaobei-desk"
+      },
+      {
+        "kind": "object",
+        "id": "room-washstand"
+      },
+      {
+        "kind": "object",
+        "id": "room-tea-table"
+      },
+      {
+        "kind": "story",
+        "id": "xiaobei-story"
+      },
+      {
+        "kind": "relationship",
+        "id": "family"
+      },
+      {
+        "kind": "story",
+        "id": "women-wait-bai"
+      },
+      {
+        "kind": "story",
+        "id": "women-feigned-illness"
+      }
+    ]
+  },
+  {
+    "id": "men-room",
+    "title": "男寝 · 秀才与大嘴的房间",
+    "mapId": "men-room",
+    "summary": "秀才和大嘴合住的房间：一侧木床，一侧砖炕，还能穿门直接去厨房。",
+    "keywords": [
+      "吕秀才",
+      "李大嘴",
+      "合住",
+      "起居"
+    ],
+    "sections": [
+      {
+        "title": "谁住在这里",
+        "text": "男寝由吕秀才和李大嘴合住，位于厨房旁。后墙房门通往后院，右侧门直接通往厨房；两间房之间可以穿门来回。"
+      },
+      {
+        "title": "房间里的布局",
+        "text": "以本馆画面朝向为准：左侧为带床腿的木床，右后侧为砖砌高炕，炕前可见小炉口。中央木桌上放着纸张与笔筒，周围有小凳；床边有书架、字画与小书桌，厨房门旁有洗漱盆和毛巾架。"
+      },
+      {
+        "title": "可以从哪里看起",
+        "text": "点秀才或大嘴，看看账房和厨子离开工作区域后的生活，也可以从木床、砖炕、书架或读书桌看起。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "scene",
+        "id": "courtyard"
+      },
+      {
+        "kind": "scene",
+        "id": "kitchen"
+      },
+      {
+        "kind": "object",
+        "id": "men-platforms"
+      },
+      {
+        "kind": "object",
+        "id": "men-bookcase"
+      },
+      {
+        "kind": "object",
+        "id": "men-table"
+      },
+      {
+        "kind": "story",
+        "id": "scholar"
+      },
+      {
+        "kind": "story",
+        "id": "huilan-story"
+      },
+      {
+        "kind": "relationship",
+        "id": "family"
+      },
+      {
+        "kind": "object",
+        "id": "men-wood-bed"
+      },
+      {
+        "kind": "object",
+        "id": "men-brick-kang"
+      },
+      {
+        "kind": "object",
+        "id": "men-washstand"
+      },
+      {
+        "kind": "story",
+        "id": "guest-xingyu-arrival"
+      }
+    ]
+  },
+  {
+    "id": "owner-room",
+    "title": "掌柜的房间",
+    "summary": "黄绿隔帘后的粉色床帐，床边木柜与前方圆茶桌：佟湘玉的起居空间。",
+    "sections": [
+      {
+        "title": "从哪里进来",
+        "text": "从二层右侧走廊的掌柜房入口进入，离开时回到同一侧走廊。"
+      },
+      {
+        "title": "原剧镜头里的陈设",
+        "text": "第15集里，掌柜房垂着粉色床帐。深色木架床前垂着绿色与黄色隔帘，床右侧是红褐木柜，柜顶放着黄褐箱子。床脚有矮木凳，前方的圆木茶桌上摆着茶壶与茶杯，旁边立着红色布罩落地灯。 木柜右侧还有格窗，窗下木案上可见小佛像、青花瓷瓶与木盒。"
+      },
+      {
+        "title": "停留片刻",
+        "text": "大堂是掌柜照料生意和众人的地方，房间则给她留下一处自己的生活空间。这里沿着床帐、木柜与茶桌看起，再点佟湘玉，读她的牵挂与选择。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "upper"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "object",
+        "id": "owner-canopy-bed"
+      },
+      {
+        "kind": "object",
+        "id": "owner-cabinet"
+      },
+      {
+        "kind": "object",
+        "id": "owner-tea-table"
+      },
+      {
+        "kind": "object",
+        "id": "owner-standing-lamp"
+      },
+      {
+        "kind": "object",
+        "id": "owner-window-console"
+      },
+      {
+        "kind": "story",
+        "id": "guest-sisters"
+      }
+    ],
+    "keywords": [
+      "二层",
+      "空间路线"
+    ],
+    "mapId": "owner-room",
+    "sources": [
+      {
+        "label": "原剧第15集 · 央视网",
+        "url": "https://tv.cctv.com/2014/07/29/VIDE1406575083734303.shtml"
+      },
+      {
+        "label": "原剧床帐静帧与版本比较（剧迷整理）",
+        "url": "https://www.bilibili.com/opus/260774707520605174"
+      },
+      {
+        "label": "原剧窗边陈设截图（文章所载）",
+        "url": "https://k.sina.cn/article_5291824241_13b6ad471020001uxx.html"
+      }
+    ]
+  },
+  {
+    "id": "guest-rooms",
+    "title": "客房区",
+    "summary": "三处客房入口沿横向走廊排列。",
+    "sections": [
+      {
+        "title": "位置与路线",
+        "text": "三处客房房门沿横向走廊排列，左侧一间可以进入，另两间暂未开放。沿走廊向左，可到临街窗口。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "upper"
+      },
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      }
+    ],
+    "keywords": [
+      "二层",
+      "空间路线"
+    ]
+  },
+  {
+    "id": "upper-window",
+    "title": "二层左侧小巷窗口",
+    "summary": "横向走廊左端，是跃到客栈左侧小巷的出口。",
+    "sections": [
+      {
+        "title": "位置与路线",
+        "text": "二层跃窗后的落点是客栈左侧小巷。沿巷口走到门前街边，再经正门回大堂上楼；窗口按从二层向小巷的单向出口呈现。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "upper"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "scene",
+        "id": "left-alley"
+      }
+    ],
+    "keywords": [
+      "二层",
+      "空间路线"
+    ],
+    "mapId": "left-alley"
+  },
+  {
+    "id": "roof-access",
+    "title": "屋顶通路",
+    "summary": "二层还有通往屋顶的路线。",
+    "sections": [
+      {
+        "title": "位置与路线",
+        "text": "从二层走廊的屋顶入口前往，返回时点屋顶的二层走廊入口。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "upper"
+      },
+      {
+        "kind": "scene",
+        "id": "roof"
+      }
+    ],
+    "keywords": [
+      "二层",
+      "空间路线"
+    ],
+    "mapId": "roof"
+  },
+  {
+    "id": "guest-room",
+    "title": "客房",
+    "mapId": "guest-room",
+    "summary": "格窗下叠着被褥，红屏风旁放着瓷器；来客在这里歇脚。",
+    "keywords": [
+      "二层",
+      "客房",
+      "起居"
+    ],
+    "sections": [
+      {
+        "title": "从哪里进来",
+        "text": "从二层横向走廊左侧房门进入，离开时走室内右侧房门，回到同一条走廊。"
+      },
+      {
+        "title": "房间里的陈设",
+        "text": "后墙格窗下是一处深色木榻，叠着蓝花、白色与红色被褥。右侧立着红木折屏与置物架；左墙窗下有木柜和两把椅子。中央方茶桌配圆凳，前侧另有木坐榻与带小灯的长条木案。门外两尊小狮各放在高木架上。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "upper"
+      },
+      {
+        "kind": "object",
+        "id": "guest-sleeping-couch"
+      },
+      {
+        "kind": "object",
+        "id": "guest-screen"
+      },
+      {
+        "kind": "object",
+        "id": "guest-tea-table"
+      },
+      {
+        "kind": "object",
+        "id": "guest-settee"
+      },
+      {
+        "kind": "object",
+        "id": "guest-door-lions"
+      }
+    ]
+  },
+  {
+    "id": "street",
+    "title": "客栈门前街道",
+    "mapId": "street",
+    "summary": "同福客栈与怡红酒楼隔街相对，石板路从两家门前经过。",
+    "keywords": [
+      "室外",
+      "街边",
+      "茶棚"
+    ],
+    "sections": [
+      {
+        "title": "与客栈怎么相通",
+        "text": "正门进入大堂。面向同福客栈正门，右侧路口可直达后院，左侧小巷连接二层跃窗落点；从小巷回二层，需要经正门上楼。"
+      },
+      {
+        "title": "隔街两家门面",
+        "text": "同福客栈是灰砖木门面，短瓦檐下挂着四盏红灯笼，门旁有长凳。对面的怡红酒楼有彩绘檐梁、木格门窗，入口两旁各有一盏灯笼和一尊石狮。"
+      },
+      {
+        "title": "街边陈设",
+        "text": "街面是黄土地与不规则石板，附近有灰布茶棚、桌凳、大缸和手推车。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "hall"
+      },
+      {
+        "kind": "scene",
+        "id": "upper-window"
+      },
+      {
+        "kind": "character",
+        "id": "xiaomi"
+      },
+      {
+        "kind": "object",
+        "id": "street-bench"
+      },
+      {
+        "kind": "object",
+        "id": "street-tea-stall"
+      },
+      {
+        "kind": "object",
+        "id": "street-jar"
+      },
+      {
+        "kind": "object",
+        "id": "street-lanterns"
+      },
+      {
+        "kind": "scene",
+        "id": "left-alley"
+      },
+      {
+        "kind": "scene",
+        "id": "courtyard"
+      },
+      {
+        "kind": "scene",
+        "id": "yihong"
+      }
+    ]
+  },
+  {
+    "id": "roof",
+    "title": "客栈屋顶",
+    "mapId": "roof",
+    "summary": "月色落在灰瓦上，打烊后还能坐下来聊一会儿。",
+    "keywords": [
+      "屋顶",
+      "谈心",
+      "月夜",
+      "陪伴"
+    ],
+    "sections": [
+      {
+        "title": "怎么前往",
+        "text": "从二层走廊的屋顶入口前往，返回时点屋顶的二层走廊入口。"
+      },
+      {
+        "title": "屋顶夜话",
+        "text": "掌柜和老白并坐在屋脊上，腿自然落在前侧瓦坡，暂时放下柜台和跑堂的忙碌。这里也收录小郭与秀才的月下谈心、秀才与无双的夜话，以及众人中秋思乡的故事。画面表现相伴的日常，三段故事分别对应不同集数。"
+      },
+      {
+        "title": "屋顶·夜话",
+        "text": "从屋顶顶部翻一段夜话，看看月下的喜欢、犹疑与陪伴。第40集呈现梦境中的掌柜与老白；第62集是小郭、无双陪掌柜谈心；第68集则是无双与辛普森看月亮。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "upper"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "object",
+        "id": "roof-tiles"
+      },
+      {
+        "kind": "object",
+        "id": "roof-ridge"
+      },
+      {
+        "kind": "story",
+        "id": "roof-love"
+      },
+      {
+        "kind": "story",
+        "id": "roof-talk"
+      },
+      {
+        "kind": "story",
+        "id": "midautumn"
+      },
+      {
+        "kind": "relationship",
+        "id": "home"
+      },
+      {
+        "kind": "story",
+        "id": "roof-xiangyu-heart"
+      },
+      {
+        "kind": "story",
+        "id": "roof-simpson-moon"
+      }
+    ],
+    "sources": [
+      {
+        "label": "屋顶拍摄现场参考图（文章所载）",
+        "url": "https://read01.com/zh-cn/xD2a7zD.html"
+      },
+      {
+        "label": "央视网 · 第24集屋顶谈心剧情",
+        "url": "https://shaoer.cntv.cn/C19079/classpage/video/20120125/100097.shtml"
+      },
+      {
+        "label": "央视网 · 第36集屋顶谈天剧情",
+        "url": "https://shaoer.cntv.cn/C19079/classpage/video/20120127/100130.shtml"
+      },
+      {
+        "label": "央视网 · 第40集",
+        "url": "https://tv.cctv.com/2014/08/02/VIDE1406922130763672.shtml"
+      }
+    ]
+  },
+  {
+    "id": "left-alley",
+    "title": "客栈左侧小巷",
+    "mapId": "left-alley",
+    "summary": "二层跃窗后，先落在客栈左侧小巷。",
+    "keywords": [
+      "左侧",
+      "小巷",
+      "跃窗路线"
+    ],
+    "sections": [
+      {
+        "title": "跃窗后的路线",
+        "text": "二层横向走廊左端窗口连接左侧小巷。落地后沿巷口走到门前街边，再经正门进入大堂；回二层走大堂楼梯。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "upper-window"
+      },
+      {
+        "kind": "scene",
+        "id": "street"
+      },
+      {
+        "kind": "scene",
+        "id": "upper"
+      }
+    ]
+  },
+  {
+    "id": "yihong",
+    "title": "怡红酒楼",
+    "summary": "同福客栈对面的酒楼，门面有彩绘檐梁与石狮。",
+    "keywords": [
+      "街道",
+      "酒楼门面"
+    ],
+    "sections": [
+      {
+        "title": "位置",
+        "text": "怡红酒楼位于同福客栈对面，两家隔着门前街道相望。"
+      },
+      {
+        "title": "外观细节",
+        "text": "两层木格门窗，屋檐梁枋有蓝、绿、红与金色彩绘。入口旁立着竖招牌，门两旁各有一盏红灯笼与一尊小石狮。"
+      },
+      {
+        "title": "参观范围",
+        "text": "当前可在街景中查看门面，酒楼内部尚未开放。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "street"
+      },
+      {
+        "kind": "object",
+        "id": "yihong-lions"
+      }
+    ]
+  }
+]

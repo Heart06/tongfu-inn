@@ -1,0 +1,215 @@
+[
+  {
+    "id": "roof-love",
+    "episode": 24,
+    "title": "你当初为什么喜欢我？",
+    "mood": "喜欢与犹疑",
+    "summary": "小郭问起喜欢的缘由，秀才认真作答，却又惹出了笑料。",
+    "note": "月下，小郭和秀才说起喜欢的缘由。",
+    "people": [
+      {
+        "id": "furong",
+        "name": "郭芙蓉",
+        "x": 43,
+        "hipY": 41,
+        "h": 24,
+        "flip": false,
+        "text": "小郭问秀才，当初到底为什么会喜欢自己。"
+      },
+      {
+        "id": "xiucai",
+        "name": "吕秀才",
+        "x": 56,
+        "hipY": 41,
+        "h": 24,
+        "flip": true,
+        "text": "秀才说起算命的事，认真里带着不合时宜的笨拙。"
+      }
+    ],
+    "source": {
+      "label": "央视网 · 第24集屋顶情节",
+      "url": "https://tv.cctv.com/2014/07/30/VIDE1406672662507602.shtml"
+    },
+    "locationEvidence": "央视简介明确提及小郭与秀才在屋顶说起喜欢的缘由；选择跌落之前的谈话。",
+    "actionReview": {
+      "status": "谈话阶段保留，细节未逐帧确认",
+      "basis": "央视简介确认屋顶追问喜欢的缘由；现图不表现踢落动作。",
+      "phase": "追问缘由、踢落之前"
+    }
+  },
+  {
+    "id": "roof-talk",
+    "episode": 36,
+    "title": "夜里睡不着的人",
+    "mood": "喜欢与犹疑",
+    "summary": "从梦中惊醒的秀才来到屋顶，与无双聊起还没理清的心事。",
+    "note": "无双靠近秀才，秀才紧张地坐直了身体。",
+    "people": [
+      {
+        "id": "xiucai",
+        "name": "吕秀才",
+        "x": 46,
+        "hipY": 41,
+        "h": 24,
+        "flip": false,
+        "text": "无双靠近时，秀才紧张地坐直身体，嘴上仍说自己忘不掉小郭。",
+        "poseKey": "xiucai-upright"
+      },
+      {
+        "id": "wushuang",
+        "name": "祝无双",
+        "x": 52.3,
+        "hipY": 41,
+        "h": 24,
+        "flip": false,
+        "text": "无双向秀才靠过去，试着拉近两人的距离。",
+        "poseKey": "wushuang-lean"
+      }
+    ],
+    "source": {
+      "label": "央视网 · 第36集屋顶谈天",
+      "url": "https://shaoer.cntv.cn/C19079/classpage/video/20120127/100130.shtml"
+    },
+    "locationEvidence": "央视简介明确为深夜秀才与无双在屋顶谈天，选跌落、追风救人之前。",
+    "actionReview": {
+      "status": "修正",
+      "basis": "分场整理明确无双靠在秀才身上、秀才坐直；不把起初练功与后来的推落混成同一刻。",
+      "phase": "无双靠近、秀才坐直"
+    },
+    "locationSource": {
+      "label": "第36集分场台词 · 屋顶夜",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842339.html"
+    }
+  },
+  {
+    "id": "midautumn",
+    "episode": 40,
+    "title": "梦里的另一种人生",
+    "mood": "梦里的选择",
+    "summary": "在“如果当初”的梦境里，掌柜与老白坐上屋顶，谈起小贝，也谈起改变命运。",
+    "note": "梦中夜话：小贝睡下后，两人在屋顶说起人生。",
+    "people": [
+      {
+        "id": "xiangyu",
+        "name": "佟湘玉",
+        "x": 44.5,
+        "hipY": 41,
+        "h": 24,
+        "flip": false,
+        "text": "梦里的掌柜说起照顾小贝的辛苦，也听老白谈他想改变人生的念头。"
+      },
+      {
+        "id": "zhantang",
+        "name": "白展堂",
+        "x": 55.5,
+        "hipY": 41,
+        "h": 24,
+        "flip": true,
+        "text": "梦里的老白虽然做了郎中，仍向往行侠仗义，想为自己的日子换一条路。"
+      }
+    ],
+    "source": {
+      "label": "第40集分场台词 · 梦中屋顶夜话",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842363.html"
+    },
+    "locationEvidence": "整理本约896行标注屋顶夜，为梦境中的掌柜与老白二人；开场众人聚餐、说如果当初是大堂晚，不呈现为六人屋顶赏月。",
+    "sceneType": "梦中夜话",
+    "actionReview": {
+      "status": "保留",
+      "basis": "分场整理明确掌柜独坐、老白坐到身边。选择谈话开始时，后面的拉手、起身不混入。",
+      "phase": "老白坐下后谈小贝"
+    }
+  },
+  {
+    "id": "roof-xiangyu-heart",
+    "episode": 62,
+    "title": "掌柜也有说不清的心事",
+    "mood": "一个人的心事",
+    "summary": "掌柜独自上屋顶，小郭和无双来陪她，聊起她与老白想要的生活。",
+    "note": "掌柜抱膝坐着，小郭和无双在两边陪她谈心。",
+    "people": [
+      {
+        "id": "furong",
+        "name": "郭芙蓉",
+        "x": 40.5,
+        "hipY": 41,
+        "h": 24,
+        "flip": false,
+        "text": "小郭找到屋顶上的掌柜，试着用玩笑和直率的话宽慰她。"
+      },
+      {
+        "id": "xiangyu",
+        "name": "佟湘玉",
+        "x": 50,
+        "hipY": 41,
+        "h": 20,
+        "flip": false,
+        "text": "掌柜抱着膝盖，情绪低落。小郭和无双坐在两边陪她说话。",
+        "poseKey": "xiangyu-knees"
+      },
+      {
+        "id": "wushuang",
+        "name": "祝无双",
+        "x": 59.5,
+        "hipY": 41,
+        "h": 24,
+        "flip": false,
+        "text": "无双陪掌柜谈起两人一起经历过的风雨，劝她把心事说清楚。"
+      }
+    ],
+    "source": {
+      "label": "第62集台词整理 · 三人屋顶谈心",
+      "url": "https://blog.sina.com.cn/s/blog_54a564e201000466.html"
+    },
+    "locationEvidence": "第62集分场整理73—85行明确掌柜抱膝独坐，郭、祝上来后分坐其两边；部分说话人标签误写，以旧台词博客互相核对对话归属。",
+    "actionReview": {
+      "status": "修正",
+      "basis": "明确抱膝黯然独坐，郭、祝夹坐。改掉微笑、双手交叠的通用坐姿。",
+      "phase": "两人坐下陪掌柜谈心"
+    },
+    "locationSource": {
+      "label": "第62集分场台词 · 房顶",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842493.html"
+    }
+  },
+  {
+    "id": "roof-simpson-moon",
+    "episode": 68,
+    "title": "外国的月亮更圆吗？",
+    "mood": "轻松一刻",
+    "summary": "无双坐在屋顶看月亮，辛普森前来搭话，把荒唐的话说得一本正经。",
+    "note": "无双坐着看月亮，辛普森带着文明棍上来搭话。",
+    "people": [
+      {
+        "id": "wushuang",
+        "name": "祝无双",
+        "x": 43,
+        "hipY": 41,
+        "h": 24,
+        "flip": false,
+        "text": "无双坐在屋顶看月亮，听辛普森谈他口中的见闻。"
+      },
+      {
+        "id": "simpson",
+        "name": "辛普森",
+        "x": 57,
+        "hipY": 41,
+        "h": 35,
+        "flip": false,
+        "text": "辛普森带着文明棍上屋顶，向坐着看月亮的无双搭话。他穿黑色西装、白衬衫和领结。",
+        "poseKey": "simpson-cane",
+        "feetY": 52
+      }
+    ],
+    "source": {
+      "label": "第68集分场台词 · 房顶夜",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/863396.html"
+    },
+    "locationEvidence": "分场整理650—652行为无双坐房顶、辛普森拎文明棍上来；选初到搭话的一刻。黑西装以角色标注剧照核对，撤销此前蓝灰长衫参照。",
+    "actionReview": {
+      "status": "修正",
+      "basis": "补文明棍，换黑西装与正确人脸，选择上屋顶搭话阶段，撤下无依据的空手坐姿。",
+      "phase": "无双坐着、辛普森持杖到来"
+    }
+  }
+]

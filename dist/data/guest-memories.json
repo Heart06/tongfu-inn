@@ -1,0 +1,1394 @@
+[
+  {
+    "id": "furong-search",
+    "episode": 1,
+    "guest": "郭芙蓉",
+    "guests": [],
+    "title": "这间房里有机关吗？",
+    "summary": "小郭误以为同福客栈是黑店，住进客房后，关上门四处寻找机关。",
+    "detail": "佟掌柜带初来的小郭上楼，客气地问来处、问姓名。掌柜离开后，小郭关门查找所谓的黑店机关；她还不知道，自己很快会成为这间客栈里的一员。",
+    "source": {
+      "label": "央视网 · 第1集",
+      "url": "https://tv.cctv.com/2014/07/27/VIDE1406399770522952.shtml"
+    },
+    "storyId": "guest-furong-search",
+    "cast": [
+      {
+        "id": "furong",
+        "name": "郭芙蓉",
+        "x": 27,
+        "y": 61,
+        "h": 30.07,
+        "actionKey": "furong-search",
+        "actionText": "小郭走到窗边四下查看，想从房里的陈设找出她认定的黑店机关。",
+        "actionLabel": "四下寻找机关",
+        "flip": false,
+        "zone": "floor",
+        "artRatio": 0.5,
+        "stance": "standing"
+      }
+    ],
+    "referencePhotos": [
+      {
+        "name": "初来客栈的郭芙蓉",
+        "image": "assets/hall-references/arrival-xhs.webp",
+        "sourceUrl": "https://www.xiaohongshu.com/explore/69ce9f7f00000000210128d1?xsec_token=ABXjr_hydlI1bdgZqRLOhsP9vVArBOTiASkcp7mbtRpHk=&xsec_source=pc_search&source=web_search_result_notes",
+        "caption": "第1集造型参照：蓝灰衣、深色领缘与半束发；画面为原剧截图拼图。"
+      }
+    ],
+    "mode": "scene",
+    "sceneNote": "初来的小郭，在房里四下查看",
+    "chapter": "来来往往",
+    "stagingType": "episode-context",
+    "props": [],
+    "locationEvidence": "第1集，初来者客房查找机关；具体走位为地图适配。",
+    "locationSource": {
+      "label": "央视网 · 第1集",
+      "url": "https://tv.cctv.com/2014/07/27/VIDE1406399770522952.shtml"
+    },
+    "scaleReview": {
+      "version": 76,
+      "basis": "以中央茶桌、圆凳座面、后墙木榻和房门为场景尺度参照；站姿随地面纵向位置调整，坐姿按座面与脚底分别对齐。",
+      "scope": "家具比例与落点校准，不改变原剧剧情、服装或动作素材。"
+    }
+  },
+  {
+    "id": "guest-mother-emperor",
+    "episode": 4,
+    "guest": "大嘴娘",
+    "guests": [
+      "大嘴娘"
+    ],
+    "title": "假皇上也劝不走",
+    "summary": "大家仍穿着日常衣服，陪大嘴演起皇上、尚书的戏，老太太却坚持要留在京城。",
+    "detail": "大家仍穿着日常衣服，陪大嘴演起皇上、尚书的戏，老太太却坚持要留在京城。",
+    "source": {
+      "label": "CCTV电视剧 · 第4集",
+      "url": "https://www.youtube.com/watch?v=QoFuWAO3JUY"
+    },
+    "storyId": "guest-mother-emperor",
+    "sceneImage": "assets/guest-mother-emperor-v01.webp",
+    "cast": [
+      {
+        "id": "duanzhixuanyuan",
+        "name": "大嘴娘",
+        "x": 51,
+        "y": 46,
+        "h": 20,
+        "actionLabel": "坚持留在京城",
+        "actionText": "大家仍穿着日常衣服，陪大嘴演起皇上、尚书的戏，老太太却坚持要留在京城。"
+      },
+      {
+        "id": "dazui",
+        "name": "李大嘴",
+        "x": 42,
+        "y": 48,
+        "h": 23,
+        "actionLabel": "陪在母亲身边",
+        "actionText": "大家仍穿着日常衣服，陪大嘴演起皇上、尚书的戏，老太太却坚持要留在京城。"
+      },
+      {
+        "id": "xiangyu",
+        "name": "佟湘玉",
+        "x": 59,
+        "y": 62,
+        "h": 25,
+        "actionLabel": "坐着配合演戏",
+        "actionText": "大家仍穿着日常衣服，陪大嘴演起皇上、尚书的戏，老太太却坚持要留在京城。"
+      },
+      {
+        "id": "xiucai",
+        "name": "吕秀才",
+        "x": 66,
+        "y": 59,
+        "h": 33,
+        "actionLabel": "变换嗓音扮皇上",
+        "actionText": "大家仍穿着日常衣服，陪大嘴演起皇上、尚书的戏，老太太却坚持要留在京城。"
+      },
+      {
+        "id": "zhantang",
+        "name": "白展堂",
+        "x": 72,
+        "y": 67,
+        "h": 38,
+        "actionLabel": "帮忙把戏接下去",
+        "actionText": "大家仍穿着日常衣服，陪大嘴演起皇上、尚书的戏，老太太却坚持要留在京城。"
+      }
+    ],
+    "referencePhotos": [
+      {
+        "name": "第4集 · 假皇上也劝不走",
+        "image": "assets/mother-references/ep04-802.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/04/04_0802_%E8%8D%89%E6%B0%91%E6%9D%8E%E6%B0%8F%E5%8F%A9%E8%A7%81%E7%9A%87%E4%B8%8A.jpg",
+        "caption": "对应剧集原画面：人物衣着、动作与相对位置以本图为准。"
+      }
+    ],
+    "mode": "scene",
+    "sceneNote": "大家仍穿着日常衣服，陪大嘴演起皇上、尚书的戏，老太太却坚持要留在京城。",
+    "chapter": "来来往往",
+    "stagingType": "episode-map-composition",
+    "props": [],
+    "locationEvidence": "第4集客房镜头，原图直接展示本场人物。"
+  },
+  {
+    "id": "guest-mother-truth",
+    "episode": 4,
+    "guest": "大嘴娘",
+    "guests": [
+      "大嘴娘"
+    ],
+    "title": "娘早就看穿了",
+    "summary": "旁人退出客房，老太太揭穿儿子的谎话。她知道大嘴孝顺，却更怕他为了哄自己而学坏。",
+    "detail": "旁人退出客房，老太太揭穿儿子的谎话。她知道大嘴孝顺，却更怕他为了哄自己而学坏。",
+    "source": {
+      "label": "CCTV电视剧 · 第4集",
+      "url": "https://www.youtube.com/watch?v=QoFuWAO3JUY"
+    },
+    "storyId": "guest-mother-truth",
+    "sceneImage": "assets/guest-mother-truth-v01.webp",
+    "cast": [
+      {
+        "id": "dazui",
+        "name": "李大嘴",
+        "x": 41,
+        "y": 51,
+        "h": 22,
+        "actionLabel": "捂着脸听母亲训诫",
+        "actionText": "旁人退出客房，老太太揭穿儿子的谎话。她知道大嘴孝顺，却更怕他为了哄自己而学坏。"
+      },
+      {
+        "id": "duanzhixuanyuan",
+        "name": "大嘴娘",
+        "x": 48.5,
+        "y": 45,
+        "h": 21,
+        "actionLabel": "说破儿子的谎话",
+        "actionText": "旁人退出客房，老太太揭穿儿子的谎话。她知道大嘴孝顺，却更怕他为了哄自己而学坏。"
+      }
+    ],
+    "referencePhotos": [
+      {
+        "name": "第4集 · 娘早就看穿了",
+        "image": "assets/mother-references/ep04-1056.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/04/04_1056_%E5%A8%98%E4%BD%A0%E4%BD%A0%E5%B9%B2%E5%90%97%E6%89%93%E6%88%91%E5%91%80.jpg",
+        "caption": "对应剧集原画面：人物衣着、动作与相对位置以本图为准。"
+      }
+    ],
+    "mode": "scene",
+    "sceneNote": "旁人退出客房，老太太揭穿儿子的谎话。她知道大嘴孝顺，却更怕他为了哄自己而学坏。",
+    "chapter": "来来往往",
+    "stagingType": "episode-map-composition",
+    "props": [],
+    "locationEvidence": "第4集客房镜头，原图直接展示本场人物。"
+  },
+  {
+    "id": "murongyan",
+    "episode": 5,
+    "guest": "慕容嫣",
+    "guests": [
+      "慕容嫣"
+    ],
+    "title": "想进六扇门的姑娘",
+    "summary": "慕容嫣一心想进六扇门，老白的盗圣身份，也成了这位来客追问的秘密。",
+    "detail": "少女慕容嫣来到客栈，希望靠抓住盗圣进入六扇门。老白为应对她的追问，讲起与展红绫有关的往事。",
+    "source": {
+      "label": "央视网 · 第5集",
+      "url": "https://tv.cctv.com/2014/07/27/VIDE1406404801863685.shtml"
+    },
+    "storyId": "guest-murongyan",
+    "cast": [
+      {
+        "id": "murongyan",
+        "name": "慕容嫣",
+        "x": 63,
+        "y": 61,
+        "image": "assets/murongyan-idle-unified-v03.webp",
+        "h": 30.07,
+        "actionLabel": "追问盗圣",
+        "actionText": "慕容嫣站在茶桌右侧，抬手追问老白的身份。",
+        "actionKey": "murongyan-question",
+        "flip": false,
+        "zone": "floor",
+        "artRatio": 0.425595,
+        "stance": "standing"
+      },
+      {
+        "id": "zhantang",
+        "name": "白展堂",
+        "x": 36,
+        "y": 61,
+        "h": 30.07,
+        "actionLabel": "抬手应对",
+        "actionText": "老白在茶桌另一侧抬手接话，试着应付这位想进六扇门的姑娘。",
+        "actionKey": "zhantang-greet",
+        "flip": true,
+        "zone": "floor",
+        "stance": "standing"
+      }
+    ],
+    "referencePhotos": [
+      {
+        "name": "慕容嫣",
+        "image": "assets/guest-references/murongyan-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "紫红外衣、浅粉交领、齐刘海与小发饰。"
+      }
+    ],
+    "mode": "scene",
+    "sceneNote": "茶桌边的追问",
+    "chapter": "来来往往",
+    "stagingType": "episode-context",
+    "props": [],
+    "locationEvidence": "客房日：慕容嫣与老白谈盗圣、展红绫与六扇门。",
+    "locationSource": {
+      "label": "分场台词地点复核",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842124.html"
+    },
+    "scaleReview": {
+      "version": 76,
+      "basis": "以中央茶桌、圆凳座面、后墙木榻和房门为场景尺度参照；站姿随地面纵向位置调整，坐姿按座面与脚底分别对齐。",
+      "scope": "家具比例与落点校准，不改变原剧剧情、服装或动作素材。"
+    }
+  },
+  {
+    "id": "huilan",
+    "episode": 6,
+    "guest": "杨蕙兰",
+    "title": "敲门问一声",
+    "summary": "蕙兰住进楼上客房，大嘴敲门进来，殷勤询问还有什么吩咐。",
+    "storyId": "guest-huilan-first",
+    "cast": [
+      {
+        "id": "huilan",
+        "name": "杨蕙兰",
+        "x": 30,
+        "y": 60,
+        "image": "assets/huilan-idle-unified-v03.webp",
+        "h": 29.76,
+        "actionLabel": "回应问话",
+        "actionText": "蕙兰回应进房的大嘴。随后，同行的假老爹提出要洗脚水。",
+        "flip": false,
+        "zone": "floor",
+        "artRatio": 0.431548,
+        "stance": "standing",
+        "imageFrame": {
+          "atlasWidth": 145,
+          "atlasHeight": 336,
+          "x": 8,
+          "y": 8,
+          "width": 129,
+          "height": 320
+        }
+      },
+      {
+        "id": "dazui",
+        "name": "李大嘴",
+        "x": 70,
+        "y": 66,
+        "h": 31.67,
+        "actionLabel": "进房问候",
+        "actionText": "大嘴敲门进房，询问还有什么吩咐；这时并没有端茶。",
+        "flip": true,
+        "zone": "floor",
+        "image": "assets/dazui-idle-unified-v03.webp",
+        "stance": "standing",
+        "imageFrame": {
+          "atlasWidth": 180,
+          "atlasHeight": 345,
+          "x": 8,
+          "y": 8,
+          "width": 164,
+          "height": 329
+        }
+      }
+    ],
+    "source": {
+      "label": "央视网 · 第6集",
+      "url": "https://tv.cctv.com/v/v4/VIDE1406407524783900.html"
+    },
+    "detail": "杨蕙兰带着雇来的假老爹比武招亲。大嘴想赢得她的青睐，与老白想过办法，结果小郭意外胜出。客栈里的一次相遇，成了大嘴此后反复牵挂的开端。",
+    "guests": [
+      "杨蕙兰"
+    ],
+    "referencePhotos": [
+      {
+        "image": "assets/guest-references/huilan.jpg",
+        "name": "杨蕙兰",
+        "sourceUrl": "https://cj.sina.com.cn/articles/view/7507435327/1bf7a5f3f00100xstq",
+        "caption": "紫红缀片外衣、深色交领与半束发。"
+      }
+    ],
+    "mode": "scene",
+    "sceneNote": "大嘴敲门进房，询问有何吩咐",
+    "chapter": "初来客栈",
+    "stagingType": "episode-context",
+    "props": [],
+    "locationEvidence": "楼上客房：大嘴敲门问吩咐，随后假老爹要洗脚水。",
+    "locationSource": {
+      "label": "分场台词地点复核",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842132.html"
+    },
+    "scaleReview": {
+      "version": 76,
+      "basis": "以中央茶桌、圆凳座面、后墙木榻和房门为场景尺度参照；站姿随地面纵向位置调整，坐姿按座面与脚底分别对齐。",
+      "scope": "家具比例与落点校准，不改变原剧剧情、服装或动作素材。"
+    }
+  },
+  {
+    "id": "reading-jokes",
+    "episode": 13,
+    "guest": "佟湘玉、白展堂",
+    "guests": [
+      "佟湘玉",
+      "白展堂"
+    ],
+    "title": "楼上传来的笑声",
+    "summary": "老白伤了手，掌柜拿来笑话读给他听；楼上的笑声，又搅动了楼下的日常。",
+    "detail": "老白手受伤后，掌柜细心照顾，还读笑话逗他开心。楼上的笑声让小郭和秀才忍不住较劲，大嘴也卷入其中。这段往事记录的是客栈里的照顾与陪伴。",
+    "source": {
+      "label": "央视网 · 第13集",
+      "url": "https://tv.cctv.com/2014/07/28/VIDE1406495535995507.shtml"
+    },
+    "storyId": "guest-reading-jokes",
+    "cast": [
+      {
+        "id": "zhantang",
+        "name": "白展堂",
+        "x": 49,
+        "y": 39.5,
+        "h": 15.5,
+        "actionLabel": "包着手倚枕休息",
+        "actionText": "老白包着受伤的手，倚在窗下床榻的枕头上，听掌柜读笑话。",
+        "actionKey": "zhantang-injured",
+        "flip": false,
+        "zone": "bed",
+        "stance": "reclining"
+      },
+      {
+        "id": "xiangyu",
+        "name": "佟湘玉",
+        "x": 60.5,
+        "y": 58,
+        "h": 22.5,
+        "actionLabel": "坐着读笑话",
+        "actionText": "掌柜坐在床榻右侧的小凳上，翻着书念笑话，想逗受伤的老白开心。",
+        "actionKey": "xiangyu-reading",
+        "flip": true,
+        "zone": "bedside",
+        "stance": "seated"
+      }
+    ],
+    "referencePhotos": [],
+    "mode": "scene",
+    "sceneNote": "床榻上养伤，床边读笑话",
+    "chapter": "客栈日常",
+    "stagingType": "episode-context",
+    "props": [],
+    "locationEvidence": "客房日：老白养伤，掌柜取《笑林广记》讲笑话。",
+    "locationSource": {
+      "label": "分场台词地点复核",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842189.html"
+    },
+    "scaleReview": {
+      "version": 76,
+      "basis": "以中央茶桌、圆凳座面、后墙木榻和房门为场景尺度参照；站姿随地面纵向位置调整，坐姿按座面与脚底分别对齐。",
+      "scope": "家具比例与落点校准，不改变原剧剧情、服装或动作素材。"
+    }
+  },
+  {
+    "id": "baimei-stay",
+    "episode": 24,
+    "guest": "白眉",
+    "guests": [
+      "白眉"
+    ],
+    "title": "姻缘为何要五十两？",
+    "summary": "掌柜到客房请白眉算姻缘，所谓破解命数，竟要先交五十两。",
+    "detail": "掌柜在客房里求问姻缘，白眉以命数吓唬她，声称要花五十两才能化解。老白随后设法拆穿骗局。",
+    "source": {
+      "label": "央视网 · 第24集",
+      "url": "https://tv.cctv.com/2014/07/30/VIDE1406672662507602.shtml"
+    },
+    "storyId": "guest-baimei-stay",
+    "cast": [
+      {
+        "id": "baimei",
+        "name": "白眉",
+        "x": 37,
+        "y": 57.8,
+        "h": 22.5,
+        "actionKey": "baimei-rest",
+        "actionText": "白眉以所谓命数唬人，把掌柜的担忧变成索钱的借口。",
+        "actionLabel": "开价五十两",
+        "flip": true,
+        "zone": "floor",
+        "artRatio": 0.5,
+        "stance": "seated"
+      },
+      {
+        "id": "xiangyu",
+        "name": "佟湘玉",
+        "x": 64,
+        "y": 62,
+        "h": 30.39,
+        "flip": true,
+        "zone": "floor",
+        "image": "assets/xiangyu-idle-unified-v03.webp",
+        "actionLabel": "求问姻缘",
+        "actionText": "掌柜前来问姻缘，却被白眉的话吓住。",
+        "stance": "standing",
+        "imageFrame": {
+          "atlasWidth": 136,
+          "atlasHeight": 336,
+          "x": 8,
+          "y": 8,
+          "width": 120,
+          "height": 320
+        }
+      }
+    ],
+    "referencePhotos": [
+      {
+        "name": "白眉",
+        "image": "assets/guest-references/baimei-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "林永健饰：浅绿布帽、灰袍、宽浅灰领缘与灰白山羊胡。"
+      }
+    ],
+    "mode": "scene",
+    "sceneNote": "掌柜求问姻缘，白眉开口要钱",
+    "chapter": "来来往往",
+    "stagingType": "episode-context",
+    "props": [],
+    "locationEvidence": "客房夜：掌柜问姻缘，白眉以命数为由索要五十两。",
+    "locationSource": {
+      "label": "分场台词地点复核",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842267.html"
+    },
+    "scaleReview": {
+      "version": 76,
+      "basis": "以中央茶桌、圆凳座面、后墙木榻和房门为场景尺度参照；站姿随地面纵向位置调整，坐姿按座面与脚底分别对齐。",
+      "scope": "家具比例与落点校准，不改变原剧剧情、服装或动作素材。"
+    }
+  },
+  {
+    "id": "huilan-knives",
+    "episode": 41,
+    "guest": "杨蕙兰",
+    "guests": [
+      "杨蕙兰"
+    ],
+    "title": "菜刀门的生意",
+    "summary": "掌柜和大嘴来到蕙兰房里，听她解释买菜刀、入门派的所谓待遇。",
+    "detail": "久别重逢之后，大嘴的期待落在蕙兰带来的菜刀生意上。从第6集的比武招亲到这次重逢，大嘴仍惦记着她，来客却有了新的打算。",
+    "source": {
+      "label": "央视网 · 第41集",
+      "url": "https://tv.cctv.com/2014/08/02/VIDE1406923573119896.shtml"
+    },
+    "storyId": "guest-huilan-knives",
+    "cast": [
+      {
+        "id": "huilan",
+        "name": "杨蕙兰",
+        "x": 60.2,
+        "y": 58.1,
+        "image": "assets/huilan-idle-unified-v03.webp",
+        "h": 22,
+        "actionLabel": "介绍菜刀生意",
+        "actionText": "蕙兰在房里向两人介绍菜刀与入门派的待遇。",
+        "actionKey": "huilan-bundle",
+        "flip": false,
+        "zone": "table-right-seat",
+        "artRatio": 0.431548,
+        "stance": "seated"
+      },
+      {
+        "id": "dazui",
+        "name": "李大嘴",
+        "x": 72,
+        "y": 67,
+        "h": 31.99,
+        "actionLabel": "追问入门待遇",
+        "actionText": "大嘴跟着掌柜进房，听到所谓待遇后越发心动。",
+        "flip": true,
+        "zone": "floor",
+        "image": "assets/dazui-idle-unified-v03.webp",
+        "stance": "standing",
+        "imageFrame": {
+          "atlasWidth": 180,
+          "atlasHeight": 345,
+          "x": 8,
+          "y": 8,
+          "width": 164,
+          "height": 329
+        }
+      },
+      {
+        "id": "xiangyu",
+        "name": "佟湘玉",
+        "x": 33,
+        "y": 54,
+        "h": 27.84,
+        "flip": true,
+        "zone": "floor",
+        "image": "assets/xiangyu-idle-unified-v03.webp",
+        "actionLabel": "追问刀价",
+        "actionText": "掌柜来帮大嘴参谋，追问刀价与入门派的条件。",
+        "stance": "standing",
+        "imageFrame": {
+          "atlasWidth": 136,
+          "atlasHeight": 336,
+          "x": 8,
+          "y": 8,
+          "width": 120,
+          "height": 320
+        }
+      }
+    ],
+    "referencePhotos": [
+      {
+        "image": "assets/guest-references/huilan.jpg",
+        "name": "杨蕙兰",
+        "sourceUrl": "https://cj.sina.com.cn/articles/view/7507435327/1bf7a5f3f00100xstq",
+        "caption": "紫红缀片外衣、深色交领与半束发。"
+      }
+    ],
+    "mode": "scene",
+    "sceneNote": "蕙兰谈菜刀，掌柜和大嘴一同听",
+    "chapter": "熟人重逢",
+    "stagingType": "episode-context",
+    "props": [],
+    "locationEvidence": "蕙兰房里：掌柜、大嘴听蕙兰说明菜刀与入门待遇。",
+    "locationSource": {
+      "label": "分场台词地点复核",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842369.html"
+    },
+    "scaleReview": {
+      "version": 76,
+      "basis": "以中央茶桌、圆凳座面、后墙木榻和房门为场景尺度参照；站姿随地面纵向位置调整，坐姿按座面与脚底分别对齐。",
+      "scope": "家具比例与落点校准，不改变原剧剧情、服装或动作素材。"
+    }
+  },
+  {
+    "id": "baisanniang",
+    "episode": 43,
+    "guest": "白三娘",
+    "guests": [
+      "白三娘"
+    ],
+    "title": "娘亲带来的新衣",
+    "summary": "客房里，白三娘缝着衣服，叫趴在桌上睡觉的儿子试试新衣。",
+    "detail": "白三娘在客房里缝衣服，老白趴在桌上睡着。她叫儿子起来试夜行衣，母子间的日常先于后来的一连串考验。",
+    "source": {
+      "label": "央视网 · 第43集",
+      "url": "https://tv.cctv.com/2014/08/02/VIDE1406930601214587.shtml"
+    },
+    "storyId": "guest-baisanniang",
+    "cast": [
+      {
+        "id": "baisanniang",
+        "name": "白三娘",
+        "x": 42.3,
+        "y": 57.6,
+        "image": "assets/baisanniang-idle-unified-v03.webp",
+        "h": 22,
+        "actionLabel": "招呼儿子试衣",
+        "actionText": "白三娘叫儿子起来，试试她准备的新衣。",
+        "actionKey": "baisanniang-seated",
+        "flip": false,
+        "zone": "table-left-seat",
+        "artRatio": 0.419643,
+        "stance": "seated"
+      },
+      {
+        "id": "zhantang",
+        "name": "白展堂",
+        "x": 62,
+        "y": 61,
+        "h": 30.07,
+        "actionLabel": "听母亲招呼",
+        "actionText": "老白被母亲叫起来，听她招呼自己试衣。",
+        "actionKey": "zhantang-greet",
+        "flip": false,
+        "zone": "floor",
+        "stance": "standing"
+      }
+    ],
+    "referencePhotos": [
+      {
+        "name": "白三娘",
+        "image": "assets/guest-references/baisanniang-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "深色大格外衣、米色细纹内衫、紫色交领与耳坠。"
+      }
+    ],
+    "mode": "scene",
+    "sceneNote": "母亲叫醒儿子，招呼他试新衣",
+    "chapter": "来来往往",
+    "stagingType": "episode-context",
+    "props": [],
+    "locationEvidence": "开场客房：白三娘缝衣，叫老白起来试衣。",
+    "locationSource": {
+      "label": "分场台词地点复核",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842382.html"
+    },
+    "scaleReview": {
+      "version": 76,
+      "basis": "以中央茶桌、圆凳座面、后墙木榻和房门为场景尺度参照；站姿随地面纵向位置调整，坐姿按座面与脚底分别对齐。",
+      "scope": "家具比例与落点校准，不改变原剧剧情、服装或动作素材。"
+    }
+  },
+  {
+    "id": "bao-arrival",
+    "episode": 53,
+    "guest": "包大仁、展侍卫",
+    "guests": [
+      "包大仁",
+      "展侍卫"
+    ],
+    "title": "惹不起的钦差来客",
+    "summary": "小六与无双误把包大仁和展侍卫拿下，得知来客身份时，麻烦已经上门。",
+    "detail": "无双刚上任，小六订下许多不靠谱的规矩。途经七侠镇的包大仁与随行展堂被二人拿下，随后才发现包大仁是钦差。一个误会，拉开了连续数集的风波。",
+    "source": {
+      "label": "央视网 · 第53集",
+      "url": "https://dianshiju.cctv.com/2010/06/11/VIDE1354532625531950.shtml"
+    },
+    "storyId": "guest-bao-arrival",
+    "cast": [
+      {
+        "id": "baodaren",
+        "name": "包大仁",
+        "x": 37,
+        "y": 59.3,
+        "image": "assets/baodaren-idle-unified-v03.webp",
+        "h": 23.5,
+        "actionLabel": "坐下发话",
+        "actionText": "包大仁坐在茶桌旁，随意挥手，来客身份让众人的接待变得拘谨。",
+        "actionKey": "baodaren-seated",
+        "flip": false,
+        "zone": "table-left-seat",
+        "artRatio": 0.514881,
+        "stance": "seated"
+      },
+      {
+        "id": "zhanshiwei",
+        "name": "展侍卫",
+        "x": 77,
+        "y": 57,
+        "image": "assets/zhanshiwei-idle-unified-v03.webp",
+        "h": 28.8,
+        "actionLabel": "守在门内",
+        "actionText": "展侍卫站在房门内侧，留出进出通路，照看包大仁。",
+        "actionKey": null,
+        "flip": false,
+        "zone": "floor",
+        "artRatio": 0.425595,
+        "stance": "standing",
+        "imageFrame": {
+          "atlasWidth": 143,
+          "atlasHeight": 336,
+          "x": 8,
+          "y": 8,
+          "width": 127,
+          "height": 320
+        }
+      },
+      {
+        "id": "zhantang",
+        "name": "白展堂",
+        "x": 64,
+        "y": 64,
+        "h": 31.03,
+        "flip": true,
+        "zone": "floor",
+        "image": "assets/zhantang-idle-unified-v03.webp",
+        "actionLabel": "上楼招呼",
+        "actionText": "老白把包大仁与展侍卫带到客房，随后被打发出去。",
+        "stance": "standing",
+        "imageFrame": {
+          "atlasWidth": 170,
+          "atlasHeight": 349,
+          "x": 8,
+          "y": 8,
+          "width": 154,
+          "height": 333
+        }
+      }
+    ],
+    "referencePhotos": [
+      {
+        "name": "包大仁",
+        "image": "assets/guest-references/baodaren-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "深蓝帽、浅灰绿条纹外衣、蓝灰内领与胡须。"
+      },
+      {
+        "name": "展侍卫",
+        "image": "assets/guest-references/zhanshiwei-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "棕衣、深色襟边、黑色缠袖与半束长发；此人为展堂，并非白展堂。"
+      }
+    ],
+    "mode": "scene",
+    "sceneNote": "包大仁要了客房，老白上楼招呼",
+    "chapter": "来来往往",
+    "stagingType": "episode-context",
+    "props": [],
+    "locationEvidence": "客房：老白接待包大仁与展侍卫后被赶出。",
+    "locationSource": {
+      "label": "分场台词地点复核",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842444.html"
+    },
+    "scaleReview": {
+      "version": 76,
+      "basis": "以中央茶桌、圆凳座面、后墙木榻和房门为场景尺度参照；站姿随地面纵向位置调整，坐姿按座面与脚底分别对齐。",
+      "scope": "家具比例与落点校准，不改变原剧剧情、服装或动作素材。"
+    }
+  },
+  {
+    "id": "bao-stays",
+    "episode": 54,
+    "guest": "包大仁",
+    "guests": [
+      "包大仁"
+    ],
+    "title": "看住这位钦差",
+    "summary": "客房里，无双看守包大仁；他仍在盘算怎样逃脱。",
+    "detail": "得知买官内情后，众人把包大仁看管起来。无双留在客房看守，他一面试探一面盘算逃走。",
+    "source": {
+      "label": "央视网 · 第54集",
+      "url": "https://dianshiju.cctv.com/2012/12/03/VIDE1354531731309138.shtml"
+    },
+    "storyId": "guest-bao-stays",
+    "cast": [
+      {
+        "id": "baodaren",
+        "name": "包大仁",
+        "x": 37,
+        "y": 59.3,
+        "image": "assets/baodaren-idle-unified-v03.webp",
+        "h": 23.5,
+        "actionLabel": "试探看守",
+        "actionText": "包大仁面对看守自己的无双，仍在找逃脱的机会。",
+        "actionKey": "baodaren-seated",
+        "flip": false,
+        "zone": "table-left-seat",
+        "artRatio": 0.514881,
+        "stance": "seated"
+      },
+      {
+        "id": "wushuang",
+        "name": "祝无双",
+        "x": 64,
+        "y": 61,
+        "h": 30.07,
+        "flip": true,
+        "zone": "floor",
+        "image": "assets/wushuang-idle-unified-v03.webp",
+        "actionLabel": "留房看守",
+        "actionText": "无双看守包大仁，提防他逃跑。",
+        "stance": "standing",
+        "imageFrame": {
+          "atlasWidth": 140,
+          "atlasHeight": 336,
+          "x": 8,
+          "y": 8,
+          "width": 124,
+          "height": 320
+        }
+      }
+    ],
+    "referencePhotos": [
+      {
+        "name": "包大仁",
+        "image": "assets/guest-references/baodaren-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "深蓝帽、浅灰绿条纹外衣、蓝灰内领与胡须。"
+      }
+    ],
+    "mode": "scene",
+    "sceneNote": "无双留在客房看守包大仁",
+    "chapter": "来来往往",
+    "stagingType": "episode-context",
+    "props": [],
+    "locationEvidence": "客房昼：无双看守包大仁。",
+    "locationSource": {
+      "label": "分场台词地点复核",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842450.html"
+    },
+    "scaleReview": {
+      "version": 76,
+      "basis": "以中央茶桌、圆凳座面、后墙木榻和房门为场景尺度参照；站姿随地面纵向位置调整，坐姿按座面与脚底分别对齐。",
+      "scope": "家具比例与落点校准，不改变原剧剧情、服装或动作素材。"
+    }
+  },
+  {
+    "id": "bao-wedding",
+    "episode": 55,
+    "guest": "包大仁",
+    "guests": [
+      "包大仁"
+    ],
+    "title": "书信到底藏在哪儿？",
+    "summary": "客房里，掌柜与小郭劝包大仁交出书信，设法把事情问清。",
+    "detail": "众人寻找包大仁手里的书信。掌柜与小郭留在客房，试着劝他说出实情、交出书信。",
+    "source": {
+      "label": "央视网 · 第55集",
+      "url": "https://dianshiju.cctv.com/2012/12/03/VIDE1354531986326524.shtml"
+    },
+    "storyId": "guest-bao-wedding",
+    "cast": [
+      {
+        "id": "baodaren",
+        "name": "包大仁",
+        "x": 37,
+        "y": 59.3,
+        "image": "assets/baodaren-idle-unified-v03.webp",
+        "h": 23.5,
+        "actionLabel": "应对劝说",
+        "actionText": "包大仁面对掌柜与小郭的劝说，仍不肯轻易交出信。",
+        "actionKey": "baodaren-seated",
+        "flip": false,
+        "zone": "table-left-seat",
+        "artRatio": 0.514881,
+        "stance": "seated"
+      },
+      {
+        "id": "xiangyu",
+        "name": "佟湘玉",
+        "x": 61,
+        "y": 59,
+        "h": 29.44,
+        "actionLabel": "劝他交信",
+        "actionText": "掌柜在房中劝包大仁交出书信。",
+        "actionKey": null,
+        "flip": true,
+        "zone": "floor",
+        "stance": "standing"
+      },
+      {
+        "id": "furong",
+        "name": "郭芙蓉",
+        "x": 73,
+        "y": 65,
+        "h": 31.35,
+        "flip": true,
+        "zone": "floor",
+        "image": "assets/furong-idle-unified-v03.webp",
+        "actionLabel": "在旁劝说",
+        "actionText": "小郭和掌柜一起留在房里，试着让包大仁交信。",
+        "stance": "standing",
+        "imageFrame": {
+          "atlasWidth": 149,
+          "atlasHeight": 336,
+          "x": 8,
+          "y": 8,
+          "width": 133,
+          "height": 320
+        }
+      }
+    ],
+    "referencePhotos": [
+      {
+        "name": "包大仁",
+        "image": "assets/guest-references/baodaren-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "深蓝帽、浅灰绿条纹外衣、蓝灰内领与胡须。"
+      }
+    ],
+    "mode": "scene",
+    "sceneNote": "掌柜和小郭在房内劝包大仁交信",
+    "chapter": "来来往往",
+    "stagingType": "episode-context",
+    "props": [],
+    "locationEvidence": "客房日：掌柜与小郭劝包大仁交信。",
+    "locationSource": {
+      "label": "分场台词地点复核",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842454.html"
+    },
+    "scaleReview": {
+      "version": 76,
+      "basis": "以中央茶桌、圆凳座面、后墙木榻和房门为场景尺度参照；站姿随地面纵向位置调整，坐姿按座面与脚底分别对齐。",
+      "scope": "家具比例与落点校准，不改变原剧剧情、服装或动作素材。"
+    }
+  },
+  {
+    "id": "bao-crisis",
+    "episode": 56,
+    "guest": "包大仁",
+    "guests": [
+      "包大仁"
+    ],
+    "title": "公函来了，他偏不信",
+    "summary": "小六、无双和展侍卫把任命公函拿来，包大仁仍不肯相信自己受骗。",
+    "detail": "次日客房里，小六、无双和展侍卫告诉包大仁：新任礼部侍郎另有其人。他认定自己的任命状可靠，把众人的提醒都当作戏弄。后来殷十三的到来，才让危险变得无法回避。",
+    "source": {
+      "label": "央视网 · 第56集",
+      "url": "https://tv.cctv.com/2014/08/04/VIDE1407103582876341.shtml"
+    },
+    "storyId": "guest-bao-crisis",
+    "cast": [
+      {
+        "id": "baodaren",
+        "name": "包大仁",
+        "x": 37,
+        "y": 59.3,
+        "h": 23.5,
+        "actionKey": "baodaren-seated",
+        "actionText": "包大仁坚持自己的任命状是真的，仍把公函和劝说当作骗局。",
+        "actionLabel": "不肯承认受骗",
+        "flip": false,
+        "zone": "floor",
+        "artRatio": 0.5,
+        "stance": "seated"
+      },
+      {
+        "id": "yan",
+        "name": "燕小六",
+        "x": 70,
+        "y": 69,
+        "h": 32.62,
+        "actionKey": null,
+        "actionText": "小六让包大仁看清新任礼部侍郎的公函，试图让他接受事实。",
+        "actionLabel": "说明公函内容",
+        "flip": true,
+        "zone": "floor",
+        "artRatio": 0.48,
+        "image": "assets/yan-idle-unified-v03.webp",
+        "stance": "standing",
+        "imageFrame": {
+          "atlasWidth": 147,
+          "atlasHeight": 309,
+          "x": 8,
+          "y": 8,
+          "width": 131,
+          "height": 293
+        }
+      },
+      {
+        "id": "wushuang",
+        "name": "祝无双",
+        "x": 60,
+        "y": 51,
+        "h": 26.89,
+        "actionKey": null,
+        "actionText": "无双一同提醒包大仁，公函盖着礼部的印。",
+        "actionLabel": "一同劝说",
+        "flip": true,
+        "zone": "floor",
+        "artRatio": 0.45,
+        "image": "assets/wushuang-idle-unified-v03.webp",
+        "stance": "standing",
+        "imageFrame": {
+          "atlasWidth": 140,
+          "atlasHeight": 336,
+          "x": 8,
+          "y": 8,
+          "width": 124,
+          "height": 320
+        }
+      },
+      {
+        "id": "zhanshiwei",
+        "name": "展侍卫",
+        "x": 77,
+        "y": 57,
+        "h": 28.8,
+        "actionKey": null,
+        "actionText": "展侍卫试图说明，曹公公骗走了包大仁买官的钱。",
+        "actionLabel": "点破买官骗局",
+        "flip": false,
+        "zone": "floor",
+        "artRatio": 0.47,
+        "image": "assets/zhanshiwei-idle-unified-v03.webp",
+        "stance": "standing",
+        "imageFrame": {
+          "atlasWidth": 143,
+          "atlasHeight": 336,
+          "x": 8,
+          "y": 8,
+          "width": 127,
+          "height": 320
+        }
+      }
+    ],
+    "referencePhotos": [
+      {
+        "name": "包大仁",
+        "image": "assets/guest-references/baodaren-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "深蓝帽、浅灰绿条纹外衣、蓝灰内领与胡须。"
+      }
+    ],
+    "mode": "scene",
+    "sceneNote": "任命公函摆到眼前，包大仁仍不肯信",
+    "chapter": "来来往往",
+    "stagingType": "episode-context",
+    "props": [],
+    "locationEvidence": "55—56集承接段落：客房内说明任命公函；网络整理本分集边界不同。",
+    "locationSource": {
+      "label": "分场台词地点复核",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842460.html"
+    },
+    "scaleReview": {
+      "version": 76,
+      "basis": "以中央茶桌、圆凳座面、后墙木榻和房门为场景尺度参照；站姿随地面纵向位置调整，坐姿按座面与脚底分别对齐。",
+      "scope": "家具比例与落点校准，不改变原剧剧情、服装或动作素材。"
+    }
+  },
+  {
+    "id": "yinshisan-arrival",
+    "episode": 56,
+    "guest": "殷十三、包大仁",
+    "guests": [
+      "殷十三"
+    ],
+    "title": "门一推开，来的是刺客",
+    "summary": "殷十三以住店为由上楼，随后推开包大仁的房门，亮明自己来自曹公公一方。",
+    "detail": "殷十三进店询问空房，老白让他自行上楼挑房。他随后找到包大仁，自报身份。包大仁起初还把这场危险当作众人安排的戏码，直到对方真的动手；众人听到楼上声响赶来，老白点住殷十三，才暂时解围。",
+    "source": {
+      "label": "央视网 · 第56集",
+      "url": "https://tv.cctv.com/2014/08/04/VIDE1407103582876341.shtml"
+    },
+    "storyId": "guest-yinshisan-arrival",
+    "cast": [
+      {
+        "id": "baodaren",
+        "name": "包大仁",
+        "x": 37,
+        "y": 59.3,
+        "h": 23.5,
+        "actionKey": "baodaren-seated",
+        "actionText": "包大仁还以为来人只是又一出戏，尚未相信自己真的成了刺杀目标。",
+        "actionLabel": "还没当成真事",
+        "flip": false,
+        "zone": "floor",
+        "artRatio": 0.5,
+        "stance": "seated"
+      },
+      {
+        "id": "yinshisan",
+        "name": "殷十三",
+        "x": 69,
+        "y": 61,
+        "h": 30.07,
+        "actionKey": "yinshisan-confront",
+        "actionText": "殷十三从门口走进，亮明曹公公一方的身份。这里停在两人对峙的一刻。",
+        "actionLabel": "亮明刺客身份",
+        "flip": true,
+        "zone": "floor",
+        "artRatio": 0.5,
+        "stance": "standing"
+      }
+    ],
+    "referencePhotos": [
+      {
+        "name": "殷十三",
+        "image": "assets/guest-references/yinshisan-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "马锐饰：蓝色内衫、土褐交领、细条纹外衣与束起的长发。"
+      },
+      {
+        "name": "包大仁",
+        "image": "assets/guest-references/baodaren-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "深蓝帽、灰绿条纹外衣与胡须。"
+      }
+    ],
+    "mode": "scene",
+    "sceneNote": "包大仁坐在屋里，殷十三推门逼近",
+    "chapter": "来来往往",
+    "stagingType": "episode-context",
+    "props": [],
+    "locationEvidence": "55—56集承接段落：殷十三在客房找上包大仁；网络整理本分集边界不同。",
+    "locationSource": {
+      "label": "分场台词地点复核",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842460.html"
+    },
+    "scaleReview": {
+      "version": 76,
+      "basis": "以中央茶桌、圆凳座面、后墙木榻和房门为场景尺度参照；站姿随地面纵向位置调整，坐姿按座面与脚底分别对齐。",
+      "scope": "家具比例与落点校准，不改变原剧剧情、服装或动作素材。"
+    }
+  },
+  {
+    "id": "role-reversal",
+    "episode": 70,
+    "guest": "赛貂蝉",
+    "guests": [
+      "赛貂蝉"
+    ],
+    "title": "从掌柜到丫环",
+    "summary": "老白帮赛貂蝉把行李搬进客房，问起她与小翠为何身份颠倒。",
+    "detail": "赛貂蝉带着行李上楼，老白帮忙搬进客房。面对老白的询问，她讲起自己如何从掌柜变成小翠的丫环。",
+    "source": {
+      "label": "央视网 · 第70集",
+      "url": "https://tv.cctv.com/2014/08/07/VIDE1407355927001255.shtml"
+    },
+    "storyId": "guest-role-reversal",
+    "cast": [
+      {
+        "id": "saidiao",
+        "name": "赛貂蝉",
+        "x": 63,
+        "y": 61,
+        "h": 30.07,
+        "flip": true,
+        "zone": "floor",
+        "image": "assets/saidiao-idle-unified-v03.webp",
+        "actionLabel": "讲起自己的遭遇",
+        "actionText": "行李搬进房后，赛貂蝉向老白讲起身份颠倒的缘由。",
+        "stance": "standing",
+        "imageFrame": {
+          "atlasWidth": 150,
+          "atlasHeight": 336,
+          "x": 8,
+          "y": 8,
+          "width": 134,
+          "height": 320
+        }
+      },
+      {
+        "id": "zhantang",
+        "name": "白展堂",
+        "x": 36,
+        "y": 61,
+        "h": 30.07,
+        "flip": true,
+        "zone": "floor",
+        "image": "assets/zhantang-idle-unified-v03.webp",
+        "actionLabel": "询问前因后果",
+        "actionText": "老白帮忙把行李搬到客房，问她究竟发生了什么。",
+        "stance": "standing",
+        "imageFrame": {
+          "atlasWidth": 170,
+          "atlasHeight": 349,
+          "x": 8,
+          "y": 8,
+          "width": 154,
+          "height": 333
+        }
+      }
+    ],
+    "referencePhotos": [
+      {
+        "image": "assets/guest-references/saidiao.jpg",
+        "name": "赛貂蝉（右）与小翠（中）",
+        "sourceUrl": "https://www.sohu.com/a/512750797_120099877",
+        "caption": "第70集主仆身份互换：右侧赛貂蝉穿朴素粉褐衣，中间小翠穿橙衣、持团扇。"
+      }
+    ],
+    "mode": "scene",
+    "sceneNote": "搬行李上楼，赛貂蝉讲起自己的遭遇",
+    "chapter": "来来往往",
+    "stagingType": "episode-context",
+    "props": [],
+    "locationEvidence": "客房昼：老白与赛貂蝉搬行李、谈起她的遭遇。",
+    "locationSource": {
+      "label": "分场台词地点复核",
+      "url": "https://m.aipiaxi.com/xj-web/h5/article/170062"
+    },
+    "scaleReview": {
+      "version": 76,
+      "basis": "以中央茶桌、圆凳座面、后墙木榻和房门为场景尺度参照；站姿随地面纵向位置调整，坐姿按座面与脚底分别对齐。",
+      "scope": "家具比例与落点校准，不改变原剧剧情、服装或动作素材。"
+    }
+  },
+  {
+    "id": "huilan-return",
+    "episode": 78,
+    "guest": "杨蕙兰",
+    "guests": [
+      "杨蕙兰"
+    ],
+    "title": "再陪我聊一会儿",
+    "summary": "蕙兰邀大嘴在客房喝酒说话，大嘴却把这次亲近当成感情有了转机。",
+    "detail": "蕙兰回来后，大嘴到客房找她。两人在房里喝酒说话，大嘴的期待越来越深；",
+    "source": {
+      "label": "央视网 · 第78集",
+      "url": "https://tv.cctv.com/2014/08/08/VIDE1407445213526936.shtml"
+    },
+    "storyId": "guest-huilan-return",
+    "cast": [
+      {
+        "id": "huilan",
+        "name": "杨蕙兰",
+        "x": 61,
+        "y": 61,
+        "image": "assets/huilan-idle-unified-v03.webp",
+        "h": 30.07,
+        "actionLabel": "邀大嘴留下说话",
+        "actionText": "蕙兰邀大嘴坐下来陪她说话。",
+        "flip": false,
+        "zone": "floor",
+        "artRatio": 0.431548,
+        "stance": "standing",
+        "imageFrame": {
+          "atlasWidth": 145,
+          "atlasHeight": 336,
+          "x": 8,
+          "y": 8,
+          "width": 129,
+          "height": 320
+        }
+      },
+      {
+        "id": "dazui",
+        "name": "李大嘴",
+        "x": 38,
+        "y": 61,
+        "h": 30.07,
+        "actionLabel": "听她说话",
+        "actionText": "大嘴留在房里听蕙兰说话，把这次相处当成感情的转机。",
+        "flip": true,
+        "zone": "floor",
+        "image": "assets/dazui-idle-unified-v03.webp",
+        "stance": "standing",
+        "imageFrame": {
+          "atlasWidth": 180,
+          "atlasHeight": 345,
+          "x": 8,
+          "y": 8,
+          "width": 164,
+          "height": 329
+        }
+      }
+    ],
+    "referencePhotos": [
+      {
+        "image": "assets/guest-references/huilan.jpg",
+        "name": "杨蕙兰",
+        "sourceUrl": "https://cj.sina.com.cn/articles/view/7507435327/1bf7a5f3f00100xstq",
+        "caption": "紫红缀片外衣、深色交领与半束发。"
+      }
+    ],
+    "mode": "scene",
+    "sceneNote": "客房里的酒后谈话",
+    "chapter": "来来往往",
+    "stagingType": "episode-context",
+    "props": [],
+    "locationEvidence": "客房日、晚：蕙兰与大嘴喝酒谈话。",
+    "locationSource": {
+      "label": "分场台词地点复核",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/863456.html"
+    },
+    "scaleReview": {
+      "version": 76,
+      "basis": "以中央茶桌、圆凳座面、后墙木榻和房门为场景尺度参照；站姿随地面纵向位置调整，坐姿按座面与脚底分别对齐。",
+      "scope": "家具比例与落点校准，不改变原剧剧情、服装或动作素材。"
+    }
+  },
+  {
+    "id": "huilan-farewell",
+    "episode": 79,
+    "guest": "杨蕙兰、杜子俊",
+    "guests": [
+      "杨蕙兰",
+      "杜子俊"
+    ],
+    "title": "别让她东躲西藏",
+    "summary": "蕙兰与杜子俊在房中争执，大嘴推门进来，劝杜子俊别再让她四处躲藏。",
+    "detail": "杜子俊与蕙兰在房内争论母亲与婚姻的问题，众人在门外偷听。大嘴推门进来，劝杜子俊好好对待蕙兰，别让她东躲西藏；说完便知趣离开。",
+    "source": {
+      "label": "央视网 · 第79集",
+      "url": "https://tv.cctv.com/2014/08/08/VIDE1407446657640690.shtml"
+    },
+    "storyId": "guest-huilan-farewell",
+    "cast": [
+      {
+        "id": "huilan",
+        "name": "杨蕙兰",
+        "x": 36,
+        "y": 60,
+        "image": "assets/huilan-idle-unified-v03.webp",
+        "h": 29.76,
+        "actionLabel": "与丈夫争执",
+        "actionText": "蕙兰在房里与丈夫谈起母亲的阻挠，不是临走送别。",
+        "flip": true,
+        "zone": "floor",
+        "artRatio": 0.431548,
+        "stance": "standing",
+        "imageFrame": {
+          "atlasWidth": 145,
+          "atlasHeight": 336,
+          "x": 8,
+          "y": 8,
+          "width": 129,
+          "height": 320
+        }
+      },
+      {
+        "id": "duzijun",
+        "name": "杜子俊",
+        "x": 62,
+        "y": 56,
+        "image": "assets/duzijun-idle-unified-v03.webp",
+        "h": 28.48,
+        "actionLabel": "面对妻子的追问",
+        "actionText": "杜子俊在房中与蕙兰争论，面对她对婚姻与母亲态度的追问。",
+        "flip": false,
+        "zone": "floor",
+        "artRatio": 0.458333,
+        "stance": "standing",
+        "imageFrame": {
+          "atlasWidth": 154,
+          "atlasHeight": 336,
+          "x": 8,
+          "y": 8,
+          "width": 138,
+          "height": 320
+        }
+      },
+      {
+        "id": "dazui",
+        "name": "李大嘴",
+        "x": 77,
+        "y": 65,
+        "h": 31.35,
+        "actionLabel": "进门劝说",
+        "actionText": "大嘴从门口进来，劝杜子俊珍惜蕙兰，不要让她再东躲西藏。",
+        "flip": false,
+        "zone": "floor",
+        "image": "assets/dazui-idle-unified-v03.webp",
+        "stance": "standing",
+        "imageFrame": {
+          "atlasWidth": 180,
+          "atlasHeight": 345,
+          "x": 8,
+          "y": 8,
+          "width": 164,
+          "height": 329
+        }
+      }
+    ],
+    "referencePhotos": [
+      {
+        "image": "assets/guest-references/huilan.jpg",
+        "name": "杨蕙兰",
+        "sourceUrl": "https://cj.sina.com.cn/articles/view/7507435327/1bf7a5f3f00100xstq",
+        "caption": "紫红缀片外衣、深色交领与半束发。"
+      },
+      {
+        "name": "杜子俊",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "原剧杜子俊造型：圆脸、黑金帽饰、黑底团纹外衣和金褐衣袖。",
+        "image": "assets/guest-references/duzijun.jpg"
+      }
+    ],
+    "mode": "scene",
+    "sceneNote": "夫妻在房内争执，大嘴进门劝说",
+    "chapter": "来来往往",
+    "stagingType": "episode-context",
+    "props": [],
+    "locationEvidence": "夫妻换房后：两人在房里争执，大嘴推门进来劝说。",
+    "locationSource": {
+      "label": "分场台词地点复核",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/863466.html"
+    },
+    "scaleReview": {
+      "version": 76,
+      "basis": "以中央茶桌、圆凳座面、后墙木榻和房门为场景尺度参照；站姿随地面纵向位置调整，坐姿按座面与脚底分别对齐。",
+      "scope": "家具比例与落点校准，不改变原剧剧情、服装或动作素材。"
+    }
+  }
+]

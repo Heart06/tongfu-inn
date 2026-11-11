@@ -1,0 +1,5519 @@
+[
+  {
+    "id": "xiangyu",
+    "title": "佟湘玉",
+    "summary": "精打细算、爱护短，放心不下小贝和客栈众人。",
+    "sections": [
+      {
+        "title": "身份与来处",
+        "text": "同福客栈掌柜，莫小贝的嫂子。"
+      },
+      {
+        "title": "性格特点",
+        "text": "精明、重感情，遇到事情会护着身边的人。"
+      },
+      {
+        "title": "缺点与牵挂",
+        "text": "抠门、唠叨、爱面子；操心时容易替别人作决定。"
+      },
+      {
+        "title": "重要关系",
+        "text": "与白展堂相恋；照顾并管束小贝；带着伙计们经营客栈。"
+      },
+      {
+        "title": "代表故事",
+        "text": "第3集：听先生夸奖小贝后放松管束，随后又要处理小贝惹出的麻烦。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "object",
+        "id": "abacus"
+      },
+      {
+        "kind": "relationship",
+        "id": "home"
+      },
+      {
+        "kind": "relationship",
+        "id": "guardian"
+      },
+      {
+        "kind": "relationship",
+        "id": "family"
+      },
+      {
+        "kind": "story",
+        "id": "arrival"
+      },
+      {
+        "kind": "story",
+        "id": "past"
+      },
+      {
+        "kind": "story",
+        "id": "xiaobei-story"
+      },
+      {
+        "kind": "story",
+        "id": "trouble"
+      },
+      {
+        "kind": "story",
+        "id": "ordinary"
+      },
+      {
+        "kind": "story",
+        "id": "help"
+      },
+      {
+        "kind": "story",
+        "id": "midautumn"
+      },
+      {
+        "kind": "story",
+        "id": "guest-huilan-knives"
+      },
+      {
+        "kind": "story",
+        "id": "guest-reading-jokes"
+      },
+      {
+        "kind": "story",
+        "id": "guest-bao-wedding"
+      },
+      {
+        "kind": "story",
+        "id": "hall-floor-night"
+      },
+      {
+        "kind": "story",
+        "id": "guest-baimei-stay"
+      },
+      {
+        "kind": "story",
+        "id": "roof-xiangyu-heart"
+      },
+      {
+        "kind": "story",
+        "id": "yard-world-beautiful"
+      },
+      {
+        "kind": "story",
+        "id": "guest-mother-emperor"
+      },
+      {
+        "kind": "story",
+        "id": "hall-mother-mahjong"
+      },
+      {
+        "kind": "character",
+        "id": "baimei"
+      },
+      {
+        "kind": "character",
+        "id": "baisanniang"
+      },
+      {
+        "kind": "character",
+        "id": "baodaren"
+      },
+      {
+        "kind": "character",
+        "id": "saidiao"
+      },
+      {
+        "kind": "character",
+        "id": "xiaocui"
+      },
+      {
+        "kind": "character",
+        "id": "shiniang"
+      },
+      {
+        "kind": "character",
+        "id": "qian"
+      },
+      {
+        "kind": "character",
+        "id": "qianfuren"
+      },
+      {
+        "kind": "character",
+        "id": "zhuxiansheng"
+      },
+      {
+        "kind": "character",
+        "id": "douxiansheng"
+      },
+      {
+        "kind": "character",
+        "id": "housan"
+      },
+      {
+        "kind": "character",
+        "id": "hanjuan"
+      },
+      {
+        "kind": "character",
+        "id": "laohe"
+      },
+      {
+        "kind": "character",
+        "id": "tongboda"
+      },
+      {
+        "kind": "character",
+        "id": "tongshitou"
+      },
+      {
+        "kind": "character",
+        "id": "jiangxiaodao"
+      },
+      {
+        "kind": "character",
+        "id": "nangongcanhua"
+      },
+      {
+        "kind": "character",
+        "id": "mazhuozi"
+      },
+      {
+        "kind": "character",
+        "id": "jinxiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "xiebudong"
+      },
+      {
+        "kind": "character",
+        "id": "lingtengyun"
+      },
+      {
+        "kind": "character",
+        "id": "mobao"
+      },
+      {
+        "kind": "character",
+        "id": "xiezhongda"
+      },
+      {
+        "kind": "story",
+        "id": "hall-heartvoices"
+      },
+      {
+        "kind": "story",
+        "id": "women-feigned-illness"
+      }
+    ],
+    "role": "同福客栈掌柜",
+    "image": "assets/xiangyu-portrait-unified-v03.webp",
+    "keywords": [
+      "精明",
+      "重感情",
+      "爱操心"
+    ],
+    "core": true,
+    "mapPresence": {
+      "area": "前台",
+      "activity": "在柜台核账",
+      "height": 72,
+      "position": {
+        "x": 42,
+        "y": 41
+      },
+      "atlasWidth": 136,
+      "atlasHeight": 336,
+      "cropX": 8,
+      "cropY": 8,
+      "width": 120,
+      "cropHeight": 320,
+      "image": "assets/xiangyu-idle-unified-v03.webp"
+    },
+    "sources": [
+      {
+        "label": "原剧剧照 · 造型参考",
+        "url": "https://www.gamersky.com/news/202601/2081978.shtml"
+      },
+      {
+        "label": "央视网 · 第5集",
+        "url": "https://tv.cctv.com/2014/07/27/VIDE1406404801863685.shtml"
+      },
+      {
+        "label": "央视网 · 第43集",
+        "url": "https://tv.cctv.com/2014/08/02/VIDE1406930601214587.shtml"
+      },
+      {
+        "label": "央视网 · 第3集",
+        "url": "https://tv.cctv.com/2014/07/27/VIDE1406400852355348.shtml"
+      },
+      {
+        "label": "央视网 · 第54集",
+        "url": "https://tv.cctv.com/2014/08/04/VIDE1407098891952429.shtml"
+      },
+      {
+        "label": "央视网 · 第1集",
+        "url": "https://tv.cctv.com/v/v1/VIDE1406399770522952.html"
+      },
+      {
+        "label": "央视网 · 第32集",
+        "url": "https://tv.cctv.com/2014/07/31/VIDE1406757817353398.shtml"
+      },
+      {
+        "label": "央视网 · 角色介绍与语录",
+        "url": "https://ent.cctv.com/20070618/102738_1.shtml"
+      }
+    ],
+    "costumes": [
+      {
+        "id": "xiangyu-red-apron",
+        "title": "红色条纹衣与格纹围裙",
+        "image": "assets/xiangyu-costume-reference-01.jpeg",
+        "alt": "佟湘玉服装对照：左侧悬挂服装，右侧角色穿着红色条纹衣和格纹围裙。",
+        "caption": "左：服装展示照　右：角色穿着图",
+        "details": [
+          {
+            "label": "外衣与领口",
+            "text": "红色细条纹外衣，短宽袖；蓝灰色交领与深色腰带。"
+          },
+          {
+            "label": "内衫与围裙",
+            "text": "白色碎花长袖与长裙，腰前系红、蓝灰、白色格纹围裙。"
+          },
+          {
+            "label": "发型与配饰",
+            "text": "黑发盘起，侧分并留鬓发；小发饰与垂坠耳饰。"
+          }
+        ],
+        "sourceNote": "图片署名：小红书 27765056799。"
+      }
+    ],
+    "catchphrases": [
+      {
+        "text": "额滴神啊！",
+        "type": "口头禅",
+        "sourceUrl": "https://ent.cctv.com/20070618/102738_1.shtml"
+      },
+      {
+        "text": "额错咧，额真滴错咧……",
+        "type": "招牌台词（节选）",
+        "sourceUrl": "https://ent.cctv.com/20070618/102738_1.shtml"
+      }
+    ],
+    "sceneContexts": {
+      "hall": {
+        "title": "掌柜在柜台",
+        "text": "柜台是客栈收钱、记账的工作区。佟湘玉负责经营，秀才负责记账；账本和算盘都在这里。",
+        "related": [
+          {
+            "kind": "object",
+            "id": "ledger"
+          },
+          {
+            "kind": "object",
+            "id": "abacus"
+          },
+          {
+            "kind": "story",
+            "id": "ordinary"
+          }
+        ]
+      },
+      "roof": {
+        "title": "掌柜在屋顶",
+        "text": "忙完客栈的事，掌柜与老白坐在屋脊上歇一会儿。她牵挂的是客栈里的人，也珍惜有人在身旁的安稳。",
+        "related": [
+          {
+            "kind": "relationship",
+            "id": "home"
+          },
+          {
+            "kind": "story",
+            "id": "midautumn"
+          },
+          {
+            "kind": "story",
+            "id": "ordinary"
+          }
+        ]
+      }
+    },
+    "scenePoses": {
+      "hall": {
+        "image": "assets/xiangyu-hall-unified-v03.webp",
+        "atlasWidth": 152,
+        "atlasHeight": 336,
+        "cropX": 8,
+        "cropY": 8,
+        "width": 136,
+        "cropHeight": 320
+      },
+      "roof": {
+        "image": "assets/xiangyu-roof-unified-v03.webp",
+        "atlasWidth": 172,
+        "atlasHeight": 208,
+        "cropX": 8,
+        "cropY": 8,
+        "width": 156,
+        "cropHeight": 192,
+        "stanceScale": 0.6,
+        "anchorY": 0.72
+      }
+    },
+    "dailyActivities": {
+      "day": {
+        "mapId": "hall",
+        "x": 42,
+        "y": 41,
+        "activity": "抬头迎客，招呼进店",
+        "title": "掌柜白天迎客",
+        "text": "掌柜在柜台后抬头迎客，伸手招呼客人进店。",
+        "pose": {
+          "image": "assets/hall-welcome-atlas-v01.webp",
+          "atlasWidth": 1536,
+          "atlasHeight": 1024,
+          "cropX": 202,
+          "cropY": 19,
+          "width": 426,
+          "cropHeight": 984
+        }
+      },
+      "night": {
+        "mapId": "roof",
+        "x": 44.5,
+        "y": 41,
+        "activity": "与老白并坐聊天",
+        "title": "掌柜夜里歇一会儿",
+        "text": "忙完一天，掌柜与老白坐在屋脊上聊一会儿，享受客栈安静下来的片刻。"
+      }
+    },
+    "portrait": {
+      "image": "assets/portraits-tv/xiangyu.webp",
+      "alt": "闫妮饰演的佟湘玉，原剧剧照",
+      "caption": "佟湘玉 · 闫妮 饰",
+      "sourceUrl": "https://www.gamersky.com/news/202601/2081978.shtml",
+      "sourceLabel": "剧照来源：游民星空",
+      "kind": "原剧剧照"
+    },
+    "archiveGroup": "同福六人"
+  },
+  {
+    "id": "zhantang",
+    "title": "白展堂",
+    "summary": "曾是盗圣，如今想守住客栈里的安稳日子。",
+    "sections": [
+      {
+        "title": "身份与来处",
+        "text": "同福客栈跑堂，曾以“盗圣”的身份行走江湖。"
+      },
+      {
+        "title": "性格特点",
+        "text": "机灵、嘴贫，关键时刻会出手帮同伴。"
+      },
+      {
+        "title": "缺点与牵挂",
+        "text": "惜命、怕麻烦，尤其担心旧身份暴露。"
+      },
+      {
+        "title": "重要关系",
+        "text": "与佟湘玉相恋；与展红绫有一段旧事；祝无双是他的同门师妹。"
+      },
+      {
+        "title": "代表故事",
+        "text": "第5集：身份被识破，讲起与展红绫有关的往事。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "object",
+        "id": "wine"
+      },
+      {
+        "kind": "relationship",
+        "id": "home"
+      },
+      {
+        "kind": "relationship",
+        "id": "old-love"
+      },
+      {
+        "kind": "relationship",
+        "id": "family"
+      },
+      {
+        "kind": "story",
+        "id": "arrival"
+      },
+      {
+        "kind": "story",
+        "id": "scholar"
+      },
+      {
+        "kind": "story",
+        "id": "past"
+      },
+      {
+        "kind": "story",
+        "id": "huilan-story"
+      },
+      {
+        "kind": "story",
+        "id": "trouble"
+      },
+      {
+        "kind": "story",
+        "id": "ordinary"
+      },
+      {
+        "kind": "story",
+        "id": "midautumn"
+      },
+      {
+        "kind": "story",
+        "id": "guest-shiniang"
+      },
+      {
+        "kind": "story",
+        "id": "guest-role-reversal"
+      },
+      {
+        "kind": "story",
+        "id": "guest-murongyan"
+      },
+      {
+        "kind": "story",
+        "id": "guest-reading-jokes"
+      },
+      {
+        "kind": "story",
+        "id": "guest-baisanniang"
+      },
+      {
+        "kind": "story",
+        "id": "guest-bao-arrival"
+      },
+      {
+        "kind": "story",
+        "id": "hall-floor-night"
+      },
+      {
+        "kind": "story",
+        "id": "yard-world-beautiful"
+      },
+      {
+        "kind": "story",
+        "id": "guest-mother-emperor"
+      },
+      {
+        "kind": "story",
+        "id": "hall-mother-mahjong"
+      },
+      {
+        "kind": "character",
+        "id": "hongling"
+      },
+      {
+        "kind": "character",
+        "id": "jiwuming"
+      },
+      {
+        "kind": "character",
+        "id": "murongyan"
+      },
+      {
+        "kind": "character",
+        "id": "baimei"
+      },
+      {
+        "kind": "character",
+        "id": "baisanniang"
+      },
+      {
+        "kind": "character",
+        "id": "shiniang"
+      },
+      {
+        "kind": "character",
+        "id": "yidianhong"
+      },
+      {
+        "kind": "character",
+        "id": "liuxingyu"
+      },
+      {
+        "kind": "character",
+        "id": "leilaowu"
+      },
+      {
+        "kind": "character",
+        "id": "shangguanyundun"
+      },
+      {
+        "kind": "character",
+        "id": "jinyinerlao"
+      },
+      {
+        "kind": "character",
+        "id": "jiwubing"
+      },
+      {
+        "kind": "character",
+        "id": "yuesongtao"
+      },
+      {
+        "kind": "character",
+        "id": "tongboda"
+      },
+      {
+        "kind": "character",
+        "id": "zhuifeng"
+      },
+      {
+        "kind": "character",
+        "id": "wushouyi"
+      },
+      {
+        "kind": "character",
+        "id": "jiangxiaodao"
+      },
+      {
+        "kind": "character",
+        "id": "nangongcanhua"
+      },
+      {
+        "kind": "character",
+        "id": "mazhuozi"
+      },
+      {
+        "kind": "character",
+        "id": "jinxiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "lingtengyun"
+      },
+      {
+        "kind": "character",
+        "id": "xiezhongda"
+      },
+      {
+        "kind": "story",
+        "id": "hall-heartvoices"
+      },
+      {
+        "kind": "story",
+        "id": "women-feigned-illness"
+      }
+    ],
+    "role": "同福客栈跑堂，曾经的盗圣",
+    "image": "assets/zhantang-portrait-unified-v03.webp",
+    "keywords": [
+      "机灵",
+      "善良",
+      "圆滑"
+    ],
+    "core": true,
+    "mapPresence": {
+      "area": "主桌旁过道",
+      "activity": "端茶招呼来客",
+      "height": 75,
+      "position": {
+        "x": 38,
+        "y": 63
+      },
+      "atlasWidth": 170,
+      "atlasHeight": 349,
+      "cropX": 8,
+      "cropY": 8,
+      "width": 154,
+      "cropHeight": 333,
+      "image": "assets/zhantang-idle-unified-v03.webp"
+    },
+    "sources": [
+      {
+        "label": "原剧剧照 · 造型参考",
+        "url": "https://www.gamersky.com/news/202601/2081978.shtml"
+      },
+      {
+        "label": "央视网 · 第5集",
+        "url": "https://tv.cctv.com/2014/07/27/VIDE1406404801863685.shtml"
+      },
+      {
+        "label": "央视网 · 第43集",
+        "url": "https://tv.cctv.com/2014/08/02/VIDE1406930601214587.shtml"
+      },
+      {
+        "label": "央视网 · 第54集",
+        "url": "https://tv.cctv.com/2014/08/04/VIDE1407098891952429.shtml"
+      },
+      {
+        "label": "央视网 · 第1集",
+        "url": "https://tv.cctv.com/v/v1/VIDE1406399770522952.html"
+      },
+      {
+        "label": "央视网 · 第29集",
+        "url": "https://dianshiju.cctv.com/2010/06/11/VIDE1354531899946121.shtml"
+      },
+      {
+        "label": "央视网 · 第6集",
+        "url": "https://tv.cctv.com/v/v4/VIDE1406407524783900.html"
+      },
+      {
+        "label": "央视网 ·《影视俱乐部》剧组访谈",
+        "url": "https://www.cntv.cn/program/ysjlb/20060123/101429.shtml"
+      }
+    ],
+    "costumes": [
+      {
+        "id": "zhantang-reference-01",
+        "title": "米白与深色条纹拼接长袍",
+        "image": "assets/zhantang-costume-reference-01.jpeg",
+        "alt": "白展堂服装对照：左侧服装展示照，右侧角色穿着图。",
+        "caption": "左：服装展示照　右：角色穿着图",
+        "details": [
+          {
+            "label": "衣身与领口",
+            "text": "米白色衣片与深色细条纹衣片拼接，交领露出白色内衫。"
+          },
+          {
+            "label": "纹样与袖口",
+            "text": "深色部分有浅色细条纹，条纹随衣片方向转折；两侧袖子颜色不同。"
+          },
+          {
+            "label": "发型",
+            "text": "长发半束，头顶以蓝色布带固定，脸侧留长发。"
+          }
+        ],
+        "sourceNote": "图片署名：小红书 27765056799。"
+      }
+    ],
+    "catchphrases": [
+      {
+        "text": "葵花点穴手！",
+        "type": "招式喊法",
+        "sourceUrl": "https://www.cntv.cn/program/ysjlb/20060123/101429.shtml"
+      }
+    ],
+    "sceneContexts": {
+      "hall": {
+        "title": "老白在大堂",
+        "text": "白展堂是客栈跑堂，招呼来客、端茶上菜是他的日常。这里也能接着看他与掌柜共同生活的故事。",
+        "related": [
+          {
+            "kind": "object",
+            "id": "main-table"
+          },
+          {
+            "kind": "relationship",
+            "id": "home"
+          },
+          {
+            "kind": "story",
+            "id": "past"
+          }
+        ]
+      },
+      "roof": {
+        "title": "老白在屋顶",
+        "text": "放下跑堂的忙碌，老白陪掌柜坐在屋脊上聊一会儿。从旧日江湖到客栈生活，身边的人让“留下来”有了具体的意义。",
+        "related": [
+          {
+            "kind": "relationship",
+            "id": "home"
+          },
+          {
+            "kind": "story",
+            "id": "midautumn"
+          },
+          {
+            "kind": "story",
+            "id": "ordinary"
+          }
+        ]
+      }
+    },
+    "scenePoses": {
+      "hall": {
+        "image": "assets/zhantang-hall-unified-v03.webp",
+        "atlasWidth": 164,
+        "atlasHeight": 349,
+        "cropX": 8,
+        "cropY": 8,
+        "width": 148,
+        "cropHeight": 333
+      },
+      "roof": {
+        "image": "assets/zhantang-roof-unified-v03.webp",
+        "atlasWidth": 211,
+        "atlasHeight": 216,
+        "cropX": 8,
+        "cropY": 8,
+        "width": 195,
+        "cropHeight": 200,
+        "stanceScale": 0.6,
+        "mirror": true,
+        "anchorY": 0.72
+      }
+    },
+    "dailyActivities": {
+      "day": {
+        "mapId": "hall",
+        "x": 38,
+        "y": 63,
+        "activity": "端茶招呼来客",
+        "title": "老白白天跑堂",
+        "text": "端茶、招呼客人，留意大堂里有什么需要帮忙的事。"
+      },
+      "night": {
+        "mapId": "roof",
+        "x": 55.5,
+        "y": 41,
+        "activity": "陪掌柜坐在屋脊上",
+        "title": "老白陪掌柜坐一会儿",
+        "text": "收下跑堂的忙碌，陪掌柜在屋脊上聊聊客栈里的日常。"
+      }
+    },
+    "portrait": {
+      "image": "assets/portraits-tv/zhantang.webp",
+      "alt": "沙溢饰演的白展堂，原剧剧照",
+      "caption": "白展堂 · 沙溢 饰",
+      "sourceUrl": "https://www.gamersky.com/news/202601/2081978.shtml",
+      "sourceLabel": "剧照来源：游民星空",
+      "kind": "原剧剧照"
+    },
+    "archiveGroup": "同福六人"
+  },
+  {
+    "id": "furong",
+    "title": "郭芙蓉",
+    "summary": "想行侠仗义，常常热心有余、判断不足。",
+    "sections": [
+      {
+        "title": "身份与来处",
+        "text": "郭巨侠的女儿。离家闯荡后留在同福客栈做杂役，会武功。"
+      },
+      {
+        "title": "性格特点",
+        "text": "直率、热心，遇到不平的事容易冲在前面。"
+      },
+      {
+        "title": "缺点与牵挂",
+        "text": "脾气急、做事冲动，也急着证明自己的本事。"
+      },
+      {
+        "title": "重要关系",
+        "text": "与吕秀才相恋；与父亲郭巨侠有独立与管束上的冲突；和小贝合住女寝。"
+      },
+      {
+        "title": "代表故事",
+        "text": "第1集：闯江湖来到客栈，随后留下做杂役。第24、31集：与秀才的恋爱、拌嘴和离别。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "object",
+        "id": "broom"
+      },
+      {
+        "kind": "relationship",
+        "id": "couple"
+      },
+      {
+        "kind": "relationship",
+        "id": "father"
+      },
+      {
+        "kind": "relationship",
+        "id": "family"
+      },
+      {
+        "kind": "story",
+        "id": "arrival"
+      },
+      {
+        "kind": "story",
+        "id": "love"
+      },
+      {
+        "kind": "story",
+        "id": "huilan-story"
+      },
+      {
+        "kind": "story",
+        "id": "xiaobei-story"
+      },
+      {
+        "kind": "story",
+        "id": "trouble"
+      },
+      {
+        "kind": "story",
+        "id": "ordinary"
+      },
+      {
+        "kind": "story",
+        "id": "roof-love"
+      },
+      {
+        "kind": "story",
+        "id": "roof-talk"
+      },
+      {
+        "kind": "story",
+        "id": "midautumn"
+      },
+      {
+        "kind": "story",
+        "id": "guest-bao-wedding"
+      },
+      {
+        "kind": "story",
+        "id": "hall-floor-night"
+      },
+      {
+        "kind": "story",
+        "id": "guest-furong-search"
+      },
+      {
+        "kind": "story",
+        "id": "roof-xiangyu-heart"
+      },
+      {
+        "kind": "story",
+        "id": "yard-washing-rope"
+      },
+      {
+        "kind": "story",
+        "id": "yard-onion-apology"
+      },
+      {
+        "kind": "story",
+        "id": "yard-world-beautiful"
+      },
+      {
+        "kind": "character",
+        "id": "guojuxia"
+      },
+      {
+        "kind": "character",
+        "id": "simpson"
+      },
+      {
+        "kind": "character",
+        "id": "xiaoqing"
+      },
+      {
+        "kind": "character",
+        "id": "housan"
+      },
+      {
+        "kind": "character",
+        "id": "shangguanyundun"
+      },
+      {
+        "kind": "character",
+        "id": "jinyinerlao"
+      },
+      {
+        "kind": "character",
+        "id": "zhuifeng"
+      },
+      {
+        "kind": "character",
+        "id": "guoqiangwei"
+      },
+      {
+        "kind": "story",
+        "id": "hall-heartvoices"
+      },
+      {
+        "kind": "story",
+        "id": "women-wait-bai"
+      },
+      {
+        "kind": "story",
+        "id": "women-feigned-illness"
+      }
+    ],
+    "role": "同福客栈杂役，出身名门的侠女",
+    "image": "assets/furong-portrait-unified-v03.webp",
+    "keywords": [
+      "直率",
+      "热心",
+      "冲劲十足"
+    ],
+    "core": true,
+    "mapPresence": {
+      "area": "大堂洒扫区",
+      "activity": "用扫帚洒扫",
+      "height": 72,
+      "position": {
+        "x": 27,
+        "y": 60
+      },
+      "atlasWidth": 149,
+      "atlasHeight": 336,
+      "cropX": 8,
+      "cropY": 8,
+      "width": 133,
+      "cropHeight": 320,
+      "image": "assets/furong-idle-unified-v03.webp"
+    },
+    "sources": [
+      {
+        "label": "原剧剧照 · 造型参考",
+        "url": "https://www.gamersky.com/news/202601/2081978.shtml"
+      },
+      {
+        "label": "央视网 · 第24集",
+        "url": "https://tv.cctv.com/2014/07/30/VIDE1406672662507602.shtml"
+      },
+      {
+        "label": "央视网 · 第31集",
+        "url": "https://tv.cctv.com/2014/07/31/VIDE1406754731484502.shtml"
+      },
+      {
+        "label": "央视网 · 第1集",
+        "url": "https://tv.cctv.com/v/v1/VIDE1406399770522952.html"
+      },
+      {
+        "label": "央视网 · 第67集",
+        "url": "https://tv.cctv.com/2014/08/06/VIDE1407274027080630.shtml"
+      },
+      {
+        "label": "央视网 · 第54集",
+        "url": "https://tv.cctv.com/2014/08/04/VIDE1407098891952429.shtml"
+      },
+      {
+        "label": "央视网 · 第6集",
+        "url": "https://tv.cctv.com/v/v4/VIDE1406407524783900.html"
+      },
+      {
+        "label": "央视网 · 第3集",
+        "url": "https://tv.cctv.com/2014/07/27/VIDE1406400852355348.shtml"
+      },
+      {
+        "label": "央视网 ·《影视俱乐部》剧组访谈",
+        "url": "https://www.cntv.cn/program/ysjlb/20060123/101429.shtml"
+      }
+    ],
+    "costumes": [
+      {
+        "id": "furong-reference-01",
+        "title": "绿衣与紫色交领",
+        "image": "assets/furong-costume-reference-01.jpeg",
+        "alt": "郭芙蓉服装对照：左侧服装展示照，右侧角色穿着图。",
+        "caption": "左：服装展示照　右：角色穿着图",
+        "details": [
+          {
+            "label": "外衣与领口",
+            "text": "绿色外衣配紫色交领与内层衣片，领口露出浅色内衫。"
+          },
+          {
+            "label": "衣料与层次",
+            "text": "外层有细密纵向纹理，长袖垂在身侧；绿色与紫色是主要辨识色。"
+          },
+          {
+            "label": "发型与发饰",
+            "text": "黑色长发半束，发髻旁有棕色毛绒发饰。"
+          }
+        ],
+        "sourceNote": "图片署名：小红书 27765056799。"
+      }
+    ],
+    "catchphrases": [
+      {
+        "text": "排山倒海！",
+        "type": "招式喊法",
+        "sourceUrl": "https://www.cntv.cn/program/ysjlb/20060123/101429.shtml"
+      }
+    ],
+    "sceneContexts": {
+      "hall": {
+        "title": "小郭在大堂",
+        "text": "小郭留在客栈做杂役，洒扫是她的工作之一。从扫帚旁，可以回看她初到客栈的故事。",
+        "related": [
+          {
+            "kind": "object",
+            "id": "broom"
+          },
+          {
+            "kind": "story",
+            "id": "arrival"
+          },
+          {
+            "kind": "relationship",
+            "id": "couple"
+          }
+        ]
+      },
+      "courtyard": {
+        "title": "小郭在后院",
+        "text": "小郭在客栈做杂役，洒扫之外，也会在后院提桶做杂务。",
+        "related": [
+          {
+            "kind": "story",
+            "id": "ordinary"
+          }
+        ]
+      },
+      "women-room": {
+        "title": "小郭在女寝",
+        "text": "小郭与小贝合住女寝。回到房里，她放下扫帚、整理布巾；窗边的玩物和书桌属于两人的日常生活。",
+        "related": [
+          {
+            "kind": "object",
+            "id": "shared-platform"
+          },
+          {
+            "kind": "character",
+            "id": "xiaobei"
+          }
+        ]
+      }
+    },
+    "scenePoses": {
+      "hall": {
+        "image": "assets/furong-hall-unified-v03.webp",
+        "atlasWidth": 192,
+        "atlasHeight": 336,
+        "cropX": 8,
+        "cropY": 8,
+        "width": 176,
+        "cropHeight": 320
+      },
+      "women-room": {
+        "image": "assets/furong-women-room-unified-v03.webp",
+        "atlasWidth": 149,
+        "atlasHeight": 336,
+        "cropX": 8,
+        "cropY": 8,
+        "width": 133,
+        "cropHeight": 320
+      },
+      "courtyard": {
+        "image": "assets/furong-courtyard-unified-v03.webp",
+        "atlasWidth": 160,
+        "atlasHeight": 336,
+        "cropX": 8,
+        "cropY": 8,
+        "width": 144,
+        "cropHeight": 320
+      }
+    },
+    "dailyActivities": {
+      "day": {
+        "mapId": "courtyard",
+        "x": 45,
+        "y": 70,
+        "activity": "在后院提桶干活",
+        "title": "小郭白天在后院",
+        "text": "提桶料理后院的杂活，做事带着小郭一贯的爽利劲儿。"
+      },
+      "night": {
+        "mapId": "women-room",
+        "x": 64,
+        "y": 69,
+        "activity": "叠布巾、陪小贝",
+        "title": "小郭夜里回女寝",
+        "text": "回到与小贝合住的房间，整理布巾，也陪小贝说说话。"
+      }
+    },
+    "portrait": {
+      "image": "assets/portraits-tv/furong.webp",
+      "alt": "姚晨饰演的郭芙蓉，原剧剧照",
+      "caption": "郭芙蓉 · 姚晨 饰",
+      "sourceUrl": "https://www.gamersky.com/news/202601/2081978.shtml",
+      "sourceLabel": "剧照来源：游民星空",
+      "kind": "原剧剧照"
+    },
+    "archiveGroup": "同福六人"
+  },
+  {
+    "id": "xiucai",
+    "title": "吕秀才",
+    "summary": "爱讲道理的书生，危急时也能靠学问顶上。",
+    "sections": [
+      {
+        "title": "身份与来处",
+        "text": "本名吕轻侯，同福客栈账房，不会武功。"
+      },
+      {
+        "title": "性格特点",
+        "text": "温和、认真，遇事习惯从道理和学问入手。"
+      },
+      {
+        "title": "缺点与牵挂",
+        "text": "迂、较真；有时只顾讲道理，忽略对方的心情。"
+      },
+      {
+        "title": "重要关系",
+        "text": "与郭芙蓉相恋；和李大嘴合住男寝；曾与姬无命正面交锋。"
+      },
+      {
+        "title": "代表故事",
+        "text": "第29集：面对姬无命，用学问与语言应对危机。第24、31集：与小郭的感情经历。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "object",
+        "id": "ledger"
+      },
+      {
+        "kind": "relationship",
+        "id": "couple"
+      },
+      {
+        "kind": "relationship",
+        "id": "scholar-ji"
+      },
+      {
+        "kind": "relationship",
+        "id": "family"
+      },
+      {
+        "kind": "story",
+        "id": "scholar"
+      },
+      {
+        "kind": "story",
+        "id": "love"
+      },
+      {
+        "kind": "story",
+        "id": "trouble"
+      },
+      {
+        "kind": "story",
+        "id": "ordinary"
+      },
+      {
+        "kind": "story",
+        "id": "roof-love"
+      },
+      {
+        "kind": "story",
+        "id": "roof-talk"
+      },
+      {
+        "kind": "story",
+        "id": "midautumn"
+      },
+      {
+        "kind": "story",
+        "id": "hall-floor-night"
+      },
+      {
+        "kind": "story",
+        "id": "yard-dragon-palm"
+      },
+      {
+        "kind": "story",
+        "id": "yard-onion-apology"
+      },
+      {
+        "kind": "story",
+        "id": "yard-world-beautiful"
+      },
+      {
+        "kind": "story",
+        "id": "guest-mother-emperor"
+      },
+      {
+        "kind": "character",
+        "id": "jiwuming"
+      },
+      {
+        "kind": "character",
+        "id": "guojuxia"
+      },
+      {
+        "kind": "character",
+        "id": "murongzi"
+      },
+      {
+        "kind": "character",
+        "id": "jiwubing"
+      },
+      {
+        "kind": "character",
+        "id": "gongsunwulong"
+      },
+      {
+        "kind": "character",
+        "id": "jinxiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "laohong"
+      },
+      {
+        "kind": "story",
+        "id": "hall-heartvoices"
+      },
+      {
+        "kind": "story",
+        "id": "women-wait-bai"
+      }
+    ],
+    "role": "同福客栈账房，名吕轻侯",
+    "image": "assets/xiucai-portrait-unified-v03.webp",
+    "keywords": [
+      "温和",
+      "有学问",
+      "爱讲道理"
+    ],
+    "core": true,
+    "mapPresence": {
+      "area": "账房一侧",
+      "activity": "翻书记账",
+      "height": 72,
+      "position": {
+        "x": 56,
+        "y": 44
+      },
+      "atlasWidth": 141,
+      "atlasHeight": 336,
+      "cropX": 8,
+      "cropY": 8,
+      "width": 125,
+      "cropHeight": 320,
+      "image": "assets/xiucai-idle-unified-v03.webp"
+    },
+    "sources": [
+      {
+        "label": "原剧剧照 · 造型参考",
+        "url": "https://www.gamersky.com/news/202601/2081978.shtml"
+      },
+      {
+        "label": "央视网 · 第24集",
+        "url": "https://tv.cctv.com/2014/07/30/VIDE1406672662507602.shtml"
+      },
+      {
+        "label": "央视网 · 第31集",
+        "url": "https://tv.cctv.com/2014/07/31/VIDE1406754731484502.shtml"
+      },
+      {
+        "label": "央视网 · 第29集",
+        "url": "https://dianshiju.cctv.com/2010/06/11/VIDE1354531899946121.shtml"
+      },
+      {
+        "label": "央视网 · 第54集",
+        "url": "https://tv.cctv.com/2014/08/04/VIDE1407098891952429.shtml"
+      },
+      {
+        "label": "央视网 · 经典对话",
+        "url": "https://ent.cctv.com/20070618/102738_3.shtml"
+      }
+    ],
+    "costumes": [
+      {
+        "id": "xiucai-reference-01",
+        "title": "灰袍与黑色腰带",
+        "image": "assets/xiucai-costume-reference-01.jpeg",
+        "alt": "吕秀才服装对照：左侧服装展示照，右侧角色穿着图。",
+        "caption": "左：服装展示照　右：角色穿着图",
+        "details": [
+          {
+            "label": "衣身与领口",
+            "text": "灰色交领长袍，浅色细领边，内衫为米白色。"
+          },
+          {
+            "label": "腰带",
+            "text": "黑色宽腰带束在腰间，衣身没有大块花纹装饰。"
+          },
+          {
+            "label": "发型与发巾",
+            "text": "头顶束髻，用深灰色布带固定，长布巾垂在脑后。"
+          }
+        ],
+        "sourceNote": "图片署名：小红书 27765056799。"
+      }
+    ],
+    "catchphrases": [
+      {
+        "text": "子曾经曰过……",
+        "type": "口头禅",
+        "sourceUrl": "https://ent.cctv.com/20070618/102738_3.shtml"
+      }
+    ],
+    "sceneContexts": {
+      "men-room": {
+        "title": "秀才在男寝",
+        "text": "秀才与大嘴合住男寝，房里有书架和读书桌。第29集，他在客栈面对姬无命，用语言与学问应对危机。",
+        "related": [
+          {
+            "kind": "object",
+            "id": "men-table"
+          },
+          {
+            "kind": "object",
+            "id": "men-bookcase"
+          },
+          {
+            "kind": "story",
+            "id": "scholar"
+          }
+        ]
+      },
+      "hall": {
+        "title": "秀才在大堂记账",
+        "text": "在柜台一侧翻账簿、记账。",
+        "related": [
+          {
+            "kind": "object",
+            "id": "ledger"
+          },
+          {
+            "kind": "object",
+            "id": "abacus"
+          }
+        ]
+      }
+    },
+    "scenePoses": {
+      "men-room": {
+        "image": "assets/xiucai-men-room-unified-v03.webp",
+        "atlasWidth": 138,
+        "atlasHeight": 336,
+        "cropX": 8,
+        "cropY": 8,
+        "width": 122,
+        "cropHeight": 320
+      }
+    },
+    "dailyActivities": {
+      "day": {
+        "mapId": "hall",
+        "x": 56,
+        "y": 44,
+        "activity": "坐着写账，照看账簿",
+        "title": "秀才白天记账",
+        "text": "秀才坐在账房一侧写账，客栈来往的收支由他记下。",
+        "pose": {
+          "image": "assets/hall-welcome-atlas-v01.webp",
+          "atlasWidth": 1536,
+          "atlasHeight": 1024,
+          "cropX": 903,
+          "cropY": 120,
+          "width": 485,
+          "cropHeight": 881,
+          "stanceScale": 0.78
+        }
+      },
+      "night": {
+        "mapId": "men-room",
+        "x": 35,
+        "y": 78,
+        "activity": "挑灯读书",
+        "title": "秀才夜里读书",
+        "text": "夜里回到与大嘴合住的男寝，在读书桌旁捧书阅读。"
+      }
+    },
+    "portrait": {
+      "image": "assets/portraits-tv/xiucai.webp",
+      "alt": "喻恩泰饰演的吕秀才，原剧剧照",
+      "caption": "吕秀才 · 喻恩泰 饰",
+      "sourceUrl": "https://www.gamersky.com/news/202601/2081978.shtml",
+      "sourceLabel": "剧照来源：游民星空",
+      "kind": "原剧剧照"
+    },
+    "archiveGroup": "同福六人"
+  },
+  {
+    "id": "dazui",
+    "title": "李大嘴",
+    "summary": "守着锅灶，也惦记着杨蕙兰。",
+    "sections": [
+      {
+        "title": "身份与来处",
+        "text": "同福客栈厨子，与吕秀才合住男寝。"
+      },
+      {
+        "title": "性格特点",
+        "text": "对朋友真诚，愿意分享吃食和好消息。"
+      },
+      {
+        "title": "缺点与牵挂",
+        "text": "贪吃、嘴碎、容易轻信；在意别人对自己厨艺和能力的评价。"
+      },
+      {
+        "title": "重要关系",
+        "text": "单方面追求杨蕙兰；祝无双的厨艺让他感到压力；与秀才是室友。"
+      },
+      {
+        "title": "代表故事",
+        "text": "第6集：想在杨蕙兰比武招亲时赢得青睐。第32集：无双的厨艺促使掌柜调整他的工作。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "object",
+        "id": "cleaver"
+      },
+      {
+        "kind": "relationship",
+        "id": "unrequited"
+      },
+      {
+        "kind": "relationship",
+        "id": "family"
+      },
+      {
+        "kind": "relationship",
+        "id": "workmates"
+      },
+      {
+        "kind": "story",
+        "id": "huilan-story"
+      },
+      {
+        "kind": "story",
+        "id": "trouble"
+      },
+      {
+        "kind": "story",
+        "id": "ordinary"
+      },
+      {
+        "kind": "story",
+        "id": "help"
+      },
+      {
+        "kind": "character",
+        "id": "duanzhixuanyuan"
+      },
+      {
+        "kind": "story",
+        "id": "midautumn"
+      },
+      {
+        "kind": "story",
+        "id": "guest-huilan-first"
+      },
+      {
+        "kind": "story",
+        "id": "guest-huilan-knives"
+      },
+      {
+        "kind": "story",
+        "id": "guest-xingyu-arrival"
+      },
+      {
+        "kind": "story",
+        "id": "guest-sisters"
+      },
+      {
+        "kind": "story",
+        "id": "guest-huilan-return"
+      },
+      {
+        "kind": "story",
+        "id": "guest-huilan-farewell"
+      },
+      {
+        "kind": "story",
+        "id": "hall-floor-night"
+      },
+      {
+        "kind": "story",
+        "id": "yard-dragon-palm"
+      },
+      {
+        "kind": "story",
+        "id": "yard-world-beautiful"
+      },
+      {
+        "kind": "story",
+        "id": "guest-mother-emperor"
+      },
+      {
+        "kind": "story",
+        "id": "guest-mother-truth"
+      },
+      {
+        "kind": "story",
+        "id": "hall-mother-mahjong"
+      },
+      {
+        "kind": "character",
+        "id": "huilan"
+      },
+      {
+        "kind": "character",
+        "id": "duzijun"
+      },
+      {
+        "kind": "character",
+        "id": "yidianhong"
+      },
+      {
+        "kind": "character",
+        "id": "liuxingyu"
+      },
+      {
+        "kind": "character",
+        "id": "liuyueyun"
+      },
+      {
+        "kind": "character",
+        "id": "zhugekongfang"
+      },
+      {
+        "kind": "character",
+        "id": "qingfeng"
+      },
+      {
+        "kind": "character",
+        "id": "dufuren"
+      },
+      {
+        "kind": "character",
+        "id": "laohong"
+      },
+      {
+        "kind": "story",
+        "id": "hall-heartvoices"
+      },
+      {
+        "kind": "story",
+        "id": "women-wait-bai"
+      }
+    ],
+    "role": "同福客栈厨子",
+    "image": "assets/dazui-portrait-unified-v03.webp",
+    "keywords": [
+      "热心",
+      "实在",
+      "乐呵"
+    ],
+    "core": true,
+    "mapPresence": {
+      "area": "后院入口旁",
+      "activity": "照看饭菜",
+      "height": 74,
+      "position": {
+        "x": 77,
+        "y": 47
+      },
+      "atlasWidth": 180,
+      "atlasHeight": 345,
+      "cropX": 8,
+      "cropY": 8,
+      "width": 164,
+      "cropHeight": 329,
+      "image": "assets/dazui-idle-unified-v03.webp"
+    },
+    "sources": [
+      {
+        "label": "原剧剧照 · 造型参考",
+        "url": "https://www.gamersky.com/news/202601/2081978.shtml"
+      },
+      {
+        "label": "央视网 · 第6集",
+        "url": "https://tv.cctv.com/v/v4/VIDE1406407524783900.html"
+      },
+      {
+        "label": "央视网 · 第54集",
+        "url": "https://tv.cctv.com/2014/08/04/VIDE1407098891952429.shtml"
+      },
+      {
+        "label": "央视网 · 第32集",
+        "url": "https://tv.cctv.com/2014/07/31/VIDE1406757817353398.shtml"
+      },
+      {
+        "label": "央视网 ·《影视俱乐部》剧组访谈",
+        "url": "https://www.cntv.cn/program/ysjlb/20060123/101429.shtml"
+      },
+      {
+        "label": "照片来源：新浪娱乐",
+        "url": "https://ent.sina.com.cn/d/2005-12-27/1113942397.html"
+      }
+    ],
+    "costumes": [
+      {
+        "id": "dazui-reference-01",
+        "title": "深色条纹衣与棕色领边",
+        "image": "assets/dazui-costume-reference-01.jpeg",
+        "alt": "李大嘴服装对照：左侧服装展示照，右侧角色穿着图。",
+        "caption": "左：服装展示照　右：角色穿着图",
+        "details": [
+          {
+            "label": "衣身与领口",
+            "text": "蓝灰色细条纹衣，棕色交领与浅色内领相叠。"
+          },
+          {
+            "label": "袖口与腰带",
+            "text": "穿着图中内袖为米白色，腰间系棕色宽带。"
+          },
+          {
+            "label": "头带",
+            "text": "短发配朴素的浅棕色布头带。"
+          }
+        ],
+        "sourceNote": "图片署名：小红书 27765056799。"
+      }
+    ],
+    "sceneContexts": {
+      "kitchen": {
+        "title": "大嘴在厨房",
+        "text": "大嘴是同福客栈的厨子，备菜桌与砖灶是他的工作区。第32集，无双的厨艺让掌柜重新分配工作，大嘴转去做杂务。",
+        "related": [
+          {
+            "kind": "relationship",
+            "id": "workmates"
+          },
+          {
+            "kind": "story",
+            "id": "help"
+          },
+          {
+            "kind": "object",
+            "id": "prep-table"
+          }
+        ]
+      },
+      "men-room": {
+        "title": "大嘴在男寝歇脚",
+        "text": "回到与秀才合住的房间歇一会儿。",
+        "related": [
+          {
+            "kind": "scene",
+            "id": "men-room"
+          },
+          {
+            "kind": "object",
+            "id": "men-brick-kang"
+          }
+        ]
+      }
+    },
+    "scenePoses": {
+      "kitchen": {
+        "image": "assets/dazui-kitchen-unified-v03.webp",
+        "atlasWidth": 186,
+        "atlasHeight": 345,
+        "cropX": 8,
+        "cropY": 8,
+        "width": 170,
+        "cropHeight": 329
+      }
+    },
+    "catchphrases": [
+      {
+        "text": "这事包我身上了！",
+        "type": "口头禅",
+        "sourceUrl": "https://www.cntv.cn/program/ysjlb/20060123/101429.shtml"
+      }
+    ],
+    "dailyActivities": {
+      "day": {
+        "mapId": "kitchen",
+        "x": 83,
+        "y": 69,
+        "activity": "在备菜区准备饭菜",
+        "title": "大嘴白天在厨房",
+        "text": "在备菜桌旁整理食材、准备饭菜，厨房是他一天里最忙的地方。"
+      },
+      "night": {
+        "mapId": "men-room",
+        "x": 74,
+        "y": 80,
+        "activity": "忙完厨房，回房歇脚",
+        "title": "大嘴夜里回男寝",
+        "text": "忙完厨房里的事，回到与秀才合住的房间，放松下来歇一会儿。",
+        "pose": {
+          "image": "assets/dazui-night-unified-v03.webp",
+          "atlasWidth": 176,
+          "atlasHeight": 345,
+          "cropX": 8,
+          "cropY": 8,
+          "width": 160,
+          "cropHeight": 329
+        }
+      }
+    },
+    "portrait": {
+      "image": "assets/portraits-tv/dazui.jpg",
+      "alt": "姜超饰演的李大嘴，原剧人物资料照",
+      "caption": "李大嘴 · 姜超 饰",
+      "sourceUrl": "https://ent.sina.com.cn/d/2005-12-27/1113942397.html",
+      "sourceLabel": "照片来源：新浪娱乐",
+      "kind": "原剧人物资料照"
+    },
+    "archiveGroup": "同福六人"
+  },
+  {
+    "id": "xiaobei",
+    "title": "莫小贝",
+    "summary": "是衡山派掌门，也是让大人操心的淘气孩子。",
+    "sections": [
+      {
+        "title": "身份与来处",
+        "text": "佟湘玉的小姑、衡山派掌门，与郭芙蓉合住女寝。"
+      },
+      {
+        "title": "性格特点",
+        "text": "聪明、活泼，有自己的主意。"
+      },
+      {
+        "title": "缺点与牵挂",
+        "text": "调皮、不爱念书，常钻大人的空子。"
+      },
+      {
+        "title": "重要关系",
+        "text": "由嫂子佟湘玉照顾和管束；与小郭同住，也受客栈众人照应。"
+      },
+      {
+        "title": "代表故事",
+        "text": "第3集：进入白马书院，受到先生夸赞；湘玉放松管束后，又要处理她惹出的麻烦。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "object",
+        "id": "stairs"
+      },
+      {
+        "kind": "relationship",
+        "id": "guardian"
+      },
+      {
+        "kind": "relationship",
+        "id": "family"
+      },
+      {
+        "kind": "story",
+        "id": "xiaobei-story"
+      },
+      {
+        "kind": "story",
+        "id": "trouble"
+      },
+      {
+        "kind": "story",
+        "id": "ordinary"
+      },
+      {
+        "kind": "story",
+        "id": "midautumn"
+      },
+      {
+        "kind": "story",
+        "id": "hall-floor-night"
+      },
+      {
+        "kind": "story",
+        "id": "yard-washing-rope"
+      },
+      {
+        "kind": "story",
+        "id": "yard-world-beautiful"
+      },
+      {
+        "kind": "character",
+        "id": "murongzi"
+      },
+      {
+        "kind": "character",
+        "id": "qianfuren"
+      },
+      {
+        "kind": "character",
+        "id": "zhuxiansheng"
+      },
+      {
+        "kind": "character",
+        "id": "douxiansheng"
+      },
+      {
+        "kind": "character",
+        "id": "yuesongtao"
+      },
+      {
+        "kind": "character",
+        "id": "luyiming"
+      },
+      {
+        "kind": "character",
+        "id": "zhoudunru"
+      },
+      {
+        "kind": "character",
+        "id": "zhuxiaoyun"
+      },
+      {
+        "kind": "character",
+        "id": "qiuxiaodong"
+      },
+      {
+        "kind": "character",
+        "id": "wushouyi"
+      },
+      {
+        "kind": "character",
+        "id": "xiebudong"
+      },
+      {
+        "kind": "character",
+        "id": "mobao"
+      },
+      {
+        "kind": "character",
+        "id": "xiezhongda"
+      },
+      {
+        "kind": "story",
+        "id": "hall-heartvoices"
+      },
+      {
+        "kind": "story",
+        "id": "women-wait-bai"
+      },
+      {
+        "kind": "story",
+        "id": "women-feigned-illness"
+      }
+    ],
+    "role": "客栈里的孩子，衡山派掌门",
+    "image": "assets/xiaobei-portrait-unified-v03.webp",
+    "keywords": [
+      "聪明",
+      "机灵",
+      "有主意"
+    ],
+    "core": true,
+    "mapPresence": {
+      "area": "楼梯附近",
+      "activity": "四处看看",
+      "height": 54,
+      "position": {
+        "x": 67,
+        "y": 42
+      },
+      "atlasWidth": 114,
+      "atlasHeight": 256,
+      "cropX": 8,
+      "cropY": 8,
+      "width": 98,
+      "cropHeight": 240,
+      "image": "assets/xiaobei-idle-unified-v03.webp"
+    },
+    "sources": [
+      {
+        "label": "原剧剧照 · 造型参考",
+        "url": "https://www.gamersky.com/news/202601/2081978.shtml"
+      },
+      {
+        "label": "央视网 · 第3集",
+        "url": "https://tv.cctv.com/2014/07/27/VIDE1406400852355348.shtml"
+      },
+      {
+        "label": "央视网 · 第54集",
+        "url": "https://tv.cctv.com/2014/08/04/VIDE1407098891952429.shtml"
+      },
+      {
+        "label": "央视网 ·《武林外传》经典对白",
+        "url": "https://ent.cctv.com/20070214/102676.shtml"
+      }
+    ],
+    "costumes": [
+      {
+        "id": "xiaobei-reference-01",
+        "title": "蓝黄格纹上衣与橙色腰带",
+        "image": "assets/xiaobei-costume-reference-01.jpeg",
+        "alt": "莫小贝服装对照：左侧服装展示照，右侧角色穿着图。",
+        "caption": "左：服装展示照　右：角色穿着图",
+        "details": [
+          {
+            "label": "上衣",
+            "text": "深蓝底配细小黄色格纹，交领内露出浅色内衫。"
+          },
+          {
+            "label": "腰带与裤子",
+            "text": "橙色布带在腰前打结，下穿灰紫色宽裤。"
+          },
+          {
+            "label": "发型与饰物",
+            "text": "额前刘海，两侧束小髻，后留长发；发上有彩色细饰，胸前可见小坠饰。"
+          }
+        ],
+        "sourceNote": "图片署名：小红书 27765056799。"
+      }
+    ],
+    "catchphrases": [
+      {
+        "text": "嫂子——",
+        "type": "口头禅",
+        "sourceUrl": "https://ent.cctv.com/20070214/102676.shtml"
+      }
+    ],
+    "sceneContexts": {
+      "women-room": {
+        "title": "小贝在女寝",
+        "text": "小贝与小郭合住女寝，房里既有书桌，也有布老虎等玩物。她的起居与念书，总让嫂子放心不下。",
+        "related": [
+          {
+            "kind": "object",
+            "id": "xiaobei-desk"
+          },
+          {
+            "kind": "object",
+            "id": "shared-platform"
+          },
+          {
+            "kind": "story",
+            "id": "xiaobei-story"
+          },
+          {
+            "kind": "relationship",
+            "id": "guardian"
+          }
+        ]
+      }
+    },
+    "scenePoses": {
+      "women-room": {
+        "image": "assets/xiaobei-women-room-unified-v03.webp",
+        "atlasWidth": 115,
+        "atlasHeight": 256,
+        "cropX": 8,
+        "cropY": 8,
+        "width": 99,
+        "cropHeight": 240
+      }
+    },
+    "dailyActivities": {
+      "day": {
+        "mapId": "women-room",
+        "x": 33,
+        "y": 79,
+        "activity": "拿着课本做功课",
+        "title": "小贝白天做功课",
+        "text": "在房里翻课本、做功课，先把眼前这页写完。",
+        "pose": {
+          "image": "assets/xiaobei-day-unified-v03.webp",
+          "atlasWidth": 117,
+          "atlasHeight": 256,
+          "cropX": 8,
+          "cropY": 8,
+          "width": 101,
+          "cropHeight": 240
+        }
+      },
+      "night": {
+        "mapId": "women-room",
+        "x": 33,
+        "y": 79,
+        "activity": "抱着布老虎，陪小郭",
+        "title": "小贝夜里玩布老虎",
+        "text": "放下功课，抱着布老虎玩一会儿，和小郭待在房里。"
+      }
+    },
+    "portrait": {
+      "image": "assets/portraits-tv/xiaobei.webp",
+      "alt": "王莎莎饰演的莫小贝，原剧剧照",
+      "caption": "莫小贝 · 王莎莎 饰",
+      "sourceUrl": "https://www.gamersky.com/news/202601/2081978.shtml",
+      "sourceLabel": "剧照来源：游民星空",
+      "kind": "原剧剧照"
+    },
+    "archiveGroup": "同福六人"
+  },
+  {
+    "id": "wushuang",
+    "title": "祝无双",
+    "summary": "手巧、厨艺好，总愿意主动帮忙。",
+    "sections": [
+      {
+        "title": "身份与来处",
+        "text": "白展堂的同门师妹，后来成为七侠镇捕快。"
+      },
+      {
+        "title": "性格特点",
+        "text": "体贴、能干，擅长料理家务和做饭。"
+      },
+      {
+        "title": "缺点与牵挂",
+        "text": "敏感，常先顾着别人，不容易说出自己的需要。"
+      },
+      {
+        "title": "重要关系",
+        "text": "与白展堂是同门；来到客栈后，她的厨艺与李大嘴形成比较。"
+      },
+      {
+        "title": "代表故事",
+        "text": "第32集：厨艺得到掌柜认可，掌柜因此重新安排大嘴的工作。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "courtyard"
+      },
+      {
+        "kind": "relationship",
+        "id": "workmates"
+      },
+      {
+        "kind": "story",
+        "id": "help"
+      },
+      {
+        "kind": "story",
+        "id": "roof-talk"
+      },
+      {
+        "kind": "story",
+        "id": "guest-simpson"
+      },
+      {
+        "kind": "story",
+        "id": "guest-bao-stays"
+      },
+      {
+        "kind": "story",
+        "id": "guest-bao-crisis"
+      },
+      {
+        "kind": "story",
+        "id": "roof-xiangyu-heart"
+      },
+      {
+        "kind": "story",
+        "id": "roof-simpson-moon"
+      },
+      {
+        "kind": "character",
+        "id": "zhanshiwei"
+      },
+      {
+        "kind": "character",
+        "id": "simpson"
+      },
+      {
+        "kind": "character",
+        "id": "jiwubing"
+      },
+      {
+        "kind": "character",
+        "id": "tongshitou"
+      },
+      {
+        "kind": "story",
+        "id": "hall-heartvoices"
+      },
+      {
+        "kind": "story",
+        "id": "women-wait-bai"
+      }
+    ],
+    "core": false,
+    "role": "白展堂的同门师妹，后来成为七侠镇捕快",
+    "keywords": [
+      "体贴",
+      "能干",
+      "敏感"
+    ],
+    "sources": [
+      {
+        "label": "央视网 · 第32集",
+        "url": "https://tv.cctv.com/2014/07/31/VIDE1406757817353398.shtml"
+      },
+      {
+        "label": "原剧剧照 · 造型参考",
+        "url": "https://www.gamersky.com/news/202601/2081978.shtml"
+      },
+      {
+        "label": "央视网 ·《武林外传》经典对白",
+        "url": "https://ent.cctv.com/20070214/102676.shtml"
+      }
+    ],
+    "featured": true,
+    "image": "assets/wushuang-portrait-unified-v03.webp",
+    "mapPresence": {
+      "image": "assets/wushuang-idle-unified-v03.webp",
+      "atlasWidth": 140,
+      "atlasHeight": 336,
+      "cropX": 8,
+      "cropY": 8,
+      "width": 124,
+      "cropHeight": 320,
+      "height": 72,
+      "area": "后院",
+      "activity": "帮忙料理日常"
+    },
+    "costumes": [
+      {
+        "id": "wushuang-reference-01",
+        "title": "蓝紫条纹外层与深色内衣",
+        "image": "assets/wushuang-costume-reference-01.jpeg",
+        "alt": "祝无双服装对照：左侧服装展示照，右侧角色穿着图。",
+        "caption": "左：服装展示照　右：角色穿着图",
+        "details": [
+          {
+            "label": "衣身与领口",
+            "text": "深蓝紫色内衣外叠浅蓝、蓝紫条纹衣层，领口露出米白色内衫。"
+          },
+          {
+            "label": "袖子与腰带",
+            "text": "条纹沿外层衣片纵向展开，袖子宽松；腰带与领边呼应。"
+          },
+          {
+            "label": "发型与耳饰",
+            "text": "黑色长发部分束起，侧分留鬓发，配垂坠耳饰。"
+          }
+        ],
+        "sourceNote": "图片署名：小红书 27765056799。"
+      }
+    ],
+    "catchphrases": [
+      {
+        "text": "放着我来！",
+        "type": "口头禅",
+        "sourceUrl": "https://ent.cctv.com/20070214/102676.shtml"
+      }
+    ],
+    "sceneContexts": {
+      "courtyard": {
+        "title": "无双在后院",
+        "text": "无双擅长料理家务和做饭。第32集，她的厨艺得到认可，也让大嘴面临工作分配的变化。",
+        "related": [
+          {
+            "kind": "object",
+            "id": "washbasin"
+          },
+          {
+            "kind": "relationship",
+            "id": "workmates"
+          },
+          {
+            "kind": "story",
+            "id": "help"
+          }
+        ]
+      }
+    },
+    "scenePoses": {
+      "courtyard": {
+        "image": "assets/wushuang-courtyard-unified-v03.webp",
+        "atlasWidth": 138,
+        "atlasHeight": 336,
+        "cropX": 8,
+        "cropY": 8,
+        "width": 122,
+        "cropHeight": 320
+      }
+    },
+    "portrait": {
+      "image": "assets/portraits-tv/wushuang.webp",
+      "alt": "倪虹洁饰演的祝无双，原剧剧照",
+      "caption": "祝无双 · 倪虹洁 饰",
+      "sourceUrl": "https://www.gamersky.com/news/202601/2081978.shtml",
+      "sourceLabel": "剧照来源：游民星空",
+      "kind": "原剧剧照"
+    },
+    "archiveGroup": "七侠镇熟人"
+  },
+  {
+    "id": "xing",
+    "title": "邢捕头",
+    "summary": "爱摆捕头的威风，也舍不得客栈这些老熟人。",
+    "sections": [
+      {
+        "title": "身份与来处",
+        "text": "本名邢育森，七侠镇捕头，燕小六的师父。"
+      },
+      {
+        "title": "性格特点",
+        "text": "熟悉人情往来，嘴上讲威风，心里惦记老熟人。"
+      },
+      {
+        "title": "缺点与牵挂",
+        "text": "爱面子、摆架子，也常到客栈蹭吃蹭喝。"
+      },
+      {
+        "title": "重要关系",
+        "text": "与燕小六是师徒和搭档；丐帮经历被小米知道后，受到他的要挟。"
+      },
+      {
+        "title": "代表故事",
+        "text": "第27集：返乡遇抢，靠讨饭加入丐帮，后来公开承认这段经历。第50集：为十八里铺的新差事接受考验。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "entrance"
+      },
+      {
+        "kind": "relationship",
+        "id": "constables"
+      },
+      {
+        "kind": "relationship",
+        "id": "beggar-secret"
+      },
+      {
+        "kind": "story",
+        "id": "farewell"
+      },
+      {
+        "kind": "story",
+        "id": "xing-secret"
+      },
+      {
+        "kind": "character",
+        "id": "xiaomi"
+      },
+      {
+        "kind": "character",
+        "id": "leilaowu"
+      },
+      {
+        "kind": "character",
+        "id": "qijiulaoye"
+      },
+      {
+        "kind": "character",
+        "id": "gongzhanglao"
+      }
+    ],
+    "core": false,
+    "role": "七侠镇的邢捕头",
+    "keywords": [
+      "爱面子",
+      "世故",
+      "念旧",
+      "邢育森"
+    ],
+    "sources": [
+      {
+        "label": "央视网 · 第50集",
+        "url": "https://tv.cctv.com/2014/08/03/VIDE1407018788039241.shtml"
+      },
+      {
+        "label": "原剧剧照 · 造型参考",
+        "url": "https://www.tvzn.com/1279/Images/12125.html"
+      },
+      {
+        "label": "央视网 · 第27集",
+        "url": "https://dianshiju.cctv.com/2010/06/11/VIDE1354532602550609.shtml"
+      },
+      {
+        "label": "百度百科 · 邢育森口头禅",
+        "url": "https://wapbaike.baidu.com/item/%E9%82%A2%E8%82%B2%E6%A3%AE/17741"
+      },
+      {
+        "label": "照片来源：新浪娱乐",
+        "url": "https://ent.sina.com.cn/d/2005-12-27/1113942396.html"
+      }
+    ],
+    "featured": true,
+    "image": "assets/xing-portrait-unified-v03.webp",
+    "mapPresence": {
+      "image": "assets/xing-idle-unified-v03.webp",
+      "atlasWidth": 177,
+      "atlasHeight": 354,
+      "cropX": 8,
+      "cropY": 8,
+      "width": 161,
+      "cropHeight": 338,
+      "height": 76,
+      "area": "大堂左侧",
+      "activity": "与熟人说话"
+    },
+    "costumes": [
+      {
+        "id": "xing-reference-01",
+        "title": "深蓝紫制服与灰色披肩",
+        "image": "assets/xing-costume-reference-01.jpeg",
+        "alt": "邢捕头服装对照：左侧服装展示照，右侧角色穿着图。",
+        "caption": "左：服装展示照　右：角色穿着图",
+        "details": [
+          {
+            "label": "制服与披肩",
+            "text": "深蓝紫色长衣，肩上搭灰色披肩，领口与袖口配浅色条纹。"
+          },
+          {
+            "label": "帽子",
+            "text": "黑色高帽，帽身下部有紫色宽饰边。"
+          },
+          {
+            "label": "腰间配件",
+            "text": "条纹腰带与袖口呼应，腰间佩带有蓝色包裹柄部的刀。"
+          }
+        ],
+        "sourceNote": "图片署名：小红书 27765056799。"
+      }
+    ],
+    "catchphrases": [
+      {
+        "text": "我看好你哟！",
+        "type": "口头禅",
+        "sourceUrl": "https://wapbaike.baidu.com/item/%E9%82%A2%E8%82%B2%E6%A3%AE/17741"
+      }
+    ],
+    "sceneContexts": {
+      "hall": {
+        "title": "老邢来客栈",
+        "text": "邢捕头与客栈众人相熟，也是燕小六的师父。第50集，他为十八里铺的新差事在客栈接受考验，师徒也面对分别。",
+        "related": [
+          {
+            "kind": "character",
+            "id": "yan"
+          },
+          {
+            "kind": "relationship",
+            "id": "constables"
+          },
+          {
+            "kind": "story",
+            "id": "farewell"
+          }
+        ]
+      }
+    },
+    "scenePoses": {
+      "hall": {
+        "image": "assets/xing-hall-unified-v03.webp",
+        "atlasWidth": 175,
+        "atlasHeight": 354,
+        "cropX": 8,
+        "cropY": 8,
+        "width": 159,
+        "cropHeight": 338
+      }
+    },
+    "dailyActivities": {
+      "day": {
+        "mapId": "hall",
+        "x": 18,
+        "y": 68,
+        "activity": "到客栈走访",
+        "title": "白天 · 大堂走访",
+        "text": "白天在大堂与客栈众人打照面，了解镇上的动静。"
+      },
+      "night": {
+        "mapId": "street",
+        "x": 55,
+        "y": 80,
+        "activity": "街边巡查",
+        "title": "夜晚 · 街边巡查",
+        "text": "夜晚转到门前街边巡查，不再一直留在大堂。"
+      }
+    },
+    "portrait": {
+      "image": "assets/portraits-tv/xing.jpg",
+      "alt": "范明饰演的邢捕头，原剧人物资料照",
+      "caption": "邢捕头 · 范明 饰",
+      "sourceUrl": "https://ent.sina.com.cn/d/2005-12-27/1113942396.html",
+      "sourceLabel": "照片来源：新浪娱乐",
+      "kind": "原剧人物资料照"
+    },
+    "archiveGroup": "七侠镇熟人"
+  },
+  {
+    "id": "yan",
+    "title": "燕小六",
+    "summary": "认真办差、急着立威，常常用力过头。",
+    "sections": [
+      {
+        "title": "身份与来处",
+        "text": "邢捕头的徒弟，先任七侠镇捕快，后接任捕头。"
+      },
+      {
+        "title": "性格特点",
+        "text": "看重职责，有冲劲，也记得师父的照顾。"
+      },
+      {
+        "title": "缺点与牵挂",
+        "text": "急于证明自己，办差时容易把声势摆得过大。"
+      },
+      {
+        "title": "重要关系",
+        "text": "与邢捕头是师徒；办差时挨训，分别时又流露不舍。"
+      },
+      {
+        "title": "代表故事",
+        "text": "第50集：老邢准备离开，小六在临别时显出对师父的感情。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "entrance"
+      },
+      {
+        "kind": "relationship",
+        "id": "constables"
+      },
+      {
+        "kind": "story",
+        "id": "farewell"
+      },
+      {
+        "kind": "story",
+        "id": "guest-yidianhong"
+      },
+      {
+        "kind": "story",
+        "id": "guest-bao-crisis"
+      },
+      {
+        "kind": "story",
+        "id": "hall-floor-night"
+      },
+      {
+        "kind": "character",
+        "id": "yidianhong"
+      },
+      {
+        "kind": "character",
+        "id": "leilaowu"
+      },
+      {
+        "kind": "character",
+        "id": "xiebudong"
+      },
+      {
+        "kind": "character",
+        "id": "lingtengyun"
+      },
+      {
+        "kind": "character",
+        "id": "qijiulaoye"
+      },
+      {
+        "kind": "character",
+        "id": "gongzhanglao"
+      }
+    ],
+    "core": false,
+    "role": "七侠镇捕快，后接任捕头",
+    "keywords": [
+      "认真",
+      "直愣",
+      "有冲劲"
+    ],
+    "sources": [
+      {
+        "label": "央视网 · 第50集",
+        "url": "https://tv.cctv.com/2014/08/03/VIDE1407018788039241.shtml"
+      },
+      {
+        "label": "原剧剧照 · 造型参考",
+        "url": "https://www.tvzn.com/1279/Images/12120.html"
+      },
+      {
+        "label": "凤凰网 · 角色口头禅回顾",
+        "url": "https://ishare.ifeng.com/c/s/7zXXPDPHWeL"
+      },
+      {
+        "label": "照片来源：新浪娱乐",
+        "url": "https://ent.sina.com.cn/d/2005-12-27/1115942403.html"
+      }
+    ],
+    "featured": true,
+    "image": "assets/yan-portrait-unified-v03.webp",
+    "mapPresence": {
+      "image": "assets/yan-idle-unified-v03.webp",
+      "atlasWidth": 147,
+      "atlasHeight": 309,
+      "cropX": 8,
+      "cropY": 8,
+      "width": 131,
+      "cropHeight": 293,
+      "height": 66,
+      "area": "大堂右侧",
+      "activity": "听师父说话"
+    },
+    "costumes": [
+      {
+        "id": "yan-reference-01",
+        "title": "棕色制服与条纹长腰带",
+        "image": "assets/yan-costume-reference-01.jpeg",
+        "alt": "燕小六服装对照：左侧服装展示照，右侧角色穿着图。",
+        "caption": "左：服装展示照　右：角色穿着图",
+        "details": [
+          {
+            "label": "衣身与领口",
+            "text": "棕色圆领长衣，领口有黑白相间的细条纹。"
+          },
+          {
+            "label": "腰带",
+            "text": "宽条纹腰带绕腰，前方垂下一段纵向长带。"
+          },
+          {
+            "label": "帽子",
+            "text": "棕色软帽，下沿为黑白条纹帽带。"
+          }
+        ],
+        "sourceNote": "图片署名：小红书 27765056799。"
+      }
+    ],
+    "catchphrases": [
+      {
+        "text": "照顾好我七舅姥爷……",
+        "type": "招牌台词（节选）",
+        "sourceUrl": "https://ishare.ifeng.com/c/s/7zXXPDPHWeL"
+      }
+    ],
+    "sceneContexts": {
+      "hall": {
+        "title": "小六来客栈",
+        "text": "小六跟着老邢办差，也在客栈与熟人来往。平时师徒会拌嘴，第50集临别时又显出不舍。",
+        "related": [
+          {
+            "kind": "character",
+            "id": "xing"
+          },
+          {
+            "kind": "relationship",
+            "id": "constables"
+          },
+          {
+            "kind": "story",
+            "id": "farewell"
+          }
+        ]
+      }
+    },
+    "scenePoses": {
+      "hall": {
+        "image": "assets/yan-hall-unified-v03.webp",
+        "atlasWidth": 154,
+        "atlasHeight": 309,
+        "cropX": 8,
+        "cropY": 8,
+        "width": 138,
+        "cropHeight": 293
+      }
+    },
+    "dailyActivities": {
+      "day": {
+        "mapId": "hall",
+        "x": 78,
+        "y": 67,
+        "activity": "在大堂走访",
+        "title": "白天 · 大堂走访",
+        "text": "白天在大堂与客栈众人打照面，看看有没有需要处理的事。"
+      },
+      "night": {
+        "mapId": "street",
+        "x": 64,
+        "y": 84,
+        "activity": "街边巡视",
+        "title": "夜晚 · 街边巡视",
+        "text": "夜晚安排在街边巡视，与老邢分开站位，保持客栈进出通道畅通。"
+      }
+    },
+    "portrait": {
+      "image": "assets/portraits-tv/yan.jpg",
+      "alt": "肖剑饰演的燕小六，原剧人物资料照",
+      "caption": "燕小六 · 肖剑 饰",
+      "sourceUrl": "https://ent.sina.com.cn/d/2005-12-27/1115942403.html",
+      "sourceLabel": "照片来源：新浪娱乐",
+      "kind": "原剧人物资料照"
+    },
+    "archiveGroup": "七侠镇熟人"
+  },
+  {
+    "id": "xiaomi",
+    "title": "小米",
+    "summary": "消息灵通，知道老邢的秘密后借机索取。",
+    "role": "七侠镇乞丐，丐帮四袋弟子",
+    "core": false,
+    "featured": true,
+    "keywords": [
+      "街坊",
+      "消息灵通",
+      "丐帮"
+    ],
+    "sections": [
+      {
+        "title": "身份与来处",
+        "text": "七侠镇乞丐，丐帮四袋弟子，常在客栈附近活动。"
+      },
+      {
+        "title": "性格特点",
+        "text": "熟悉镇上的人和消息，常与客栈众人搭话。"
+      },
+      {
+        "title": "缺点与牵挂",
+        "text": "会利用熟人的难处谋取利益。"
+      },
+      {
+        "title": "重要关系",
+        "text": "与邢捕头相熟；知道他的丐帮经历后，不断向他索取。"
+      },
+      {
+        "title": "代表故事",
+        "text": "第27集：掌握老邢的丐帮秘密并借此索取，最终老邢公开承认经历并受到处分。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "entrance"
+      },
+      {
+        "kind": "character",
+        "id": "xing"
+      },
+      {
+        "kind": "relationship",
+        "id": "beggar-secret"
+      },
+      {
+        "kind": "story",
+        "id": "xing-secret"
+      },
+      {
+        "kind": "character",
+        "id": "gongzhanglao"
+      }
+    ],
+    "sources": [
+      {
+        "label": "电视猫 · 演员与角色介绍",
+        "url": "https://www.tvmao.com/drama/VSM4/actors"
+      },
+      {
+        "label": "爱奇艺 · 武林外传剧情介绍",
+        "url": "https://www.iqiyi.com/dianshiju/wlwz.html"
+      },
+      {
+        "label": "央视网 · 第27集",
+        "url": "https://dianshiju.cctv.com/2010/06/11/VIDE1354532602550609.shtml"
+      },
+      {
+        "label": "剧照来源：新浪",
+        "url": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv"
+      }
+    ],
+    "image": "assets/xiaomi-portrait-unified-v03.webp",
+    "mapPresence": {
+      "image": "assets/xiaomi-idle-unified-v03.webp",
+      "atlasWidth": 169,
+      "atlasHeight": 327,
+      "cropX": 8,
+      "cropY": 8,
+      "width": 153,
+      "cropHeight": 311,
+      "height": 70,
+      "area": "客栈门前街边",
+      "activity": "坐在客栈门旁乞讨",
+      "position": {
+        "x": 31.8,
+        "y": 77
+      }
+    },
+    "sceneContexts": {
+      "street": {
+        "title": "小米在客栈门口",
+        "text": "小米坐在客栈门旁乞讨，也会与来往的熟人搭话。他与老邢的关系，牵出第27集的丐帮秘密。",
+        "related": [
+          {
+            "kind": "object",
+            "id": "street-bench"
+          },
+          {
+            "kind": "relationship",
+            "id": "beggar-secret"
+          },
+          {
+            "kind": "story",
+            "id": "xing-secret"
+          }
+        ]
+      }
+    },
+    "scenePoses": {
+      "street": {
+        "image": "assets/xiaomi-street-unified-v03.webp",
+        "atlasWidth": 171,
+        "atlasHeight": 190,
+        "cropX": 8,
+        "cropY": 8,
+        "width": 155,
+        "cropHeight": 174,
+        "stanceScale": 0.56
+      }
+    },
+    "dailyActivities": {
+      "day": {
+        "mapId": "street",
+        "x": 31.8,
+        "y": 77,
+        "activity": "坐在客栈门旁乞讨",
+        "title": "小米白天在门口",
+        "text": "坐在客栈门旁，伸出粗陶碗向过往的人讨些吃食。"
+      },
+      "night": {
+        "mapId": "street",
+        "x": 31.8,
+        "y": 77,
+        "activity": "收起陶碗，在门旁歇脚",
+        "title": "小米夜里在门旁歇脚",
+        "text": "把碗放在身旁，收下讨饭的动作，靠着客栈门旁坐着歇一会儿。",
+        "pose": {
+          "image": "assets/xiaomi-night-unified-v03.webp",
+          "atlasWidth": 189,
+          "atlasHeight": 190,
+          "cropX": 8,
+          "cropY": 8,
+          "width": 173,
+          "cropHeight": 174
+        }
+      }
+    },
+    "referencePhotos": [
+      {
+        "name": "小米",
+        "image": "assets/xiaomi-tv-reference-v01.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "张青饰演的小米：杂乱束发、灰褐补丁衣与粗布领。"
+      }
+    ],
+    "portrait": {
+      "image": "assets/portraits-tv/xiaomi.jpg",
+      "alt": "张青饰演的小米，原剧剧照",
+      "caption": "小米 · 张青 饰",
+      "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+      "sourceLabel": "剧照来源：新浪",
+      "kind": "原剧剧照"
+    },
+    "archiveGroup": "七侠镇熟人"
+  },
+  {
+    "id": "hongling",
+    "title": "展红绫",
+    "summary": "她与老白有过一段旧情，久别后的重逢，让两人重新面对当下的生活。",
+    "sections": [
+      {
+        "title": "故事中的这一幕",
+        "text": "他为什么珍惜现在这份普通生活。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "zhuifeng"
+      },
+      {
+        "kind": "story",
+        "id": "past"
+      },
+      {
+        "kind": "character",
+        "id": "murongyan"
+      }
+    ],
+    "role": "六扇门女捕头",
+    "core": false,
+    "keywords": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941673.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/hongling-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/hongling-v77.jpg",
+      "alt": "展红绫在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "展红绫 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/29/29_1800_%E4%B8%8A%E5%A4%B4%E4%BB%A5%E4%B8%BA%E6%88%91%E5%8A%9E%E6%A1%88%E6%9C%89%E6%96%B9.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "jiwuming",
+    "title": "姬无命",
+    "summary": "他失忆后重返同福客栈，众人受制于他；不会武功的秀才却用一连串追问化解了危机。",
+    "sections": [
+      {
+        "title": "故事中的这一幕",
+        "text": "秀才站上椅子，用一个接一个的问题，追问坐在主桌旁的姬无命。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "jiwubing"
+      },
+      {
+        "kind": "character",
+        "id": "gongsunwulong"
+      },
+      {
+        "kind": "story",
+        "id": "scholar"
+      }
+    ],
+    "role": "盗神，老白昔日的同伙",
+    "core": false,
+    "keywords": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941673.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/jiwuming-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/jiwuming-v77.jpg",
+      "alt": "姬无命在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "姬无命 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/29/29_0956_%E6%88%91%E8%BF%99%E8%84%91%E5%AD%90%E5%A5%BD%E5%83%8F%E5%8F%88%E5%BC%80%E5%A7%8B%E4%B8%8D%E5%A4%9F%E7%94%A8%E4%BA%86.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "guojuxia",
+    "title": "郭巨侠",
+    "summary": "他来探望女儿，识破众人为秀才做的掩饰；父亲的期待与小郭自己的选择，就此摆在了桌面上。",
+    "sections": [
+      {
+        "title": "故事中的这一幕",
+        "text": "平时各有小算盘，遇到事又会凑到一起。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "guoqiangwei"
+      },
+      {
+        "kind": "story",
+        "id": "trouble"
+      },
+      {
+        "kind": "character",
+        "id": "zhuifeng"
+      }
+    ],
+    "role": "小郭的父亲，六扇门高手",
+    "core": false,
+    "keywords": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941677.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/guojuxia-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/guojuxia-v77.jpg",
+      "alt": "郭巨侠在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "郭巨侠 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/66/66_1800_%E7%87%95%E6%8D%95%E5%A4%B4.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "huilan",
+    "title": "杨蕙兰",
+    "summary": "她的几次到来牵动大嘴的心事。从比武招亲、菜刀门到与杜子俊的婚事，她始终有自己的人生要走。",
+    "sections": [
+      {
+        "title": "故事中的这一幕",
+        "text": "普通人的向往、自卑与笨拙爱情。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "duzijun"
+      },
+      {
+        "kind": "character",
+        "id": "dufuren"
+      },
+      {
+        "kind": "story",
+        "id": "huilan-story"
+      },
+      {
+        "kind": "story",
+        "id": "guest-huilan-first"
+      },
+      {
+        "kind": "story",
+        "id": "guest-huilan-knives"
+      },
+      {
+        "kind": "story",
+        "id": "guest-huilan-return"
+      },
+      {
+        "kind": "story",
+        "id": "guest-huilan-farewell"
+      }
+    ],
+    "role": "比武招亲的江湖女子",
+    "core": false,
+    "keywords": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941673.shtml"
+      },
+      {
+        "label": "央视网 · 第6集",
+        "url": "https://tv.cctv.com/v/v4/VIDE1406407524783900.html"
+      },
+      {
+        "label": "杨蕙兰 · 剧照来源",
+        "url": "https://cj.sina.com.cn/articles/view/7507435327/1bf7a5f3f00100xstq"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842132.html"
+      },
+      {
+        "label": "央视网 · 第41集",
+        "url": "https://tv.cctv.com/2014/08/02/VIDE1406923573119896.shtml"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842369.html"
+      },
+      {
+        "label": "央视网 · 第78集",
+        "url": "https://tv.cctv.com/2014/08/08/VIDE1407445213526936.shtml"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/863456.html"
+      },
+      {
+        "label": "央视网 · 第79集",
+        "url": "https://tv.cctv.com/2014/08/08/VIDE1407446657640690.shtml"
+      },
+      {
+        "label": "杜子俊 · 剧照来源",
+        "url": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/863466.html"
+      }
+    ],
+    "image": "assets/guest-references/huilan.jpg",
+    "portrait": {
+      "image": "assets/guest-references/huilan.jpg",
+      "alt": "杨蕙兰 · 原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "杨蕙兰",
+      "sourceUrl": "https://cj.sina.com.cn/articles/view/7507435327/1bf7a5f3f00100xstq",
+      "sourceLabel": "原剧剧照来源"
+    },
+    "archiveGroup": "江湖来客与亲友"
+  },
+  {
+    "id": "duanzhixuanyuan",
+    "title": "大嘴娘 · 断指轩辕",
+    "summary": "疼爱儿子，也不肯纵容他的谎话与赌性。",
+    "role": "李大嘴的母亲",
+    "core": false,
+    "image": "assets/mother-references/ep04-1080.jpg",
+    "keywords": [
+      "大嘴娘",
+      "断指轩辕",
+      "第4集"
+    ],
+    "sections": [
+      {
+        "title": "母子之间",
+        "text": "大嘴谎称考中武状元，她来客栈看望儿子，最终识破了大家合演的戏。"
+      },
+      {
+        "title": "江湖往事",
+        "text": "她是退隐的赌坛前辈断指轩辕，借与老白交手，让他明白久赌必输。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "story",
+        "id": "guest-mother-emperor"
+      },
+      {
+        "kind": "story",
+        "id": "guest-mother-truth"
+      },
+      {
+        "kind": "story",
+        "id": "hall-mother-mahjong"
+      }
+    ],
+    "sources": [
+      {
+        "label": "CCTV电视剧 · 第4集",
+        "url": "https://www.youtube.com/watch?v=QoFuWAO3JUY"
+      }
+    ],
+    "portrait": {
+      "image": "assets/mother-references/ep04-1080.jpg",
+      "alt": "第4集中的大嘴娘，原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "大嘴娘 · 断指轩辕",
+      "sourceUrl": "https://www.youtube.com/watch?v=QoFuWAO3JUY",
+      "sourceLabel": "CCTV电视剧 · 第4集"
+    },
+    "archiveGroup": "江湖来客与亲友"
+  },
+  {
+    "id": "murongyan",
+    "core": false,
+    "title": "慕容嫣",
+    "role": "想报考六扇门的姑娘",
+    "summary": "她把展红绫当作偶像，在客栈识破老白的身份，也听到了他讲述的旧事。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "hongling"
+      },
+      {
+        "kind": "story",
+        "id": "guest-murongyan"
+      },
+      {
+        "kind": "character",
+        "id": "murongzi"
+      }
+    ],
+    "sections": [
+      {
+        "title": "故事中的这一幕",
+        "text": "慕容嫣一心想进六扇门，老白的盗圣身份，也成了这位来客追问的秘密。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941671.shtml"
+      },
+      {
+        "label": "央视网 · 第5集",
+        "url": "https://tv.cctv.com/2014/07/27/VIDE1406404801863685.shtml"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842124.html"
+      }
+    ],
+    "image": "assets/guest-references/murongyan-source.jpg",
+    "portrait": {
+      "image": "assets/guest-references/murongyan-source.jpg",
+      "alt": "慕容嫣 · 原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "慕容嫣",
+      "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+      "sourceLabel": "原剧剧照来源"
+    },
+    "archiveGroup": "江湖来客与亲友"
+  },
+  {
+    "id": "baimei",
+    "core": false,
+    "title": "白眉",
+    "role": "以算命为名骗财的来客",
+    "summary": "他拿掌柜的姻缘做文章，借所谓法事索要钱财，最后被众人识破。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "story",
+        "id": "guest-baimei-stay"
+      }
+    ],
+    "sections": [
+      {
+        "title": "故事中的这一幕",
+        "text": "掌柜到客房请白眉算姻缘，所谓破解命数，竟要先交五十两。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941673.shtml"
+      },
+      {
+        "label": "央视网 · 第24集",
+        "url": "https://tv.cctv.com/2014/07/30/VIDE1406672662507602.shtml"
+      },
+      {
+        "label": "第24集台词整理 · 掌柜安排开房",
+        "url": "https://aipiaxi.com/article-detail/248344"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842267.html"
+      }
+    ],
+    "image": "assets/guest-references/baimei-source.jpg",
+    "portrait": {
+      "image": "assets/guest-references/baimei-source.jpg",
+      "alt": "白眉 · 原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "白眉",
+      "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+      "sourceLabel": "原剧剧照来源"
+    },
+    "archiveGroup": "江湖来客与亲友"
+  },
+  {
+    "id": "baisanniang",
+    "core": false,
+    "title": "白三娘",
+    "role": "白展堂的母亲，六扇门密使",
+    "summary": "本名白翠萍。她来到客栈，牵动了老白去留的心事，也让掌柜经历了一番婆媳考验。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "story",
+        "id": "guest-baisanniang"
+      },
+      {
+        "kind": "character",
+        "id": "gongsunwulong"
+      }
+    ],
+    "sections": [
+      {
+        "title": "故事中的这一幕",
+        "text": "客房里，白三娘缝着衣服，叫趴在桌上睡觉的儿子试试新衣。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941675.shtml"
+      },
+      {
+        "label": "央视网 · 第43集",
+        "url": "https://tv.cctv.com/2014/08/02/VIDE1406930601214587.shtml"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842382.html"
+      }
+    ],
+    "image": "assets/guest-references/baisanniang-source.jpg",
+    "portrait": {
+      "image": "assets/guest-references/baisanniang-source.jpg",
+      "alt": "白三娘 · 原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "白三娘",
+      "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+      "sourceLabel": "原剧剧照来源"
+    },
+    "archiveGroup": "江湖来客与亲友"
+  },
+  {
+    "id": "baodaren",
+    "core": false,
+    "title": "包大仁",
+    "role": "买官赴任的来客",
+    "summary": "他摆着钦差的架子留在客栈，逼掌柜嫁给自己；买官背后的阴谋揭开后，局面也随之翻转。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "zhanshiwei"
+      },
+      {
+        "kind": "character",
+        "id": "yinshisan"
+      },
+      {
+        "kind": "story",
+        "id": "guest-bao-arrival"
+      },
+      {
+        "kind": "story",
+        "id": "guest-bao-stays"
+      },
+      {
+        "kind": "story",
+        "id": "guest-bao-wedding"
+      },
+      {
+        "kind": "story",
+        "id": "guest-bao-crisis"
+      },
+      {
+        "kind": "story",
+        "id": "guest-yinshisan-arrival"
+      }
+    ],
+    "sections": [
+      {
+        "title": "故事中的这一幕",
+        "text": "小六与无双误把包大仁和展侍卫拿下，得知来客身份时，麻烦已经上门。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941676.shtml"
+      },
+      {
+        "label": "央视网 · 第53集",
+        "url": "https://dianshiju.cctv.com/2010/06/11/VIDE1354532625531950.shtml"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842444.html"
+      },
+      {
+        "label": "央视网 · 第54集",
+        "url": "https://dianshiju.cctv.com/2012/12/03/VIDE1354531731309138.shtml"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842450.html"
+      },
+      {
+        "label": "央视网 · 第55集",
+        "url": "https://dianshiju.cctv.com/2012/12/03/VIDE1354531986326524.shtml"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842454.html"
+      },
+      {
+        "label": "央视网 · 第56集",
+        "url": "https://tv.cctv.com/2014/08/04/VIDE1407103582876341.shtml"
+      },
+      {
+        "label": "第56集台词整理 · 客房内说明任命公函",
+        "url": "https://m.aipiaxi.com/xj-web/h5/article/701327"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842460.html"
+      },
+      {
+        "label": "第56集台词整理 · 客房内殷十三与包大仁",
+        "url": "https://m.aipiaxi.com/xj-web/h5/article/701327"
+      }
+    ],
+    "image": "assets/guest-references/baodaren-source.jpg",
+    "portrait": {
+      "image": "assets/guest-references/baodaren-source.jpg",
+      "alt": "包大仁 · 原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "包大仁",
+      "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+      "sourceLabel": "原剧剧照来源"
+    },
+    "archiveGroup": "江湖来客与亲友"
+  },
+  {
+    "id": "zhanshiwei",
+    "core": false,
+    "title": "展堂 · 展侍卫",
+    "role": "随包大仁同行的侍卫",
+    "summary": "他与包大仁一同到来，真实使命逐渐浮出水面；无双对他的心意，也在离别时落了空。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "baodaren"
+      },
+      {
+        "kind": "character",
+        "id": "wushuang"
+      },
+      {
+        "kind": "character",
+        "id": "yinshisan"
+      },
+      {
+        "kind": "story",
+        "id": "guest-bao-arrival"
+      },
+      {
+        "kind": "story",
+        "id": "guest-bao-crisis"
+      }
+    ],
+    "sections": [
+      {
+        "title": "故事中的这一幕",
+        "text": "小六与无双误把包大仁和展侍卫拿下，得知来客身份时，麻烦已经上门。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941676.shtml"
+      },
+      {
+        "label": "央视网 · 第53集",
+        "url": "https://dianshiju.cctv.com/2010/06/11/VIDE1354532625531950.shtml"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842444.html"
+      },
+      {
+        "label": "央视网 · 第56集",
+        "url": "https://tv.cctv.com/2014/08/04/VIDE1407103582876341.shtml"
+      },
+      {
+        "label": "第56集台词整理 · 客房内说明任命公函",
+        "url": "https://m.aipiaxi.com/xj-web/h5/article/701327"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842460.html"
+      }
+    ],
+    "image": "assets/guest-references/zhanshiwei-source.jpg",
+    "portrait": {
+      "image": "assets/guest-references/zhanshiwei-source.jpg",
+      "alt": "展侍卫 · 原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "展侍卫",
+      "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+      "sourceLabel": "原剧剧照来源"
+    },
+    "archiveGroup": "江湖来客与亲友"
+  },
+  {
+    "id": "yinshisan",
+    "core": false,
+    "title": "殷十三",
+    "role": "追杀包大仁的东厂刺客",
+    "summary": "他推开客房门，将买官风波中的危险带到了眼前；展侍卫的身份也在这场交锋中得到揭示。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "baodaren"
+      },
+      {
+        "kind": "character",
+        "id": "zhanshiwei"
+      },
+      {
+        "kind": "story",
+        "id": "guest-yinshisan-arrival"
+      }
+    ],
+    "sections": [
+      {
+        "title": "故事中的这一幕",
+        "text": "殷十三以住店为由上楼，随后推开包大仁的房门，亮明自己来自曹公公一方。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941676.shtml"
+      },
+      {
+        "label": "央视网 · 第56集",
+        "url": "https://tv.cctv.com/2014/08/04/VIDE1407103582876341.shtml"
+      },
+      {
+        "label": "第56集台词整理 · 客房内殷十三与包大仁",
+        "url": "https://m.aipiaxi.com/xj-web/h5/article/701327"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842460.html"
+      }
+    ],
+    "image": "assets/guest-references/yinshisan-source.jpg",
+    "portrait": {
+      "image": "assets/guest-references/yinshisan-source.jpg",
+      "alt": "殷十三 · 原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "殷十三",
+      "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+      "sourceLabel": "原剧剧照来源"
+    },
+    "archiveGroup": "江湖来客与亲友"
+  },
+  {
+    "id": "saidiao",
+    "core": false,
+    "title": "赛貂蝉",
+    "role": "怡红酒楼掌柜",
+    "summary": "她曾与同福客栈争生意，后来和小翠主仆易位。再回七侠镇时，昔日的对手反而伸手帮助了她。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "xiaocui"
+      },
+      {
+        "kind": "story",
+        "id": "guest-role-reversal"
+      }
+    ],
+    "sections": [
+      {
+        "title": "故事中的这一幕",
+        "text": "老白帮赛貂蝉把行李搬进客房，问起她与小翠为何身份颠倒。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941677.shtml"
+      },
+      {
+        "label": "央视网 · 第70集",
+        "url": "https://tv.cctv.com/2014/08/07/VIDE1407355927001255.shtml"
+      },
+      {
+        "label": "赛貂蝉（右）与小翠（中） · 剧照来源",
+        "url": "https://www.sohu.com/a/512750797_120099877"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://m.aipiaxi.com/xj-web/h5/article/170062"
+      }
+    ],
+    "image": "assets/guest-references/saidiao.jpg",
+    "portrait": {
+      "image": "assets/guest-references/saidiao.jpg",
+      "alt": "赛貂蝉（右）与小翠（中） · 原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "赛貂蝉（右）与小翠（中）",
+      "sourceUrl": "https://www.sohu.com/a/512750797_120099877",
+      "sourceLabel": "原剧剧照来源"
+    },
+    "archiveGroup": "七侠镇熟人"
+  },
+  {
+    "id": "xiaocui",
+    "core": false,
+    "title": "小翠",
+    "role": "赛貂蝉原来的丫鬟",
+    "summary": "她受过主人的苛待，身份翻转后又把委屈变成了报复。她与赛貂蝉的重逢，让客栈众人看见了这段旧账。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "saidiao"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "story",
+        "id": "guest-role-reversal"
+      }
+    ],
+    "sections": [
+      {
+        "title": "故事中的这一幕",
+        "text": "老白帮赛貂蝉把行李搬进客房，问起她与小翠为何身份颠倒。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941677.shtml"
+      },
+      {
+        "label": "央视网 · 第70集",
+        "url": "https://tv.cctv.com/2014/08/07/VIDE1407355927001255.shtml"
+      },
+      {
+        "label": "赛貂蝉（右）与小翠（中） · 剧照来源",
+        "url": "https://www.sohu.com/a/512750797_120099877"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://m.aipiaxi.com/xj-web/h5/article/170062"
+      }
+    ],
+    "image": "assets/guest-references/saidiao.jpg",
+    "portrait": {
+      "image": "assets/guest-references/saidiao.jpg",
+      "alt": "赛貂蝉（右）与小翠（中） · 原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "赛貂蝉（右）与小翠（中）",
+      "sourceUrl": "https://www.sohu.com/a/512750797_120099877",
+      "sourceLabel": "原剧剧照来源"
+    },
+    "archiveGroup": "七侠镇熟人"
+  },
+  {
+    "id": "duzijun",
+    "core": false,
+    "title": "杜子俊",
+    "role": "杨蕙兰的爱人",
+    "summary": "他追着蕙兰来到同福客栈，说明了失窃银票背后的原委，也与她一起面对母亲的阻挠。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "huilan"
+      },
+      {
+        "kind": "character",
+        "id": "dufuren"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "story",
+        "id": "guest-huilan-farewell"
+      }
+    ],
+    "sections": [
+      {
+        "title": "故事中的这一幕",
+        "text": "蕙兰与杜子俊在房中争执，大嘴推门进来，劝杜子俊别再让她四处躲藏。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941678.shtml"
+      },
+      {
+        "label": "央视网 · 第79集",
+        "url": "https://tv.cctv.com/2014/08/08/VIDE1407446657640690.shtml"
+      },
+      {
+        "label": "杨蕙兰 · 剧照来源",
+        "url": "https://cj.sina.com.cn/articles/view/7507435327/1bf7a5f3f00100xstq"
+      },
+      {
+        "label": "杜子俊 · 剧照来源",
+        "url": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/863466.html"
+      }
+    ],
+    "image": "assets/guest-references/duzijun.jpg",
+    "portrait": {
+      "image": "assets/guest-references/duzijun.jpg",
+      "alt": "杜子俊 · 原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "杜子俊",
+      "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+      "sourceLabel": "原剧剧照来源"
+    },
+    "archiveGroup": "江湖来客与亲友"
+  },
+  {
+    "id": "simpson",
+    "core": false,
+    "title": "辛普森",
+    "role": "归国经商的相亲来客",
+    "summary": "他与无双相亲，迅速送来聘礼，却在礼物与婚事里设下圈套。屋顶的月下交谈，也藏着两人不同的心思。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "wushuang"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "story",
+        "id": "guest-simpson"
+      },
+      {
+        "kind": "story",
+        "id": "roof-simpson-moon"
+      }
+    ],
+    "sections": [
+      {
+        "title": "故事中的这一幕",
+        "text": "小郭张罗相亲，辛普森送来聘礼，无双却发现事情没有那么简单。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941677.shtml"
+      },
+      {
+        "label": "央视网 · 第68集",
+        "url": "https://tv.cctv.com/2014/08/06/VIDE1407276916548890.shtml"
+      },
+      {
+        "label": "辛普森 · 剧照来源",
+        "url": "https://www.sohu.com/a/342428190_719912"
+      },
+      {
+        "label": "分场台词整理 · 地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/863396.html"
+      },
+      {
+        "label": "第68集分场台词 · 房顶夜",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/863396.html"
+      }
+    ],
+    "image": "assets/guest-references/simpson-verified-v02.jpg",
+    "portrait": {
+      "image": "assets/guest-references/simpson-verified-v02.jpg",
+      "alt": "辛普森 · 原剧造型 · 原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "辛普森 · 原剧造型",
+      "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+      "sourceLabel": "原剧剧照来源"
+    },
+    "archiveGroup": "江湖来客与亲友"
+  },
+  {
+    "id": "shiniang",
+    "core": false,
+    "title": "扈十娘",
+    "role": "从扬州来的歌伎",
+    "summary": "她对老白格外亲近，称他为波公子。嫌房间有人住过之后，她坚持住在大堂，惹得掌柜心里不是滋味。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "story",
+        "id": "guest-shiniang"
+      }
+    ],
+    "sections": [
+      {
+        "title": "故事中的这一幕",
+        "text": "怡红楼受损后，同福客栈接待了扈十娘；她与老白的纠葛，也让掌柜坐不住了。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941672.shtml"
+      },
+      {
+        "label": "央视网 · 第11集",
+        "url": "https://tv.cctv.com/2014/07/28/VIDE1406491031934973.shtml"
+      },
+      {
+        "label": "扈十娘 · 剧照来源",
+        "url": "https://m.baike.com/wikiid/2771222387586168225"
+      },
+      {
+        "label": "第11集台词整理 · 看房与改住大堂",
+        "url": "https://m.aipiaxi.com/xj-web/h5/article/185710"
+      }
+    ],
+    "image": "assets/guest-references/shiniang.jpg",
+    "portrait": {
+      "image": "assets/guest-references/shiniang.jpg",
+      "alt": "扈十娘 · 原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "扈十娘",
+      "sourceUrl": "https://m.baike.com/wikiid/2771222387586168225",
+      "sourceLabel": "原剧剧照来源"
+    },
+    "archiveGroup": "江湖来客与亲友"
+  },
+  {
+    "id": "yidianhong",
+    "core": false,
+    "title": "平谷一点红",
+    "role": "潜入七侠镇的剑客",
+    "summary": "爱干净、讲究仪表的他卷入私盐风波，试图借捕快身份脱身，最终被客栈众人识破。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "yan"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "story",
+        "id": "guest-yidianhong"
+      }
+    ],
+    "sections": [
+      {
+        "title": "故事中的这一幕",
+        "text": "私盐案的卧底行动还没结束，试图劫狱的平谷一点红又来到客栈。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941673.shtml"
+      },
+      {
+        "label": "央视网 · 第23集",
+        "url": "https://dianshiju.cctv.com/2010/06/11/VIDE1354532099615442.shtml"
+      },
+      {
+        "label": "平谷一点红 · 剧照来源",
+        "url": "https://www.tvmao.com/character/aCgxIi4%3D"
+      },
+      {
+        "label": "分场台词整理 · 地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842262.html"
+      }
+    ],
+    "image": "assets/guest-references/yidianhong.jpg",
+    "portrait": {
+      "image": "assets/guest-references/yidianhong.jpg",
+      "alt": "平谷一点红 · 原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "平谷一点红",
+      "sourceUrl": "https://www.tvmao.com/character/aCgxIi4%3D",
+      "sourceLabel": "原剧剧照来源"
+    },
+    "archiveGroup": "江湖来客与亲友"
+  },
+  {
+    "id": "liuxingyu",
+    "core": false,
+    "title": "柳星雨",
+    "role": "柳月云的姐姐",
+    "summary": "她以婚约接近大嘴，和妹妹打着盗圣宝藏的主意，却在大嘴的真情面前开始犹疑。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "liuyueyun"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "story",
+        "id": "guest-xingyu-arrival"
+      },
+      {
+        "kind": "story",
+        "id": "guest-sisters"
+      }
+    ],
+    "sections": [
+      {
+        "title": "故事中的这一幕",
+        "text": "大嘴酒醒后面对柳星雨，一段新的感情让他在过去与未来之间犹豫。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941678.shtml"
+      },
+      {
+        "label": "央视网 · 第73集",
+        "url": "https://tv.cctv.com/2014/08/07/VIDE1407360792570779.shtml"
+      },
+      {
+        "label": "柳星雨 · 剧照来源",
+        "url": "https://k.sina.com.cn/article_6579716227_1882e808300100m15f.html"
+      },
+      {
+        "label": "分场台词整理 · 地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/863429.html"
+      },
+      {
+        "label": "央视网 · 第74集",
+        "url": "https://tv.cctv.com/2014/08/07/VIDE1407363137286390.shtml"
+      },
+      {
+        "label": "柳月云（右）与柳星雨（左） · 剧照来源",
+        "url": "https://www.bilibili.com/opus/772212580035854354"
+      },
+      {
+        "label": "分场台词整理 · 地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/863435.html"
+      }
+    ],
+    "image": "assets/guest-references/liuxingyu.jpg",
+    "portrait": {
+      "image": "assets/guest-references/liuxingyu.jpg",
+      "alt": "柳星雨 · 原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "柳星雨",
+      "sourceUrl": "https://k.sina.com.cn/article_6579716227_1882e808300100m15f.html",
+      "sourceLabel": "原剧剧照来源"
+    },
+    "archiveGroup": "江湖来客与亲友"
+  },
+  {
+    "id": "liuyueyun",
+    "core": false,
+    "title": "柳月云",
+    "role": "与姐姐同行的女贼",
+    "summary": "她和柳星雨来到客栈，为所谓的盗圣宝藏设计骗局，迷魂散也让这场婚事露出了危险的一面。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "liuxingyu"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "story",
+        "id": "guest-sisters"
+      }
+    ],
+    "sections": [
+      {
+        "title": "故事中的这一幕",
+        "text": "柳月云出现，姐妹的真正目的浮出水面，星雨却被大嘴的真心打动。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941678.shtml"
+      },
+      {
+        "label": "央视网 · 第74集",
+        "url": "https://tv.cctv.com/2014/08/07/VIDE1407363137286390.shtml"
+      },
+      {
+        "label": "柳星雨 · 剧照来源",
+        "url": "https://k.sina.com.cn/article_6579716227_1882e808300100m15f.html"
+      },
+      {
+        "label": "柳月云（右）与柳星雨（左） · 剧照来源",
+        "url": "https://www.bilibili.com/opus/772212580035854354"
+      },
+      {
+        "label": "分场台词整理 · 地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/863435.html"
+      }
+    ],
+    "image": "assets/guest-references/liuyueyun.jpg",
+    "portrait": {
+      "image": "assets/guest-references/liuyueyun.jpg",
+      "alt": "柳月云（右）与柳星雨（左） · 原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "柳月云（右）与柳星雨（左）",
+      "sourceUrl": "https://www.bilibili.com/opus/772212580035854354",
+      "sourceLabel": "原剧剧照来源"
+    },
+    "archiveGroup": "江湖来客与亲友"
+  },
+  {
+    "id": "murongzi",
+    "core": false,
+    "title": "慕容子",
+    "role": "《江湖月报》特约撰稿人",
+    "summary": "她来采访莫小贝，笔下却把客栈日常写得别有用心。秀才与她的一番交谈，把话题带回了何为侠义。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "murongyan"
+      },
+      {
+        "kind": "story",
+        "id": "guest-murongzi-stay"
+      }
+    ],
+    "sections": [
+      {
+        "title": "故事中的这一幕",
+        "text": "采访惹恼了掌柜，稿子被撕后，慕容子要回京城告状；掌柜只好答应重新安排采访。"
+      }
+    ],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941675.shtml"
+      },
+      {
+        "label": "央视网 · 第49集",
+        "url": "https://tv.cctv.com/2014/08/03/VIDE1407018085384882.shtml"
+      },
+      {
+        "label": "第49集台词整理 · 饭菜送到客房",
+        "url": "https://m.aipiaxi.com/xj-web/h5/article/414901"
+      },
+      {
+        "label": "分场台词整理 · 地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842416.html"
+      }
+    ],
+    "image": "assets/guest-references/murongzi-source.jpg",
+    "portrait": {
+      "image": "assets/guest-references/murongzi-source.jpg",
+      "alt": "慕容子 · 原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "慕容子",
+      "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+      "sourceLabel": "原剧剧照来源"
+    },
+    "archiveGroup": "江湖来客与亲友"
+  },
+  {
+    "id": "qian",
+    "core": false,
+    "title": "钱掌柜",
+    "role": "七侠镇的财主",
+    "summary": "常来客栈的生意人，与钱夫人的相处和对掌柜的讨好，为镇上的日常添了不少笑料。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "qianfuren"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "电视剧角色名录",
+        "url": "https://zh.wikipedia.org/zh-hans/武林外传"
+      }
+    ],
+    "archiveGroup": "七侠镇熟人",
+    "image": "assets/portraits-tv/qian-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/qian-v77.jpg",
+      "alt": "钱掌柜在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "钱掌柜在画面左侧，与小郭同桌。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/39/39_1280_%E7%AE%A1%E7%94%A8%E5%B0%B1%E8%A1%8C.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "40%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "qianfuren",
+    "core": false,
+    "title": "钱夫人",
+    "role": "钱掌柜的妻子",
+    "summary": "她一心想把同福客栈纳入自己手中；围绕小贝的绑架风波，最终揭开了她的算计。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "qian"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941678.shtml"
+      }
+    ],
+    "archiveGroup": "七侠镇熟人",
+    "image": "assets/portraits-tv/qianfuren-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/qianfuren-v77.jpg",
+      "alt": "钱夫人在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "钱夫人在画面右侧，身穿绿衣、红色内衫。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/28/28_2140_%E4%BD%A0%E5%91%80.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "75%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "xiaoqing",
+    "core": false,
+    "title": "小青",
+    "role": "与小郭同行的丫鬟",
+    "summary": "她和小郭结伴闯江湖，以雌雄双煞之名行侠，却把许多事情想岔了。客栈是这场冒险改变方向的地方。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "furong"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941671.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/xiaoqing-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/xiaoqing-v77.jpg",
+      "alt": "小青在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "小青在画面右侧，粉色衣衫、紫色发带；左侧是小郭。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/01/01_0980_%E4%B8%80%E6%97%B6%E5%8D%8A%E4%BC%9A%E5%84%BF%E8%BF%98%E6%AD%BB%E4%B8%8D%E4%BA%86.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "90%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "zhuxiansheng",
+    "core": false,
+    "title": "朱先生",
+    "role": "白马书院先生",
+    "summary": "小贝入学后的表现让他登门与掌柜交谈；读书、管教与孩子的顽皮，也从书院一路延续到客栈。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "qiuxiaodong"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941671.shtml"
+      }
+    ],
+    "archiveGroup": "七侠镇熟人",
+    "image": "assets/portraits-tv/zhuxiansheng-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/zhuxiansheng-v77.jpg",
+      "alt": "朱先生在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "朱先生 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/03/03_1480_%E6%88%91%E7%9F%A5%E9%81%93.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "douxiansheng",
+    "core": false,
+    "title": "窦先生",
+    "role": "教小贝画画的先生",
+    "summary": "掌柜为小贝请来的绘画老师，把客栈的故事引向了画笔与想象中的另一番天地。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "电视剧角色名录",
+        "url": "https://zh.wikipedia.org/zh-hans/武林外传"
+      }
+    ],
+    "archiveGroup": "七侠镇熟人",
+    "image": "assets/portraits-tv/douxiansheng-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/douxiansheng-v77.jpg",
+      "alt": "窦先生在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "窦先生 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/09/09_0850_%E5%85%88%E7%9C%8B%E7%9C%8B%E5%A8%83%E5%86%8D%E8%AF%B4.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "leilaowu",
+    "core": false,
+    "title": "雷老五",
+    "role": "与盗神玉牌有关的来客",
+    "summary": "他潜入衙门的举动，让客栈众人再次碰到了江湖身份与官府之间的麻烦。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "xing"
+      },
+      {
+        "kind": "character",
+        "id": "yan"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941672.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/leilaowu-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/leilaowu-v77.jpg",
+      "alt": "雷老五在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "雷老五 · 原剧中的一幕。",
+      "sourceUrl": "https://k.sina.cn/article_5728588416_155735280001001lt2.html",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "housan",
+    "core": false,
+    "title": "侯三",
+    "role": "搅扰客栈的泼皮",
+    "summary": "他来到客栈找麻烦，掌柜和伙计们只得一起想办法应付。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941672.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/housan-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/housan-v77.jpg",
+      "alt": "侯三在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "侯三 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/20/20_0518_%E8%BF%99%E8%A6%81%E6%98%AF%E8%AE%A9%E9%9B%8C%E9%9B%84%E5%8F%8C%E7%85%9E%E5%90%AC%E8%A7%81%E4%BA%86.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "shangguanyundun",
+    "core": false,
+    "title": "上官云顿",
+    "role": "五毒派杀手",
+    "summary": "他为追杀小郭来到客栈，看似客气的言行之下，藏着令众人紧张的杀机。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "电视剧角色名录",
+        "url": "https://zh.wikipedia.org/zh-hans/武林外传"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/shangguanyundun-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/shangguanyundun-v77.jpg",
+      "alt": "上官云顿在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "上官云顿 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/06/06_2260_%E6%89%80%E4%BB%A5%E6%88%91%E5%B0%B1%E4%B8%8D%E6%8A%98%E7%A3%A8%E5%A4%A7%E5%AE%B6%E4%BA%86%E5%95%8A.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "jinyinerlao",
+    "core": false,
+    "title": "金银二老",
+    "role": "前来追杀小郭的杀手搭档",
+    "summary": "两人因追杀小郭的悬赏来到客栈，江湖的凶险就这样闯进了伙计们的日常。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "电视剧角色名录",
+        "url": "https://zh.wikipedia.org/zh-hans/武林外传"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/jinyinerlao-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/jinyinerlao-v77.jpg",
+      "alt": "金银二老来袭时客栈众人避险的原剧画面",
+      "kind": "故事剧照",
+      "caption": "金银二老来袭时，客栈众人躲避毒虫的画面。二老没有露脸，本图为故事剧照。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/06/06_1896_%E4%B8%8D%E5%A5%BD%E9%97%A8%E7%AA%97%E6%9C%89%E7%BC%9D_%E5%8E%A8%E6%88%BF.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true,
+      "contextOnly": true
+    }
+  },
+  {
+    "id": "jiwubing",
+    "core": false,
+    "title": "姬无病",
+    "role": "姬无命的弟弟",
+    "summary": "他从西域赶来为哥哥报仇，绑架秀才与无双，逼众人交出盗神玉牌。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "jiwuming"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "wushuang"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941674.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/jiwubing-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/jiwubing-v77.jpg",
+      "alt": "姬无病在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "姬无病 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/33/33_1142_%E6%88%91%E5%8F%AB%E5%A7%AC%E6%97%A0%E7%97%85.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "gongsunwulong",
+    "core": false,
+    "title": "公孙乌龙",
+    "role": "姬无命的师父",
+    "summary": "武功高强的他来到客栈，向秀才请教如何赎罪。众人不得不面对一个既危险又难以回答的问题。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "jiwuming"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "baisanniang"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941675.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/gongsunwulong-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/gongsunwulong-v77.jpg",
+      "alt": "公孙乌龙在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "公孙乌龙站在画面中央，白展堂与白三娘在两侧。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/44/44_0760_%E9%82%A3%E4%B8%AA%E7%A2%97%E6%88%91%E5%88%B7%E5%AE%8C%E4%BA%86%E8%BF%98%E6%9C%89%E4%BB%80%E4%B9%88%E6%B4%BB%E5%84%BF.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "yuesongtao",
+    "core": false,
+    "title": "岳松涛",
+    "role": "华山派掌门",
+    "summary": "他来到七侠镇，与成为衡山派掌门的小贝相遇，把五岳盟主的争夺带进了客栈众人的生活。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941675.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/yuesongtao-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/yuesongtao-v77.jpg",
+      "alt": "岳松涛在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "岳松涛 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/46/46_1498_%E7%9E%A7%E7%9E%A7%E6%AD%A3%E6%89%80%E8%B0%93%E8%87%AA%E5%8F%A4%E8%8B%B1%E9%9B%84%E5%87%BA%E5%B0%91%E5%B9%B4.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "hanjuan",
+    "core": false,
+    "title": "韩娟",
+    "role": "掌柜的儿时好友",
+    "summary": "昔日玩伴见面，却陷入了攀比。她与丈夫老何的处境，让掌柜重新看待面子和感情。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "laohe"
+      },
+      {
+        "kind": "character",
+        "id": "mazhuozi"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941675.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/hanjuan-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/hanjuan-v77.jpg",
+      "alt": "韩娟在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "韩娟 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/80/80_2298_%E5%A5%B9%E4%B8%80%E4%B8%AA%E5%B0%8F%E6%AF%9B%E5%AD%A9%E6%87%82%E4%BB%80%E4%B9%88%E5%91%80.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "laohe",
+    "core": false,
+    "title": "老何",
+    "role": "韩娟的丈夫",
+    "summary": "与韩娟同行时，他一度被误认作仆人；两人的关系，揭开了这场豪门排场的另一面。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "hanjuan"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941675.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/laohe-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/laohe-v77.jpg",
+      "alt": "老何在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "老何 · 原剧中的一幕。",
+      "sourceUrl": "https://www.jendow.com.tw/wiki/老何[電視劇《武林外傳》中人物]",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "tongboda",
+    "core": false,
+    "title": "佟伯达",
+    "role": "掌柜的父亲，龙门镖局当家",
+    "summary": "父亲来到客栈，最关心的是女儿的归宿；掌柜想留下的日子，却有她自己的答案。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "tongshitou"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941673.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/tongboda-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/tongboda-v77.jpg",
+      "alt": "佟伯达在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "佟伯达 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/25/25_1102_%E6%97%A0%E5%9C%B0%E8%87%AA%E5%AE%B9%E5%95%8A.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "tongshitou",
+    "core": false,
+    "title": "佟石头",
+    "role": "掌柜的弟弟",
+    "summary": "他离家闯江湖，在姐姐的客栈落脚；与无双相遇后，也开始面对自己的感情和选择。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "tongboda"
+      },
+      {
+        "kind": "character",
+        "id": "wushuang"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941676.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/tongshitou-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/tongshitou-v77.jpg",
+      "alt": "佟石头在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "佟石头在画面右侧，身穿褐色衣衫。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/30/30_0632_%E5%93%8E%E5%91%80_%E8%BF%99%E6%89%8B%E5%8A%B2%E6%8C%BA%E5%A4%A7%E7%9A%84%E5%95%8A.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "90%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "zhugekongfang",
+    "core": false,
+    "title": "诸葛孔方",
+    "role": "退役御膳房总管",
+    "summary": "他来到客栈寻找传人，在大嘴最失意的时候看中了他，让这个厨子重新面对自己的手艺。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "qingfeng"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941674.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/zhugekongfang-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/zhugekongfang-v77.jpg",
+      "alt": "诸葛孔方在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "诸葛孔方 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/32/32_1498_%E4%B8%8D%E4%B8%8D%E4%B8%8D_%E6%88%91%E4%B8%8D%E7%A0%8D%E4%BD%A0_%E8%BF%87%E6%9D%A5%E8%BF%87%E6%9D%A5.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "qingfeng",
+    "core": false,
+    "title": "清风",
+    "role": "诸葛孔方的徒弟",
+    "summary": "他随师父来到客栈，与大嘴的厨艺之争相连。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "zhugekongfang"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "电视剧角色名录",
+        "url": "https://zh.wikipedia.org/zh-hans/武林外传"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/qingfeng-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/qingfeng-v77.jpg",
+      "alt": "清风在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "清风 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/32/32_1430_%E6%88%91%E5%AE%B6%E5%85%88%E7%94%9F_%E5%AD%97%E5%AD%94%E6%96%B9.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "luyiming",
+    "core": false,
+    "title": "陆一鸣",
+    "role": "衡山派弟子",
+    "summary": "他惦记门派的未来，来请小贝回衡山，也把剑谱和掌门的责任带到了客栈。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "zhoudunru"
+      },
+      {
+        "kind": "character",
+        "id": "zhuxiaoyun"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941674.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/luyiming-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/luyiming-v77.jpg",
+      "alt": "陆一鸣在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "陆一鸣在画面左侧，戴头带、留着胡须。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/17/17_0314_%E5%9C%A8%E4%B8%8B%E9%99%86%E4%B8%80%E9%B8%A3.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "20%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "zhoudunru",
+    "core": false,
+    "title": "周敦儒",
+    "role": "衡山派弟子",
+    "summary": "他与陆一鸣、祝小芸一同关心门派的去向，拥小贝为掌门。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "luyiming"
+      },
+      {
+        "kind": "character",
+        "id": "zhuxiaoyun"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "电视剧角色名录",
+        "url": "https://zh.wikipedia.org/zh-hans/武林外传"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/zhoudunru-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/zhoudunru-v77.jpg",
+      "alt": "周敦儒在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "周敦儒在画面左侧；右侧长发男子是祝小芸。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/17/17_0350_%E4%B8%A4%E5%B9%B4%E4%B8%8B%E6%9D%A5%E5%B0%B1%E5%89%A9%E4%B8%8B%E6%88%91%E4%BB%AC%E4%BB%A8%E4%BA%86.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "20%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "zhuxiaoyun",
+    "core": false,
+    "title": "祝小芸",
+    "role": "衡山派弟子",
+    "summary": "他和师兄们来到客栈，希望小贝接掌衡山派。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "luyiming"
+      },
+      {
+        "kind": "character",
+        "id": "zhoudunru"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "电视剧角色名录",
+        "url": "https://zh.wikipedia.org/zh-hans/武林外传"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/zhuxiaoyun-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/zhuxiaoyun-v77.jpg",
+      "alt": "祝小芸在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "祝小芸 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/17/17_0370_%E5%BD%93%E6%88%91%E4%BB%AC%E7%9A%84%E6%8E%8C%E9%97%A8%E6%80%8E%E4%B9%88%E4%BC%9A%E6%B2%A1%E6%84%8F%E6%80%9D.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "qiuxiaodong",
+    "core": false,
+    "title": "邱小冬",
+    "role": "小贝的书院同学",
+    "summary": "他与小贝一起读书、玩耍，也让掌柜看到了孩子们有自己的一套主意。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "zhuxiansheng"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "电视剧角色名录",
+        "url": "https://zh.wikipedia.org/zh-hans/武林外传"
+      }
+    ],
+    "archiveGroup": "七侠镇熟人",
+    "image": "assets/portraits-tv/qiuxiaodong-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/qiuxiaodong-v77.jpg",
+      "alt": "邱小冬在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "邱小冬在画面右侧，戴蓝色花帽。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/35/35_2164_%E9%82%B1%E5%B0%8F%E5%86%AC.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "100%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "zhuifeng",
+    "core": false,
+    "title": "追风",
+    "role": "六扇门神捕，小郭的师兄",
+    "summary": "他的突然来访让老白坐立不安；江湖名声落到客栈里，成了几个人各自的心事。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "hongling"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "guojuxia"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941674.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/zhuifeng-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/zhuifeng-v77.jpg",
+      "alt": "追风在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "追风 · 原剧中的一幕。",
+      "sourceUrl": "https://www.sohu.com/a/300845762_472412",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "wushouyi",
+    "core": false,
+    "title": "吴守义",
+    "role": "来到七侠镇的时空旅客",
+    "summary": "他为传说中的赤焰狂魔而来，却在与年幼小贝和客栈众人的相遇中，重新看待眼前的人生。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941673.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/wushouyi-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/wushouyi-v77.jpg",
+      "alt": "吴守义在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "吴守义 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/21/21_0422_%E6%83%B3%E8%A7%81%E8%A7%81%E5%A5%B9.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "jiangxiaodao",
+    "core": false,
+    "title": "江小道",
+    "role": "因榴梿风波来到客栈的青年",
+    "summary": "一场关于榴梿的误会，把他和客栈伙计们卷到了一起。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941673.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/jiangxiaodao-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/jiangxiaodao-v77.jpg",
+      "alt": "江小道在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "江小道 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/22/22_2344_%E5%B8%88%E7%88%B6%E6%94%B9%E5%8F%AB%E6%88%91%E6%B1%9F%E5%B0%8F%E9%81%93_%E4%BC%A0%E6%88%91%E6%AD%A6%E5%8A%9F%E6%8E%88%E6%88%91%E8%89%BA.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "guoqiangwei",
+    "core": false,
+    "title": "郭蔷薇",
+    "role": "小郭的堂妹",
+    "summary": "听了姐姐夸大的江湖经历后，她也离家闯荡。来到客栈，才发现真正的日子与故事里的大侠相差很远。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "guojuxia"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941677.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/guoqiangwei-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/guoqiangwei-v77.jpg",
+      "alt": "郭蔷薇在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "郭蔷薇在画面右侧，与吕秀才同桌。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/65/65_1804_%E8%AE%B0%E8%B4%A6%E5%91%A2%E4%BD%A0%E5%8F%88%E9%97%B2%E7%9D%80%E6%B2%A1%E4%BA%8B%E5%88%B0%E5%A4%84%E9%80%9B%E5%95%8A.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "100%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "nangongcanhua",
+    "core": false,
+    "title": "南宫残花",
+    "role": "掌柜的小师妹",
+    "summary": "她把自己的环保主张带进客栈，闹得众人难以招架，也引出了掌柜装睡的一连串风波。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941676.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/nangongcanhua-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/nangongcanhua-v77.jpg",
+      "alt": "南宫残花在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "南宫残花 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/59/59_1778_%E5%AF%B9%E4%B8%8D%E8%B5%B7%E6%88%91%E5%A5%BD%E8%B1%A1%E6%B2%A1%E5%90%AC%E6%87%82.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "mazhuozi",
+    "core": false,
+    "title": "马卓子",
+    "role": "装神弄鬼的马大师",
+    "summary": "韩娟带来的所谓大师，想借诅咒信和法事骗取钱财，最终被客栈众人拆穿。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "hanjuan"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941677.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/mazhuozi-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/mazhuozi-v77.jpg",
+      "alt": "马卓子在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "马卓子在画面左侧，戴土黄色帽子；右侧是小郭。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/68/68_2312_%E9%A9%AC%E5%8D%93%E5%AD%90%E6%8A%B9%E5%B8%83%E6%8B%BF%E7%9D%80.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "30%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "jinxiangyu",
+    "core": false,
+    "title": "金湘玉",
+    "role": "十八里铺的老板娘",
+    "summary": "她爽快待人，吸引客栈众人接连前去，也让掌柜重新面对经营方式与感情里的不安。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941678.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/jinxiangyu-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/jinxiangyu-v77.jpg",
+      "alt": "金湘玉在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "金湘玉 · 原剧中的一幕。",
+      "sourceUrl": "https://www.sohu.com/a/300845762_472412",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": false
+    }
+  },
+  {
+    "id": "xiebudong",
+    "core": false,
+    "title": "谢步东",
+    "role": "前来查绑架案的谢捕头",
+    "summary": "他满口办案经验，却拿不出可靠的判断，让原本焦急的客栈众人更加头疼。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "yan"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941678.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/xiebudong-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/xiebudong-v77.jpg",
+      "alt": "谢步东在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "谢步东 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/76/76_1100_%E4%BD%A0%E7%BB%9D%E5%AF%B9%E4%B8%8D%E4%BC%9A%E9%97%AE%E5%91%90.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "lingtengyun",
+    "core": false,
+    "title": "凌腾云",
+    "role": "接替小六的新捕快",
+    "summary": "他在小六调职时到来，与老白有过旧日交锋。这间客栈的安稳，也迎来了又一次考验。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "yan"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941678.shtml"
+      }
+    ],
+    "archiveGroup": "七侠镇熟人",
+    "image": "assets/portraits-tv/lingtengyun-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/lingtengyun-v77.jpg",
+      "alt": "凌腾云在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "凌腾云 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/79/79_0334_%E5%9C%A8%E4%B8%8B%E5%87%8C%E8%85%BE%E4%BA%91%E6%8B%9C%E8%A7%81%E7%87%95%E6%8D%95%E5%A4%B4.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "dufuren",
+    "core": false,
+    "title": "杜夫人",
+    "role": "杜子俊的母亲",
+    "summary": "她不赞成儿子与蕙兰的婚事，用失窃的银票珠宝设局；大嘴最终选择帮助这对相爱的人。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "duzijun"
+      },
+      {
+        "kind": "character",
+        "id": "huilan"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941678.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/dufuren-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/dufuren-v77.jpg",
+      "alt": "杜夫人在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "杜夫人在画面左侧，身穿花纹外衫；右侧是玲珑。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/78/78_1802_%E7%AA%9D%E8%97%8F%E9%80%83%E7%8A%AF%E5%8F%AF%E6%98%AF%E8%A6%81%E5%88%A4%E5%A5%BD%E5%A4%9A%E5%B9%B4%E7%9A%84.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "15%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "qijiulaoye",
+    "core": false,
+    "title": "七舅姥爷",
+    "role": "燕小六的长辈",
+    "summary": "小六常常挂在嘴边的亲人，也与老邢临别前后的故事相连。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "yan"
+      },
+      {
+        "kind": "character",
+        "id": "xing"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "电视剧角色名录",
+        "url": "https://zh.wikipedia.org/zh-hans/武林外传"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/qijiulaoye-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/qijiulaoye-v77.jpg",
+      "alt": "七舅姥爷在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "七舅姥爷 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/49/49_1662_%E5%A5%BD%E5%95%8A%E4%B8%83%E8%88%85%E5%A7%A5%E7%88%B7%E8%AF%B4%E8%AF%9D%E4%B8%8D%E7%AE%A1%E7%94%A8%E4%BA%86%E6%98%AF%E5%90%A7.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "mobao",
+    "core": false,
+    "title": "莫小宝",
+    "role": "小贝的哥哥，衡山派前掌门",
+    "summary": "他与掌柜尚未拜堂便已去世。小贝和嫂子此后的相依为命，成了同福客栈最深的一份牵挂。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "电视剧角色名录",
+        "url": "https://zh.wikipedia.org/zh-hans/武林外传"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/mobao-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/mobao-v77.jpg",
+      "alt": "莫小宝在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "莫小宝在画面右侧；这是掌柜设想中的一幕。",
+      "sourceUrl": "https://www.sohu.com/a/494358170_121058016",
+      "sourceLabel": "查看剧照来源",
+      "focus": "100%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "gongzhanglao",
+    "core": false,
+    "title": "恭长老",
+    "role": "丐帮长老",
+    "summary": "他的出现让老邢隐藏的丐帮身份再也藏不住，老邢与小六的师徒关系也因此发生转折。",
+    "keywords": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xing"
+      },
+      {
+        "kind": "character",
+        "id": "yan"
+      },
+      {
+        "kind": "character",
+        "id": "xiaomi"
+      }
+    ],
+    "sections": [],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 原剧分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941673.shtml"
+      }
+    ],
+    "archiveGroup": "江湖来客与亲友",
+    "image": "assets/portraits-tv/gongzhanglao-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/gongzhanglao-v77.jpg",
+      "alt": "恭长老在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "恭长老在画面右侧，戴灰帽；左侧是小米。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/60/60_1512_%E6%81%AD%E9%95%BF%E8%80%81%E4%B9%83%E6%88%91%E4%B8%90%E5%B8%AE%E6%81%AD%E5%96%9C%E5%8F%91%E8%B4%A2%E5%9B%9B%E5%A4%A7%E9%95%BF%E8%80%81%E4%B9%8B%E4%B8%80.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "95%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "laohong",
+    "title": "老洪",
+    "role": "教大嘴学掌的江湖骗子",
+    "summary": "他把降龙十巴掌当作绝世武功教给大嘴，让一心想当大侠的厨子信以为真。",
+    "sections": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "story",
+        "id": "yard-dragon-palm"
+      }
+    ],
+    "keywords": [],
+    "core": false,
+    "archiveGroup": "江湖来客与亲友",
+    "sources": [
+      {
+        "label": "CCTV电视剧 · 第19集练掌片段",
+        "url": "https://www.youtube.com/watch?v=urO6Z945NsM"
+      },
+      {
+        "label": "第19集分场台词 · 后院拍砖",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842231.html"
+      }
+    ],
+    "image": "assets/portraits-tv/laohong-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/laohong-v77.jpg",
+      "alt": "老洪在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "老洪在画面左侧，与大嘴同框。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/19/19_2218_%E5%B8%88%E7%88%B6%E4%BD%A0%E4%B8%8D%E7%9F%A5%E9%81%93_%E6%88%91%E4%B8%8D%E8%AE%A4%E5%AD%97%E5%84%BF.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "35%",
+      "landscape": true
+    }
+  },
+  {
+    "id": "xiezhongda",
+    "title": "谢仲达",
+    "role": "老白离开后新招的跑堂",
+    "summary": "他以跑堂身份混入客栈，实际打着抢劫的主意。小贝察觉异常，客栈众人却一度没听进她的提醒。",
+    "sections": [],
+    "related": [
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      }
+    ],
+    "keywords": [],
+    "core": false,
+    "archiveGroup": "江湖来客与亲友",
+    "sources": [
+      {
+        "label": "新浪娱乐 · 第63集简介",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941677.shtml"
+      }
+    ],
+    "image": "assets/portraits-tv/xiezhongda-v77.jpg",
+    "portrait": {
+      "image": "assets/portraits-tv/xiezhongda-v77.jpg",
+      "alt": "谢仲达在《武林外传》中的原剧剧照",
+      "kind": "原剧剧照",
+      "caption": "谢仲达 · 原剧中的一幕。",
+      "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/61/61_1728_%E6%88%91%E5%A7%93%E8%B0%A2%E5%8F%AB%E4%BB%B2%E8%BE%BE%E5%A4%B4%E5%9B%9E%E8%BF%9B%E5%9F%8E%E6%B2%A1%E5%95%A5%E7%BB%8F%E9%AA%8C.jpg",
+      "sourceLabel": "查看剧照来源",
+      "focus": "50%",
+      "landscape": true
+    }
+  }
+]

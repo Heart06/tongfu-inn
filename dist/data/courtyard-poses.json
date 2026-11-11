@@ -1,0 +1,156 @@
+{
+  "xiangyu": {
+    "image": "assets/xiangyu-idle-unified-v03.webp",
+    "atlasWidth": 136,
+    "atlasHeight": 336,
+    "x": 8,
+    "y": 8,
+    "width": 120,
+    "height": 320
+  },
+  "zhantang": {
+    "image": "assets/zhantang-idle-unified-v03.webp",
+    "atlasWidth": 170,
+    "atlasHeight": 349,
+    "x": 8,
+    "y": 8,
+    "width": 154,
+    "height": 333
+  },
+  "furong": {
+    "image": "assets/furong-idle-unified-v03.webp",
+    "atlasWidth": 149,
+    "atlasHeight": 336,
+    "x": 8,
+    "y": 8,
+    "width": 133,
+    "height": 320
+  },
+  "xiucai": {
+    "image": "assets/xiucai-idle-unified-v03.webp",
+    "atlasWidth": 141,
+    "atlasHeight": 336,
+    "x": 8,
+    "y": 8,
+    "width": 125,
+    "height": 320
+  },
+  "dazui": {
+    "image": "assets/dazui-idle-unified-v03.webp",
+    "atlasWidth": 180,
+    "atlasHeight": 345,
+    "x": 8,
+    "y": 8,
+    "width": 164,
+    "height": 329
+  },
+  "xiaobei": {
+    "image": "assets/xiaobei-idle-unified-v03.webp",
+    "atlasWidth": 114,
+    "atlasHeight": 256,
+    "x": 8,
+    "y": 8,
+    "width": 98,
+    "height": 240
+  },
+  "furong-wash": {
+    "image": "assets/courtyard-actions-atlas-v02.webp",
+    "atlasWidth": 1448,
+    "atlasHeight": 1086,
+    "x": 73,
+    "y": 13,
+    "width": 337,
+    "height": 392,
+    "clipPath": "polygon(0 0,100% 0,100% 83%,84% 83%,84% 100%,0 100%)"
+  },
+  "xiaobei-rope": {
+    "image": "assets/courtyard-actions-atlas-v02.webp",
+    "atlasWidth": 1448,
+    "atlasHeight": 1086,
+    "x": 430,
+    "y": 0,
+    "width": 281,
+    "height": 375
+  },
+  "dazui-bricks": {
+    "image": "assets/courtyard-actions-atlas-v02.webp",
+    "atlasWidth": 1448,
+    "atlasHeight": 1086,
+    "x": 769,
+    "y": 14,
+    "width": 252,
+    "height": 387
+  },
+  "xiucai-watch": {
+    "image": "assets/courtyard-actions-atlas-v02.webp",
+    "atlasWidth": 1448,
+    "atlasHeight": 1086,
+    "x": 1153,
+    "y": 11,
+    "width": 225,
+    "height": 391
+  },
+  "furong-breathe": {
+    "image": "assets/courtyard-actions-atlas-v02.webp",
+    "atlasWidth": 1448,
+    "atlasHeight": 1086,
+    "x": 716,
+    "y": 392,
+    "width": 383,
+    "height": 361
+  },
+  "onion-duo": {
+    "image": "assets/courtyard-onion-duo-v01.webp",
+    "atlasWidth": 1254,
+    "atlasHeight": 1254,
+    "x": 70,
+    "y": 33,
+    "width": 976,
+    "height": 1152
+  },
+  "xiaobei-corn": {
+    "image": "assets/courtyard-actions-atlas-v02.webp",
+    "atlasWidth": 1448,
+    "atlasHeight": 1086,
+    "x": 1165,
+    "y": 430,
+    "width": 182,
+    "height": 304
+  },
+  "zhantang-seated41": {
+    "image": "assets/courtyard-actions-atlas-v02.webp",
+    "atlasWidth": 1448,
+    "atlasHeight": 1086,
+    "x": 70,
+    "y": 742,
+    "width": 310,
+    "height": 344
+  },
+  "xiangyu-seated41": {
+    "image": "assets/courtyard-actions-atlas-v02.webp",
+    "atlasWidth": 1448,
+    "atlasHeight": 1086,
+    "x": 424,
+    "y": 741,
+    "width": 247,
+    "height": 345
+  },
+  "dazui-seated41": {
+    "image": "assets/courtyard-actions-atlas-v02.webp",
+    "atlasWidth": 1448,
+    "atlasHeight": 1086,
+    "x": 751,
+    "y": 747,
+    "width": 281,
+    "height": 339
+  },
+  "xiucai-seated41": {
+    "image": "assets/courtyard-actions-atlas-v02.webp",
+    "atlasWidth": 1448,
+    "atlasHeight": 1086,
+    "x": 1118,
+    "y": 740,
+    "width": 262,
+    "height": 346
+  }
+}

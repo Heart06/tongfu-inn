@@ -1,0 +1,326 @@
+[
+  {
+    "id": "yard-washing-rope",
+    "episode": 7,
+    "title": "井边的跳绳声",
+    "mood": "后院日常",
+    "time": "day",
+    "summary": "小郭一边洗衣一边生闷气，小贝跳着绳经过，几句话又把她惹急了。",
+    "note": "小郭坐在井边捶洗衣物，小贝在旁边跳绳数数。",
+    "people": [
+      {
+        "id": "furong",
+        "name": "郭芙蓉",
+        "x": 58,
+        "feetY": 65,
+        "h": 24,
+        "poseKey": "furong-wash",
+        "text": "小郭穿着浅青衣衫，坐在矮凳上捶洗衣物，还在生秀才的气。",
+        "flip": false,
+        "actionLabel": "坐着捶洗衣物"
+      },
+      {
+        "id": "xiaobei",
+        "name": "莫小贝",
+        "x": 74,
+        "feetY": 67,
+        "h": 26,
+        "poseKey": "xiaobei-rope",
+        "text": "小贝一边跳绳一边数数，无意间的一句数目又惹来小郭的误会。",
+        "flip": false,
+        "actionLabel": "跳绳数数"
+      }
+    ],
+    "source": {
+      "label": "第7集分场台词 · 后院洗衣与跳绳",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842139.html"
+    },
+    "episodeSource": {
+      "label": "央视网 · 第7集",
+      "url": "https://tv.cctv.com/2014/07/27/VIDE1406410408020743.shtml"
+    },
+    "locationEvidence": "分场整理518—541行为后院小郭洗衣、小贝跳绳；选择初始洗衣与数数，不画成后续肢体模仿。",
+    "referencePhotos": [
+      {
+        "name": "第7集 · 井边洗衣",
+        "image": "assets/courtyard-references/07-1302-v68.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/07/07_1302_%E4%BA%8C%E5%8D%81%E5%9B%9B%E4%B8%AA%E6%9C%88.jpg",
+        "caption": "小郭坐着捶洗衣物；浅青衣衫、白色长袖。"
+      },
+      {
+        "name": "第7集 · 小贝的衣着",
+        "image": "assets/courtyard-references/07-1318-v68.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/07/07_1318_%E5%93%87%E5%B0%8F%E9%83%AD%E5%A7%90%E5%A7%90_%E6%88%91%E5%88%9A%E5%88%9A%E5%8F%91%E7%8E%B0.jpg",
+        "caption": "深色细格衣衫、橙色领口与束起的发髻。"
+      }
+    ],
+    "visualAudit": {
+      "version": 68,
+      "frameIndex": "https://wulinwaizhuan.hugo2233.dpdns.org/",
+      "wardrobe": "已对照本集后院镜头的主色、领型、头带和发式；纹样与全身下摆为插画简化",
+      "staging": "人物关系依照镜头；坐标适配地图，并非摄影机走位复刻"
+    }
+  },
+  {
+    "id": "yard-dragon-palm",
+    "episode": 19,
+    "title": "我的武功哪儿去了？",
+    "mood": "练武闹剧",
+    "time": "day",
+    "summary": "大嘴对着砖头试掌，砖头没碎，自己的手先疼了。秀才在旁边追问起他的师父。",
+    "note": "大嘴试掌后揉着手，秀才在一旁追问师父的来历。",
+    "people": [
+      {
+        "id": "dazui",
+        "name": "李大嘴",
+        "x": 46,
+        "feetY": 68,
+        "h": 25,
+        "poseKey": "dazui-bricks",
+        "text": "大嘴试掌后疼得直皱眉，开始怀疑自己的武功。",
+        "flip": false,
+        "actionLabel": "拍砖后痛手"
+      },
+      {
+        "id": "xiucai",
+        "name": "吕秀才",
+        "x": 58,
+        "feetY": 68,
+        "h": 25,
+        "poseKey": "xiucai-watch",
+        "text": "秀才在旁边看大嘴练功，追问那位教他降龙掌的师父。",
+        "flip": false,
+        "actionLabel": "在旁追问"
+      }
+    ],
+    "source": {
+      "label": "第19集分场台词 · 后院拍砖",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842231.html"
+    },
+    "episodeSource": {
+      "label": "CCTV电视剧 · 第19集练掌片段",
+      "url": "https://www.youtube.com/watch?v=urO6Z945NsM"
+    },
+    "locationEvidence": "889—942行为后院日，大嘴拍砖痛手、秀才追问师父；选择拍下之后，不画出砖碎或神功特效。",
+    "referencePhotos": [
+      {
+        "name": "第19集 · 大嘴与秀才",
+        "image": "assets/courtyard-references/19-1714-v68.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/19/19_1714_%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%95%8A_%E6%88%91%E9%83%BD%E6%98%AF%E6%8C%89%E6%88%91%E5%B8%88%E7%88%B6%E6%95%99%E7%9A%84%E6%9D%A5%E7%9A%84%E5%91%80.jpg",
+        "caption": "大嘴灰绿细横纹外衣、土色额带；秀才蓝灰长衫。"
+      },
+      {
+        "name": "第19集 · 磨台旁试掌",
+        "image": "assets/courtyard-references/19-1750-v68.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/19/19_1750_%E7%99%BD%E9%BE%99%E4%BA%AE%E7%BF%85_%E9%BB%91%E9%BE%99%E6%8E%8F%E5%BF%83.jpg",
+        "caption": "大嘴在磨台旁比划招式，画面中没有新增的小石凳。"
+      }
+    ],
+    "visualAudit": {
+      "version": 68,
+      "frameIndex": "https://wulinwaizhuan.hugo2233.dpdns.org/",
+      "wardrobe": "已对照本集后院镜头的主色、领型、头带和发式；纹样与全身下摆为插画简化",
+      "staging": "人物关系依照镜头；坐标适配地图，并非摄影机走位复刻"
+    }
+  },
+  {
+    "id": "yard-onion-apology",
+    "episode": 24,
+    "title": "这眼泪，是真的吗？",
+    "mood": "笨拙心意",
+    "time": "day",
+    "summary": "抱着玉米筐的小郭来到后院，秀才跪下来求和。看似真情流露，后面却藏着一颗洋葱。",
+    "note": "秀才戴着白额带，跪下抱住小郭求和；小郭手里还抱着玉米筐。",
+    "people": [
+      {
+        "id": "xiucai",
+        "name": "吕秀才",
+        "x": 49,
+        "feetY": 74,
+        "h": 21,
+        "poseKey": null,
+        "text": "戴着白色额带的秀才跪下，抱住小郭求和；洋葱还没有被发现。",
+        "flip": false,
+        "zIndex": 74,
+        "actionLabel": "跪下抱住小郭",
+        "hitWidth": 13,
+        "hideSprite": true
+      },
+      {
+        "id": "furong",
+        "name": "郭芙蓉",
+        "x": 58,
+        "feetY": 74,
+        "h": 33,
+        "poseKey": null,
+        "text": "小郭抱着玉米筐进后院，一度被秀才的话打动。",
+        "flip": false,
+        "actionLabel": "抱着玉米筐低头看秀才",
+        "hitWidth": 10,
+        "hideSprite": true
+      }
+    ],
+    "source": {
+      "label": "第24集分场台词 · 后院求和",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842267.html"
+    },
+    "episodeSource": {
+      "label": "央视网 · 第24集",
+      "url": "https://tv.cctv.com/2014/07/30/VIDE1406672662507602.shtml"
+    },
+    "locationEvidence": "999—1064行为后院日，小郭抱玉米筐进入，秀才跪下抱她求和，后被发现用洋葱催泪；选择洋葱尚未被发现的阶段，不额外把洋葱画在手里。",
+    "artwork": {
+      "poseKey": "onion-duo",
+      "x": 54,
+      "feetY": 74,
+      "h": 33,
+      "alt": "秀才戴白额带、穿蓝灰长衫，双膝跪地抱住穿米白衣裙、手托玉米筐的小郭"
+    },
+    "referencePhotos": [
+      {
+        "name": "第24集 · 跪抱求和",
+        "image": "assets/courtyard-references/24-1944-v68.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/24/24_1944_%E8%8A%99%E8%93%89_%E6%88%91%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E4%BD%A0%E5%95%8A.jpg",
+        "caption": "秀才戴白额带，跪下抱住小郭。"
+      },
+      {
+        "name": "第24集 · 玉米筐与浅色衣裙",
+        "image": "assets/courtyard-references/24-1996-v68.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/24/24_1996_%E8%B7%AA%E6%97%B6%E9%97%B4%E9%95%BF_%E8%85%BF%E4%BC%9A%E7%97%9B%E7%9A%84.jpg",
+        "caption": "小郭穿米白衣裙、藕色领边，手里托着玉米筐。"
+      }
+    ],
+    "visualAudit": {
+      "version": 68,
+      "frameIndex": "https://wulinwaizhuan.hugo2233.dpdns.org/",
+      "wardrobe": "已对照本集后院镜头的主色、领型、头带和发式；纹样与全身下摆为插画简化",
+      "staging": "人物关系依照镜头；坐标适配地图，并非摄影机走位复刻"
+    }
+  },
+  {
+    "id": "yard-world-beautiful",
+    "episode": 41,
+    "title": "世界如此美妙……",
+    "mood": "一家人的拌嘴",
+    "time": "day",
+    "summary": "众人还在争论菜刀门的生意，小贝一句话又惹急了小郭。秀才轻声提醒，她只好闭眼深呼吸。",
+    "note": "磨台旁，小郭闭眼抬起双手深呼吸，小贝还拿着玉米。",
+    "people": [
+      {
+        "id": "furong",
+        "name": "郭芙蓉",
+        "x": 52,
+        "feetY": 55,
+        "h": 20,
+        "poseKey": "furong-breathe",
+        "flip": false,
+        "actionLabel": "坐着闭眼抬手深呼吸",
+        "text": "小郭穿着浅绿衣衫，坐着闭眼、抬起双手，努力把火气压下去。",
+        "hitWidth": 7,
+        "hideSprite": true
+      },
+      {
+        "id": "xiaobei",
+        "name": "莫小贝",
+        "x": 57.5,
+        "feetY": 56,
+        "h": 15,
+        "poseKey": "xiaobei-corn",
+        "flip": false,
+        "actionLabel": "坐着拿玉米",
+        "text": "小贝穿蓝色花纹衣服，坐在小郭身边拿着玉米，刚刚一句回嘴又惹急了她。",
+        "hitWidth": 5,
+        "hideSprite": true
+      },
+      {
+        "id": "zhantang",
+        "name": "白展堂",
+        "x": 34,
+        "feetY": 53,
+        "h": 17,
+        "poseKey": "zhantang-seated41",
+        "flip": false,
+        "actionLabel": "坐在磨台旁",
+        "text": "老白穿米白衣衫、披黑色条纹搭片，坐在磨台旁听大家争论。",
+        "hitWidth": 6,
+        "hideSprite": true
+      },
+      {
+        "id": "xiangyu",
+        "name": "佟湘玉",
+        "x": 39,
+        "feetY": 48,
+        "h": 15,
+        "poseKey": "xiangyu-seated41",
+        "flip": false,
+        "actionLabel": "坐在老白身边",
+        "text": "掌柜穿粉褐外衫、紫红内搭，坐在老白身边，劝大嘴把买刀的事想清楚。",
+        "hitWidth": 5,
+        "hideSprite": true
+      },
+      {
+        "id": "dazui",
+        "name": "李大嘴",
+        "x": 47,
+        "feetY": 61,
+        "h": 19,
+        "poseKey": "dazui-seated41",
+        "flip": false,
+        "actionLabel": "坐在磨台旁争辩",
+        "text": "大嘴穿棕色短外衣、浅色长袖，坐在磨台另一侧，仍惦记着蕙兰说的待遇。",
+        "hitWidth": 7,
+        "hideSprite": true
+      },
+      {
+        "id": "xiucai",
+        "name": "吕秀才",
+        "x": 46,
+        "feetY": 48,
+        "h": 16,
+        "poseKey": "xiucai-seated41",
+        "flip": false,
+        "actionLabel": "坐着出声提醒小郭",
+        "text": "秀才坐在大嘴后侧，转头看向小郭，出声提醒她平息怒气。",
+        "hitWidth": 6,
+        "hideSprite": true
+      }
+    ],
+    "source": {
+      "label": "第41集分场台词 · 后院讨论菜刀门",
+      "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842369.html"
+    },
+    "episodeSource": {
+      "label": "央视网 · 第41集",
+      "url": "https://tv.cctv.com/2014/08/02/VIDE1406923573119896.shtml"
+    },
+    "locationEvidence": "641—706行为后院，六人在场；678—686行小贝回嘴、小郭生气、秀才提醒、小郭闭眼深呼吸。选择呼吸这一刻，不同时画举手投票或扔刀。",
+    "referencePhotos": [
+      {
+        "name": "第41集 · 深呼吸与玉米",
+        "image": "assets/courtyard-references/41-1012-v68.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/41/41_1012_%E4%B8%96%E7%95%8C%E5%A6%82%E6%AD%A4%E7%BE%8E%E5%A6%99.jpg",
+        "caption": "小郭闭眼抬手，小贝穿蓝色衣衫、拿着玉米。"
+      },
+      {
+        "name": "第41集 · 磨台旁的三个人",
+        "image": "assets/courtyard-references/41-1032-v68.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/41/41_1032_%E5%B0%91%E6%95%B0%E6%9C%8D%E4%BB%8E%E5%A4%9A%E6%95%B0%E5%90%8C%E6%84%8F%E7%9A%84%E4%B8%BE%E6%89%8B.jpg",
+        "caption": "老白米白衣衫配黑条纹搭片；掌柜粉褐、紫红；大嘴棕衣浅袖。"
+      },
+      {
+        "name": "第41集 · 秀才出声提醒",
+        "image": "assets/courtyard-references/41-1008-v68.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/41/41_1008_%E8%8A%99%E8%93%89.jpg",
+        "caption": "秀才蓝灰衣衫，坐着轻声提醒小郭。"
+      }
+    ],
+    "visualAudit": {
+      "version": 71,
+      "frameIndex": "https://wulinwaizhuan.hugo2233.dpdns.org/",
+      "wardrobe": "已对照本集后院镜头的主色、领型、头带和发式；纹样与全身下摆为插画简化",
+      "staging": "完整场景统一比例、透视和朝向；依镜头保留相邻和交谈关系，地图位置为适配重排。"
+    },
+    "backgroundImage": "assets/courtyard-ep41-composed-v01.webp",
+    "backgroundAlt": "第41集后院：六人紧凑围坐磨台；老白掌柜朝向大嘴，秀才转向小郭，小郭闭眼呼吸，小贝拿着玉米。"
+  }
+]

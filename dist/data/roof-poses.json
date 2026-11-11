@@ -1,0 +1,133 @@
+{
+  "furong": {
+    "image": "assets/roof-seated-atlas-v01.webp",
+    "x": 147,
+    "y": 13,
+    "width": 332,
+    "height": 487,
+    "atlasWidth": 1536,
+    "atlasHeight": 1024,
+    "anchor": 0.62
+  },
+  "xiucai": {
+    "image": "assets/roof-seated-atlas-v01.webp",
+    "x": 642,
+    "y": 11,
+    "width": 302,
+    "height": 489,
+    "atlasWidth": 1536,
+    "atlasHeight": 1024,
+    "anchor": 0.62
+  },
+  "wushuang": {
+    "image": "assets/roof-seated-atlas-v01.webp",
+    "x": 1100,
+    "y": 13,
+    "width": 323,
+    "height": 487,
+    "atlasWidth": 1536,
+    "atlasHeight": 1024,
+    "anchor": 0.62
+  },
+  "dazui": {
+    "image": "assets/roof-seated-atlas-v01.webp",
+    "x": 137,
+    "y": 513,
+    "width": 362,
+    "height": 494,
+    "atlasWidth": 1536,
+    "atlasHeight": 1024,
+    "anchor": 0.62
+  },
+  "xiaobei": {
+    "image": "assets/roof-seated-atlas-v01.webp",
+    "x": 682,
+    "y": 588,
+    "width": 231,
+    "height": 402,
+    "atlasWidth": 1536,
+    "atlasHeight": 1024,
+    "anchor": 0.62
+  },
+  "simpson": {
+    "image": "assets/roof-actions-atlas-v02.webp",
+    "x": 884,
+    "y": 525,
+    "width": 222,
+    "height": 488,
+    "atlasWidth": 1536,
+    "atlasHeight": 1024,
+    "anchor": 1
+  },
+  "xiangyu": {
+    "image": "assets/xiangyu-roof-unified-v03.webp",
+    "atlasWidth": 172,
+    "atlasHeight": 208,
+    "cropX": 8,
+    "cropY": 8,
+    "width": 156,
+    "cropHeight": 192,
+    "stanceScale": 0.6,
+    "anchorY": 0.72,
+    "x": 8,
+    "y": 8,
+    "height": 192,
+    "anchor": 0.72
+  },
+  "zhantang": {
+    "image": "assets/zhantang-roof-unified-v03.webp",
+    "atlasWidth": 211,
+    "atlasHeight": 216,
+    "cropX": 8,
+    "cropY": 8,
+    "width": 195,
+    "cropHeight": 200,
+    "stanceScale": 0.6,
+    "mirror": true,
+    "anchorY": 0.72,
+    "x": 8,
+    "y": 8,
+    "height": 200,
+    "anchor": 0.72
+  },
+  "xiucai-upright": {
+    "image": "assets/roof-actions-atlas-v02.webp",
+    "x": 419,
+    "y": 11,
+    "width": 314,
+    "height": 512,
+    "atlasWidth": 1536,
+    "atlasHeight": 1024,
+    "anchor": 0.62
+  },
+  "wushuang-lean": {
+    "image": "assets/roof-actions-atlas-v02.webp",
+    "x": 773,
+    "y": 15,
+    "width": 336,
+    "height": 502,
+    "atlasWidth": 1536,
+    "atlasHeight": 1024,
+    "anchor": 0.62
+  },
+  "xiangyu-knees": {
+    "image": "assets/roof-actions-atlas-v02.webp",
+    "x": 394,
+    "y": 611,
+    "width": 341,
+    "height": 402,
+    "atlasWidth": 1536,
+    "atlasHeight": 1024,
+    "anchor": 0.8
+  },
+  "simpson-cane": {
+    "image": "assets/roof-actions-atlas-v02.webp",
+    "x": 884,
+    "y": 525,
+    "width": 222,
+    "height": 488,
+    "atlasWidth": 1536,
+    "atlasHeight": 1024,
+    "anchor": 1
+  }
+}

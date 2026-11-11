@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="theme-color" content="#211b19"><meta name="description" content="走进同福客栈，看看客栈里的老朋友与七侠镇的熟人，沿着人物、场景、物件与故事慢慢逛。《武林外传》线上互动博物馆。"><title>同福客栈 · 武林外传线上博物馆</title><link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23211b19'/%3E%3Cpath d='M5 6h22v20H5z' fill='%23b44536'/%3E%3Cpath d='M10 12h12v3H10zm0 6h12v3H10z' fill='%23f3dbaf'/%3E%3C/svg%3E"><link rel="stylesheet" href="style.css"><link rel="stylesheet" href="layout.css"><link rel="stylesheet" href="design-pilot.css"><link rel="stylesheet" href="room-minimap.css"><link rel="stylesheet" href="scene-chrome.css"></head>
+<body>
+<header class="mast"><a class="brand" href="#" aria-label="返回同福客栈地图"><span class="seal">同福</span><span>同福客栈<small>《武林外传》线上博物馆</small></span></a><nav aria-label="博物馆导航"><a href="#" class="nav-explore" aria-current="page">逛客栈</a><a href="#character">人物志</a><a href="#story">故事志</a></nav></header>
+<main>
+<section class="welcome" aria-labelledby="welcome-title"><div class="welcome-copy"><h1 id="welcome-title">客官，里面请。</h1><p>点一位老朋友，或翻翻大堂里的往事。</p></div>
+<section id="guide" class="guide" aria-labelledby="guide-title"></section></section>
+<section class="inn-explorer" aria-label="逛同福客栈">
+<div class="explorer-stage"><div class="map-wrap"><div class="scene-viewport"><div class="scene-chrome"><div class="time-controls"><button id="time-toggle" class="daynight-toggle" type="button" role="switch" aria-label="夜晚模式" aria-checked="false"><span class="daynight-sun" aria-hidden="true">☀</span><span class="daynight-track" aria-hidden="true"><i></i></span><span class="daynight-moon" aria-hidden="true">☾</span></button><span id="time-status" class="scene-sr" role="status"></span></div><div class="memory-dock" aria-label="当前空间往事"></div></div><div class="stage-place"><span id="time-label" class="eyebrow" aria-live="polite">七侠镇 · 白天</span><h2 id="current-room-title">大堂</h2></div><aside class="room-minimap" aria-label="客栈小地图"><button class="minimap-toggle" type="button" aria-expanded="false" aria-controls="minimap-panel" aria-label="展开客栈地图"><span aria-hidden="true">＋</span></button><div class="tm-panel" id="minimap-panel" hidden>    <nav class="tm-floors" aria-label="楼层">
+      <button type="button" class="cursor-interaction" data-floor="first" aria-pressed="true">一层与街巷</button>
+      <button type="button" class="cursor-interaction" data-floor="upper" aria-pressed="false">二层与屋顶</button>
+    </nav>
+    <div class="tm-plan" data-plan="first" aria-label="一层空间轮廓">
+      <svg class="tm-connections" viewBox="0 0 400 405" preserveAspectRatio="none" aria-hidden="true"><path d="M184 45H248M121 79V91H191V105M300 79V105M171 199V260H160M272 199V221M288.5 307V350M312 144H392V375H390M29 344V350"/></svg>
+      <button type="button" class="tm-room" data-map="kitchen" style="--x:13.750%;--y:2.963%;--w:33.000%;--h:17.284%" aria-pressed="false">
+        <svg viewBox="0 0 132 70" preserveAspectRatio="none" aria-hidden="true"><path class="tm-fill" d="M3 3H129V67H3Z"/><path class="tm-wall" d="M129 24V3H3V67H54M78 67H129V42"/></svg><span class="tm-name">后厨</span>
+      </button>
+      <button type="button" class="tm-room" data-map="men-room" style="--x:61.250%;--y:2.963%;--w:32.500%;--h:17.284%" aria-pressed="false">
+        <svg viewBox="0 0 130 70" preserveAspectRatio="none" aria-hidden="true"><path class="tm-fill" d="M3 3H110L127 20V67H3Z"/><path class="tm-wall" d="M3 24V3H110L127 20V67H67M43 67H3V42"/></svg><span class="tm-name">男寝</span>
+      </button>
+      <button type="button" class="tm-room tm-yard" data-map="courtyard" style="--x:31.250%;--y:25.185%;--w:47.500%;--h:24.691%" aria-pressed="false">
+        <svg viewBox="0 0 190 100" preserveAspectRatio="none" aria-hidden="true"><path class="tm-fill" d="M3 3H187V80H166V97H23V80H3Z"/><path class="tm-wall" d="M54 3H3V80H23V97H34M58 97H135M159 97H166V80H187V54M187 30V3M163 3H78"/><path class="tm-well" d="M88 58L95 54L102 58V66L95 70L88 66Z"/></svg><span class="tm-name">后院</span>
+      </button>
+      <button type="button" class="tm-room" data-map="women-room" style="--x:13.750%;--y:53.827%;--w:27.000%;--h:21.728%" aria-pressed="false">
+        <svg viewBox="0 0 108 88" preserveAspectRatio="none" aria-hidden="true"><path class="tm-fill" d="M3 3H105V85H19V70H3Z"/><path class="tm-wall" d="M105 30V3H3V70H19V85H105V54"/></svg><span class="tm-name">女寝</span>
+      </button>
+      <button type="button" class="tm-room tm-hall" data-map="hall" aria-label="大堂，当前位置" aria-pressed="true" style="--x:53.500%;--y:53.827%;--w:38.000%;--h:22.716%">
+        <svg viewBox="0 0 152 92" preserveAspectRatio="none" aria-hidden="true"><path class="tm-fill" d="M3 3H111V19H149V70H100V89H49V70H3Z"/><path class="tm-wall" d="M46 3H3V70H49V89H60M89 89H100V70H149V19H111V3H70"/><path class="tm-fixture" d="M117 28H140M117 35H140M117 42H140"/></svg><span class="tm-name">大堂</span><i class="tm-location" aria-hidden="true"></i>
+      </button>
+      <button type="button" class="tm-room tm-alley" data-map="left-alley" aria-pressed="false" style="--x:1.75%;--y:2.963%;--w:11%;--h:82.716%">
+        <svg viewBox="0 0 44 335" preserveAspectRatio="none" aria-hidden="true"><path class="tm-fill" d="M3 3H41V332H3Z"/><path class="tm-wall" d="M3 3V332H10M34 332H41V3"/></svg><span class="tm-name">左侧小巷</span>
+      </button>
+      <button type="button" class="tm-room tm-street" data-map="street" aria-pressed="false" style="--x:1.75%;--y:85.679%;--w:96.5%;--h:13.827%">
+        <svg viewBox="0 0 386 56" preserveAspectRatio="none" aria-hidden="true"><path class="tm-fill" d="M3 3H383V53H3Z"/><path class="tm-wall" d="M10 3H3V53H383V39M383 17V3H293.5M269.5 3H34"/></svg><span class="tm-name">门前街边</span>
+      </button>
+    </div>
+    <div class="tm-plan" data-plan="upper" aria-label="二层走廊与屋顶轮廓" hidden>
+      <svg class="tm-connections" viewBox="0 0 340 360" preserveAspectRatio="none" aria-hidden="true"><path d="M73 201V236M270 201V236"/></svg>
+      <button type="button" class="tm-room tm-roof" data-map="roof" aria-pressed="false" style="--x:55.294%;--y:2.222%;--w:38.235%;--h:20%">
+        <svg viewBox="0 0 130 72" preserveAspectRatio="none" aria-hidden="true"><path class="tm-fill" d="M3 34L65 3L127 34H115V69H15V34Z"/><path class="tm-wall" d="M3 34L65 3L127 34H115V69H15V34Z"/><path class="tm-fixture" d="M15 34H115"/></svg><span class="tm-name">屋顶</span>
+      </button>
+      <button type="button" class="tm-room" data-map="guest-room" aria-pressed="false" style="--x:2.941%;--y:34.444%;--w:36.765%;--h:22.222%">
+        <svg viewBox="0 0 125 80" preserveAspectRatio="none" aria-hidden="true"><path class="tm-fill" d="M3 17H20V3H122V77H3Z"/><path class="tm-wall" d="M51 77H3V17H20V3H122V77H75"/></svg><span class="tm-name">客房</span>
+      </button>
+      <button type="button" class="tm-room" data-map="owner-room" aria-pressed="false" style="--x:62.941%;--y:34.444%;--w:32.941%;--h:22.222%">
+        <svg viewBox="0 0 112 80" preserveAspectRatio="none" aria-hidden="true"><path class="tm-fill" d="M3 3H94L109 18V77H3Z"/><path class="tm-wall" d="M44 77H3V3H94L109 18V77H68"/></svg><span class="tm-name">掌柜房</span>
+      </button>
+      <button type="button" class="tm-room tm-corridor" data-map="upper" aria-pressed="false" style="--x:5.882%;--y:64.722%;--w:89.706%;--h:28.333%">
+        <svg viewBox="0 0 305 102" preserveAspectRatio="none" aria-hidden="true"><path class="tm-fill" d="M3 3H302V99H268V35H3Z"/><path class="tm-wall" d="M41 3H3V35H268V99H302V3H262M238 3H65"/></svg><span class="tm-name">二层走廊</span>
+      </button>
+    </div>
+    <span class="tm-live" aria-live="polite">当前位置：大堂</span>
+<div class="minimap-links"><a href="#scene">场景志</a><a href="#layout">空间示意 ↗</a></div></div></aside><div class="map-scroll" id="map-scroll"><section class="map" id="map" data-time="day" data-light="indoor" aria-label="可探索的同福客栈"><img class="map-art" fetchpriority="high" src="assets/map-v4.webp" alt="同福客栈大堂：前台、中央主桌、大门、紧挨前台的转折楼梯，以及右侧墙面的后院入口" width="1672" height="941"><div id="map-labels" aria-hidden="true"></div><div id="figures" aria-hidden="true"></div><div id="hotspots"></div><p class="map-loading" id="map-loading" role="status">正在打开客栈门…</p></section></div></div><div class="map-corner" aria-hidden="true">同福客栈<small>壹 · 大堂</small></div></div>
+<section id="courtyard-memories" class="courtyard-memories guest-memories" aria-label="后院往事" hidden></section>
+<section id="roof-memories" class="roof-memories guest-memories" aria-label="屋顶夜话" hidden></section>
+<section id="women-memories" class="guest-memories" aria-label="女寝往事" hidden></section>
+<section id="hall-memories" class="hall-memories" aria-label="大堂往事" hidden></section>
+<section id="guest-memories" class="guest-memories" aria-label="客房往事" hidden></section>
+<div class="map-tools"><span class="explore-hint">点人物看故事，沿门口去别处。</span><details class="hotspot-options"><summary>显示热点</summary><div class="legend" aria-label="显示哪些展品"><button data-filter="explore" aria-pressed="true">随便逛逛</button><button data-filter="character" aria-pressed="false"><i class="dot character"></i>人物</button><button data-filter="scene" aria-pressed="false"><i class="dot scene"></i>场景</button><button data-filter="object" aria-pressed="false"><i class="dot object"></i>物件</button><button data-filter="story" aria-pressed="false"><i class="dot story"></i>故事</button><button data-filter="all" aria-pressed="false">全部热点</button></div></details><div class="map-options"><button id="zoom">看近些</button><a href="#layout">空间示意</a></div></div>
+<div class="visit-note"><p><span id="map-caption">点点人物，或从右墙的门去后院看看。</span><span class="mobile-tip">看近些后，可左右滑动地图。</span></p><span id="visit-count" aria-live="polite"></span></div>
+</div></section>
+<footer class="museum-footer"><div class="footer-main"><div class="footer-signature"><span class="footer-seal" aria-hidden="true">同福</span><div><strong>同福客栈</strong><span>一间客栈，一镇熟人。</span></div></div><div class="footer-connect" aria-label="微信联系作者"><span class="footer-connect-label">微信联系作者</span><strong id="contact-wechat">sarahhh0808</strong><button id="contact-copy" type="button">复制微信号</button><p id="contact-status" role="status" aria-live="polite"></p></div></div><p class="footer-credit">非商业同人博物馆<span aria-hidden="true"> · </span>像素场景与原剧剧照，出处见各条目。</p></footer>
+</main>
+<dialog id="archive" aria-labelledby="panel-title"><div class="sheet-top"><button id="back" hidden>返回上一页</button><span>同福客栈 · 馆藏手记</span><button id="close" aria-label="关闭档案，回到客栈">关闭 <span aria-hidden="true">×</span></button></div><div id="panel"></div></dialog>
+<script type="module" src="contact.js"></script>
+<script type="module" src="app.js"></script>
+</body></html>

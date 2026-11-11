@@ -1,0 +1,529 @@
+[
+  {
+    "id": "home",
+    "title": "佟湘玉 × 白展堂",
+    "summary": "安稳生活与过去江湖",
+    "sections": [
+      {
+        "title": "他们的关系",
+        "text": "她牵挂客栈里的人，他珍惜可以安心留下的生活。一个经营现在，一个带着过去，关系在日常照应里生长。"
+      },
+      {
+        "title": "为什么重要",
+        "text": "它让“留下来”有了具体的人，也让白展堂的江湖身份与普通生活互相照见。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "story",
+        "id": "past"
+      }
+    ],
+    "sourceCharacter": "xiangyu",
+    "targetCharacter": "zhantang",
+    "memberCharacters": [
+      "xiangyu",
+      "zhantang"
+    ],
+    "relationshipType": "恋人／共同生活",
+    "whyImportant": "它让“留下来”有了具体的人，也让白展堂的江湖身份与普通生活互相照见。",
+    "representativeStory": "past",
+    "priority": 1,
+    "sources": [
+      {
+        "label": "央视网 · 第5集",
+        "url": "https://tv.cctv.com/2014/07/27/VIDE1406404801863685.shtml"
+      },
+      {
+        "label": "央视网 · 第43集",
+        "url": "https://tv.cctv.com/2014/08/02/VIDE1406930601214587.shtml"
+      }
+    ]
+  },
+  {
+    "id": "couple",
+    "title": "郭芙蓉 × 吕秀才",
+    "summary": "两个完全不同的人如何走到一起",
+    "sections": [
+      {
+        "title": "他们的关系",
+        "text": "一个行动快、脾气急，一个爱讲理、容易迂。相处有误会，也有越来越难以割舍的牵挂。"
+      },
+      {
+        "title": "为什么重要",
+        "text": "关系不用把差异消除，仍需要双方持续表达与理解。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "story",
+        "id": "love"
+      }
+    ],
+    "sourceCharacter": "furong",
+    "targetCharacter": "xiucai",
+    "memberCharacters": [
+      "furong",
+      "xiucai"
+    ],
+    "relationshipType": "恋人",
+    "whyImportant": "关系不用把差异消除，仍需要双方持续表达与理解。",
+    "representativeStory": "love",
+    "priority": 1,
+    "sources": [
+      {
+        "label": "央视网 · 第24集",
+        "url": "https://tv.cctv.com/2014/07/30/VIDE1406672662507602.shtml"
+      },
+      {
+        "label": "央视网 · 第31集",
+        "url": "https://tv.cctv.com/2014/07/31/VIDE1406754731484502.shtml"
+      }
+    ]
+  },
+  {
+    "id": "guardian",
+    "title": "佟湘玉 × 莫小贝",
+    "summary": "家庭、责任与教育",
+    "sections": [
+      {
+        "title": "他们的关系",
+        "text": "佟湘玉操心小贝的成长，小贝则常常挑战大人的安排。保护、管束与倾听同时存在。"
+      },
+      {
+        "title": "为什么重要",
+        "text": "这让客栈成为居住的家，也让掌柜不只承担生意责任。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "story",
+        "id": "xiaobei-story"
+      }
+    ],
+    "sourceCharacter": "xiangyu",
+    "targetCharacter": "xiaobei",
+    "memberCharacters": [
+      "xiangyu",
+      "xiaobei"
+    ],
+    "relationshipType": "嫂子／小姑，照顾与教育",
+    "whyImportant": "这让客栈成为居住的家，也让掌柜不只承担生意责任。",
+    "representativeStory": "xiaobei-story",
+    "priority": 1,
+    "sources": [
+      {
+        "label": "央视网 · 第3集",
+        "url": "https://tv.cctv.com/2014/07/27/VIDE1406400852355348.shtml"
+      }
+    ]
+  },
+  {
+    "id": "old-love",
+    "title": "白展堂 × 展红绫",
+    "summary": "过去如何进入现在",
+    "sections": [
+      {
+        "title": "他们的关系",
+        "text": "展红绫留在老白的回忆里；这段旧情也让他的顾虑和对如今生活的珍惜更容易被理解。"
+      },
+      {
+        "title": "为什么重要",
+        "text": "过去可以解释一个人的顾虑，却不必替他决定所有未来。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "hongling"
+      },
+      {
+        "kind": "story",
+        "id": "past"
+      }
+    ],
+    "sourceCharacter": "zhantang",
+    "targetCharacter": "hongling",
+    "memberCharacters": [
+      "zhantang",
+      "hongling"
+    ],
+    "relationshipType": "旧情／江湖往事",
+    "whyImportant": "过去可以解释一个人的顾虑，却不必替他决定所有未来。",
+    "representativeStory": "past",
+    "priority": 2,
+    "sources": [
+      {
+        "label": "央视网 · 第5集",
+        "url": "https://tv.cctv.com/2014/07/27/VIDE1406404801863685.shtml"
+      }
+    ]
+  },
+  {
+    "id": "scholar-ji",
+    "title": "吕秀才 × 姬无命",
+    "summary": "一个书生如何面对武林高手",
+    "sections": [
+      {
+        "title": "他们的关系",
+        "text": "姬无命把危险带到秀才面前。不会武功的书生，被迫从自己的学问与语言中寻找应对。"
+      },
+      {
+        "title": "为什么重要",
+        "text": "这是理解秀才的重要一面：平时看似迂，关键时刻也可能成为大家需要的人。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "jiwuming"
+      },
+      {
+        "kind": "story",
+        "id": "scholar"
+      }
+    ],
+    "sourceCharacter": "xiucai",
+    "targetCharacter": "jiwuming",
+    "memberCharacters": [
+      "xiucai",
+      "jiwuming"
+    ],
+    "relationshipType": "对手／危机中的交锋",
+    "whyImportant": "这是理解秀才的重要一面：平时看似迂，关键时刻也可能成为大家需要的人。",
+    "representativeStory": "scholar",
+    "priority": 2,
+    "sources": [
+      {
+        "label": "央视网 · 第29集",
+        "url": "https://dianshiju.cctv.com/2010/06/11/VIDE1354531899946121.shtml"
+      }
+    ]
+  },
+  {
+    "id": "father",
+    "title": "郭芙蓉 × 郭巨侠",
+    "summary": "女儿、侠女与父亲期待",
+    "sections": [
+      {
+        "title": "他们的关系",
+        "text": "父亲的江湖地位影响着小郭的自我认识。第67集父亲来访，她对秀才的培训与掩饰，也把亲密选择放进了父女关系里。"
+      },
+      {
+        "title": "为什么重要",
+        "text": "小郭既想成为自己，也在意父亲怎么看自己。两种愿望并不总是轻松一致。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "guojuxia"
+      },
+      {
+        "kind": "story",
+        "id": "arrival"
+      }
+    ],
+    "sourceCharacter": "furong",
+    "targetCharacter": "guojuxia",
+    "memberCharacters": [
+      "furong",
+      "guojuxia"
+    ],
+    "relationshipType": "父女",
+    "whyImportant": "小郭既想成为自己，也在意父亲怎么看自己。两种愿望并不总是轻松一致。",
+    "representativeStory": "arrival",
+    "priority": 2,
+    "sources": [
+      {
+        "label": "央视网 · 第1集",
+        "url": "https://tv.cctv.com/v/v1/VIDE1406399770522952.html"
+      },
+      {
+        "label": "央视网 · 第67集",
+        "url": "https://tv.cctv.com/2014/08/06/VIDE1407274027080630.shtml"
+      }
+    ]
+  },
+  {
+    "id": "unrequited",
+    "title": "李大嘴 × 杨蕙兰",
+    "summary": "普通人的理想化爱情",
+    "sections": [
+      {
+        "title": "他们的关系",
+        "text": "大嘴一直倾慕杨蕙兰，杨蕙兰却有自己的打算；这份感情常让他满怀期待，又一次次失落。"
+      },
+      {
+        "title": "为什么重要",
+        "text": "它让大嘴的幻想、自卑与被认可的愿望同时显露。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "huilan"
+      },
+      {
+        "kind": "story",
+        "id": "huilan-story"
+      }
+    ],
+    "sourceCharacter": "dazui",
+    "targetCharacter": "huilan",
+    "memberCharacters": [
+      "dazui",
+      "huilan"
+    ],
+    "relationshipType": "单向倾慕／追求",
+    "whyImportant": "它让大嘴的幻想、自卑与被认可的愿望同时显露。",
+    "representativeStory": "huilan-story",
+    "priority": 2,
+    "sources": [
+      {
+        "label": "央视网 · 第6集",
+        "url": "https://tv.cctv.com/v/v4/VIDE1406407524783900.html"
+      }
+    ]
+  },
+  {
+    "id": "family",
+    "title": "同福客栈六人",
+    "summary": "没有血缘的一家人",
+    "sections": [
+      {
+        "title": "他们的关系",
+        "text": "掌柜、跑堂、杂役、账房、厨子与孩子，带着不同的来处共同生活。每个人有缺点，也各有可以承担的一点事情。"
+      },
+      {
+        "title": "为什么重要",
+        "text": "他们常常拌嘴，也总能再次坐回一张桌边。来自不同地方的六个人，在相处中有了家人的牵挂。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "story",
+        "id": "ordinary"
+      }
+    ],
+    "sourceCharacter": "xiangyu",
+    "targetCharacter": null,
+    "memberCharacters": [
+      "xiangyu",
+      "zhantang",
+      "furong",
+      "xiucai",
+      "dazui",
+      "xiaobei"
+    ],
+    "relationshipType": "群像／非血缘共同体",
+    "whyImportant": "他们常常拌嘴，也总能再次坐回一张桌边。来自不同地方的六个人，在相处中有了家人的牵挂。",
+    "representativeStory": "ordinary",
+    "priority": 0,
+    "sources": [
+      {
+        "label": "央视网 · 第54集",
+        "url": "https://tv.cctv.com/2014/08/04/VIDE1407098891952429.shtml"
+      }
+    ]
+  },
+  {
+    "id": "workmates",
+    "title": "祝无双 × 李大嘴",
+    "summary": "谁来下厨，谁来做琐事",
+    "sections": [
+      {
+        "title": "他们的关系",
+        "text": "第32集，无双的厨艺让掌柜重新分配工作，大嘴转去做杂务。两人的劳动能力在客栈日常里被放到一起比较。"
+      },
+      {
+        "title": "为什么重要",
+        "text": "工作被重新分配时，比较也会影响一个人对自己的评价。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "wushuang"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "story",
+        "id": "help"
+      }
+    ],
+    "sourceCharacter": "wushuang",
+    "targetCharacter": "dazui",
+    "memberCharacters": [
+      "wushuang",
+      "dazui"
+    ],
+    "representativeStory": "help",
+    "relationshipType": "共同劳动／能力比较",
+    "whyImportant": "工作被重新分配时，比较也会影响一个人对自己的评价。",
+    "priority": 2,
+    "sources": [
+      {
+        "label": "央视网 · 第32集",
+        "url": "https://tv.cctv.com/2014/07/31/VIDE1406757817353398.shtml"
+      }
+    ]
+  },
+  {
+    "id": "constables",
+    "title": "邢捕头 × 燕小六",
+    "summary": "师徒，也是会舍不得彼此的熟人",
+    "sections": [
+      {
+        "title": "他们的关系",
+        "text": "邢捕头带着燕小六办差，两人既有师徒之间的训斥，也有长久相处的照应。第50集的临别，让这份牵挂浮到表面。"
+      },
+      {
+        "title": "为什么重要",
+        "text": "临别时显出的关心，让两人的关系超出办差与带徒弟的职责。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xing"
+      },
+      {
+        "kind": "character",
+        "id": "yan"
+      },
+      {
+        "kind": "story",
+        "id": "farewell"
+      }
+    ],
+    "sourceCharacter": "xing",
+    "targetCharacter": "yan",
+    "memberCharacters": [
+      "xing",
+      "yan"
+    ],
+    "representativeStory": "farewell",
+    "relationshipType": "师徒／搭档",
+    "whyImportant": "临别时显出的关心，让两人的关系超出办差与带徒弟的职责。",
+    "priority": 2,
+    "sources": [
+      {
+        "label": "央视网 · 第50集",
+        "url": "https://tv.cctv.com/2014/08/03/VIDE1407018788039241.shtml"
+      }
+    ]
+  },
+  {
+    "id": "beggar-secret",
+    "title": "小米 × 邢捕头",
+    "summary": "一个秘密，让熟人的关系变了味。",
+    "sections": [
+      {
+        "title": "他们的关系",
+        "text": "第27集，小米知道老邢加入丐帮的秘密，借此不断向他索取。老邢最终公开承认自己的经历。"
+      },
+      {
+        "title": "为什么重要",
+        "text": "信息可以成为彼此照应的纽带，也可能成为压迫熟人的筹码。这段关系展出的是后一种变化。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiaomi"
+      },
+      {
+        "kind": "character",
+        "id": "xing"
+      },
+      {
+        "kind": "story",
+        "id": "xing-secret"
+      }
+    ],
+    "sourceCharacter": "xiaomi",
+    "targetCharacter": "xing",
+    "memberCharacters": [
+      "xiaomi",
+      "xing"
+    ],
+    "relationshipType": "熟人／秘密与利益冲突",
+    "whyImportant": "秘密改变了熟人之间的权力关系。",
+    "representativeStory": "xing-secret",
+    "priority": 2,
+    "sources": [
+      {
+        "label": "央视网 · 第27集",
+        "url": "https://dianshiju.cctv.com/2010/06/11/VIDE1354532602550609.shtml"
+      }
+    ]
+  }
+]

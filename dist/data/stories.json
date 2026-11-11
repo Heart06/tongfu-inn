@@ -1,0 +1,3417 @@
+[
+  {
+    "id": "arrival",
+    "title": "郭芙蓉来到同福客栈",
+    "summary": "江湖理想第一次撞上普通生活。",
+    "sections": [
+      {
+        "title": "故事是什么",
+        "text": "小郭带着闯江湖的愿望离家，卷入同福客栈的风波，随后留在店里做杂役。开篇让“想行侠仗义”与“实际造成什么后果”相遇。"
+      },
+      {
+        "title": "这件事改变了什么",
+        "text": "从远方的大侠梦，转向眼前需要承担的后果和劳动。这是她进入共同生活的起点。"
+      },
+      {
+        "title": "为什么值得记住",
+        "text": "它让人物有机会从犯错开始。小郭的热心没有消失，而是需要学会怎样落到别人真正需要的地方。"
+      },
+      {
+        "title": "回到今天再看",
+        "text": "今天看，善意不能只由出发点证明。愿意为影响负责，并把一件小事做好，也是一种成长。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "scene",
+        "id": "entrance"
+      },
+      {
+        "kind": "relationship",
+        "id": "father"
+      },
+      {
+        "kind": "object",
+        "id": "broom"
+      }
+    ],
+    "keywords": [
+      "侠义",
+      "劳动",
+      "成长"
+    ],
+    "characters": [
+      "furong",
+      "xiangyu",
+      "zhantang"
+    ],
+    "sceneId": "entrance",
+    "sources": [
+      {
+        "label": "央视网 · 第1集",
+        "url": "https://tv.cctv.com/v/v1/VIDE1406399770522952.html"
+      }
+    ],
+    "contentType": "剧情展",
+    "referencePhotos": [
+      {
+        "name": "第1集 · 掌柜算账",
+        "image": "assets/hall-references/arrival-01.jpg",
+        "caption": "掌柜的浅粉衣与红色交领。",
+        "sourceUrl": "https://cj.sina.com.cn/articles/view/2028810631/78ed3187027015jpu"
+      },
+      {
+        "name": "第1集 · 小郭初来",
+        "image": "assets/hall-references/arrival-xhs.webp",
+        "caption": "小郭初来时的蓝灰衣，以及她与掌柜相处的几个片刻。截图整理：小红书 樱笋春余。",
+        "sourceUrl": "https://www.xiaohongshu.com/explore/69ce9f7f00000000210128d1?xsec_token=ABXjr_hydlI1bdgZqRLOhsP9vVArBOTiASkcp7mbtRpHk=&xsec_source=pc_search&source=web_search_result_notes"
+      }
+    ]
+  },
+  {
+    "id": "scholar",
+    "title": "一个书生与姬无命",
+    "summary": "秀才站上椅子，用一个接一个的问题，追问坐在主桌旁的姬无命。",
+    "sections": [
+      {
+        "title": "站上椅子，继续追问",
+        "text": "小郭、佟掌柜和老白坐在主桌右侧，从楼梯向门口依次排列。姬无命坐在靠门的短边座位，背朝大门。秀才转到三人对面的椅子上，单腿站起，朝着姬无命继续追问。"
+      },
+      {
+        "title": "故事是什么",
+        "text": "姬无命逃狱后来到客栈，一度失去记忆，随后又恢复。秀才被逼到墙角，故事把一个不会武功的书生推到了必须应对危险的位置。"
+      },
+      {
+        "title": "这件事改变了什么",
+        "text": "秀才的学问与讲理从日常的迂，转变成面对强敌时的应对方式。他不再只是旁观者。"
+      },
+      {
+        "title": "为什么值得记住",
+        "text": "这个展品关注的是“没有优势的人怎么办”。喜剧式的解决不能当成现实方法，却能让我们重新看见一个人的长处。"
+      },
+      {
+        "title": "回到今天再看",
+        "text": "不必把它解释为知识总能战胜武力。更值得记住的是：看似笨拙的人，也可能在某个关键时刻成为大家需要的人。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "jiwuming"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "scene",
+        "id": "hall"
+      },
+      {
+        "kind": "relationship",
+        "id": "scholar-ji"
+      },
+      {
+        "kind": "object",
+        "id": "ledger"
+      },
+      {
+        "kind": "object",
+        "id": "main-table"
+      }
+    ],
+    "keywords": [
+      "胆量",
+      "语言",
+      "自我"
+    ],
+    "characters": [
+      "xiucai",
+      "jiwuming",
+      "zhantang"
+    ],
+    "sceneId": "hall",
+    "sources": [
+      {
+        "label": "央视网 · 第29集",
+        "url": "https://dianshiju.cctv.com/2010/06/11/VIDE1354531899946121.shtml"
+      }
+    ],
+    "contentType": "剧情展",
+    "referencePhotos": [
+      {
+        "name": "第29集 · 吕秀才",
+        "image": "assets/hall-references/scholar-01.jpg",
+        "caption": "秀才穿着浅色长衫，与姬无命对话。",
+        "sourceUrl": "https://www.sohu.com/a/230985921_675007"
+      },
+      {
+        "name": "第29集 · 大堂众人",
+        "image": "assets/hall-references/scholar-04.jpg",
+        "caption": "小郭、掌柜与老白在桌旁关注眼前的局面。",
+        "sourceUrl": "https://www.sohu.com/a/230985921_675007"
+      }
+    ]
+  },
+  {
+    "id": "past",
+    "title": "白展堂的过去回来了",
+    "summary": "他为什么珍惜现在这份普通生活。",
+    "sections": [
+      {
+        "title": "故事是什么",
+        "text": "第5集的白展堂遭遇身份被识破的处境，并讲起与展红绫有关的旧事。本展品以这段回忆为起点，看曾经的江湖身份怎样进入现在的客栈生活。"
+      },
+      {
+        "title": "这件事改变了什么",
+        "text": "日常里机灵的跑堂，露出了对身份与往事的顾虑。过去不只是一个称号，也会影响他能否安心留下。"
+      },
+      {
+        "title": "为什么值得记住",
+        "text": "“盗圣”让人物有传奇性，他对普通生活的珍惜则让人物靠近观众。这里展出的是两者之间的张力。"
+      },
+      {
+        "title": "回到今天再看",
+        "text": "不把旧身份当成一个人全部的定义，也不假装过去不存在。被看见以后，仍然能否保有新的生活，是这段关系的情绪核心。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "hongling"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "scene",
+        "id": "hall"
+      },
+      {
+        "kind": "relationship",
+        "id": "home"
+      },
+      {
+        "kind": "relationship",
+        "id": "old-love"
+      },
+      {
+        "kind": "object",
+        "id": "wine"
+      }
+    ],
+    "keywords": [
+      "过去",
+      "身份",
+      "安稳"
+    ],
+    "characters": [
+      "zhantang",
+      "hongling",
+      "xiangyu"
+    ],
+    "sceneId": "hall",
+    "sources": [
+      {
+        "label": "央视网 · 第5集",
+        "url": "https://tv.cctv.com/2014/07/27/VIDE1406404801863685.shtml"
+      }
+    ],
+    "contentType": "剧情展"
+  },
+  {
+    "id": "love",
+    "title": "郭芙蓉与吕秀才",
+    "summary": "两个缺点明显的人，慢慢学着理解彼此。",
+    "sections": [
+      {
+        "title": "故事是什么",
+        "text": "第24集里，两人确立感情后，仍会因为对喜欢缘由的回答发生冲突；第31集小郭离开后，秀才深陷思念。关系既有甜，也有笨拙。"
+      },
+      {
+        "title": "这件事改变了什么",
+        "text": "同伴之间的拌嘴有了更深的牵挂。不同性格没有自动消失，反而成了需要持续面对的日常。"
+      },
+      {
+        "title": "为什么值得记住",
+        "text": "他们的可爱不靠完美。小郭的急与秀才的迂，让关系同时拥有笑点与真实的困难。"
+      },
+      {
+        "title": "回到今天再看",
+        "text": "理解不是要求对方变成自己。剧中的夸张肢体笑料也不应成为现实相处的范本；值得留下的是表达、尊重和逐渐理解。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "scene",
+        "id": "hall"
+      },
+      {
+        "kind": "relationship",
+        "id": "couple"
+      },
+      {
+        "kind": "object",
+        "id": "main-table"
+      }
+    ],
+    "keywords": [
+      "亲密关系",
+      "差异",
+      "理解"
+    ],
+    "characters": [
+      "furong",
+      "xiucai"
+    ],
+    "sceneId": "hall",
+    "sources": [
+      {
+        "label": "央视网 · 第24集",
+        "url": "https://tv.cctv.com/2014/07/30/VIDE1406672662507602.shtml"
+      },
+      {
+        "label": "央视网 · 第31集",
+        "url": "https://tv.cctv.com/2014/07/31/VIDE1406754731484502.shtml"
+      }
+    ],
+    "contentType": "剧情展"
+  },
+  {
+    "id": "huilan-story",
+    "title": "李大嘴与杨蕙兰",
+    "summary": "普通人的向往、自卑与笨拙爱情。",
+    "sections": [
+      {
+        "title": "故事是什么",
+        "text": "杨蕙兰比武招亲，大嘴希望赢得她的青睐，也与白展堂一起动过歪脑筋。结果并没有照着他的幻想展开，小郭反而意外卷入其中。"
+      },
+      {
+        "title": "这件事改变了什么",
+        "text": "厨子对爱情的向往被摆到台前。想被喜欢的愿望，与他面对现实的笨拙形成了落差。"
+      },
+      {
+        "title": "为什么值得记住",
+        "text": "大嘴的幻想容易让人笑，也能让人看见普通人渴望被认可的一面。杨蕙兰则有自己的选择。"
+      },
+      {
+        "title": "回到今天再看",
+        "text": "付出与喜欢都不能换来别人必须回应。看见大嘴的失落，也要保留另一方选择关系的权利。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "huilan"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "scene",
+        "id": "kitchen"
+      },
+      {
+        "kind": "relationship",
+        "id": "unrequited"
+      },
+      {
+        "kind": "object",
+        "id": "cleaver"
+      }
+    ],
+    "keywords": [
+      "爱情",
+      "幻想",
+      "选择"
+    ],
+    "characters": [
+      "dazui",
+      "huilan",
+      "furong",
+      "zhantang"
+    ],
+    "sceneId": "kitchen",
+    "sources": [
+      {
+        "label": "央视网 · 第6集",
+        "url": "https://tv.cctv.com/v/v4/VIDE1406407524783900.html"
+      }
+    ],
+    "contentType": "剧情展"
+  },
+  {
+    "id": "xiaobei-story",
+    "title": "佟湘玉管小贝",
+    "summary": "关心一个孩子，也需要学会划出边界。",
+    "sections": [
+      {
+        "title": "故事是什么",
+        "text": "第3集小贝进入白马书院。面对先生对孩子的夸赞，佟湘玉一度放松管束，之后又要面对放纵带来的麻烦。本展品从这件事看家里的爱与教育。"
+      },
+      {
+        "title": "这件事改变了什么",
+        "text": "照顾孩子并不只意味着护着她。大人也要判断赞美、行为和后果，承担自己的教育责任。"
+      },
+      {
+        "title": "为什么值得记住",
+        "text": "嫂子与小姑的亲情让客栈有了家庭的一面。佟湘玉的操心和小贝的调皮，在日常拉扯里彼此照见。"
+      },
+      {
+        "title": "回到今天再看",
+        "text": "被称赞不等于每一种行为都该被鼓励。爱可以温柔，也需要清楚、一致的边界；孩子同样值得被认真倾听。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "scene",
+        "id": "upper"
+      },
+      {
+        "kind": "relationship",
+        "id": "guardian"
+      },
+      {
+        "kind": "object",
+        "id": "stairs"
+      }
+    ],
+    "keywords": [
+      "家庭",
+      "教育",
+      "责任"
+    ],
+    "characters": [
+      "xiangyu",
+      "xiaobei",
+      "furong"
+    ],
+    "sceneId": "upper",
+    "sources": [
+      {
+        "label": "央视网 · 第3集",
+        "url": "https://tv.cctv.com/2014/07/27/VIDE1406400852355348.shtml"
+      }
+    ],
+    "contentType": "剧情展"
+  },
+  {
+    "id": "trouble",
+    "title": "大家一起面对麻烦",
+    "summary": "平时各有小算盘，遇到事又会凑到一起。",
+    "sections": [
+      {
+        "title": "故事是什么",
+        "text": "第54集，客栈众人为支走包大仁反复想办法，过程并不顺利，甚至出现人被送回来的反复。这一段让“共同应对”成为群像的行动。"
+      },
+      {
+        "title": "这件事改变了什么",
+        "text": "大家暂时从各自的琐事走到同一个问题前。并非每个人都一样勇敢，也并非每一个办法都有效。"
+      },
+      {
+        "title": "为什么值得记住",
+        "text": "群像的温度来自共同承担，而非六个人同时变成英雄。你出一点主意，我做一点事，故事就在这些缝隙里发生。"
+      },
+      {
+        "title": "回到今天再看",
+        "text": "不必把喜剧里的计策拿来照搬。可留给今天的是：遇到麻烦时有人愿意一起商量，比要求一个人扛住全部更踏实。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "scene",
+        "id": "hall"
+      },
+      {
+        "kind": "relationship",
+        "id": "family"
+      },
+      {
+        "kind": "object",
+        "id": "main-table"
+      }
+    ],
+    "keywords": [
+      "共同体",
+      "商量",
+      "互助"
+    ],
+    "characters": [
+      "xiangyu",
+      "zhantang",
+      "furong",
+      "xiucai",
+      "dazui",
+      "xiaobei"
+    ],
+    "sceneId": "hall",
+    "sources": [
+      {
+        "label": "央视网 · 第54集",
+        "url": "https://tv.cctv.com/2014/08/04/VIDE1407098891952429.shtml"
+      }
+    ],
+    "contentType": "剧情展"
+  },
+  {
+    "id": "ordinary",
+    "title": "同福客栈普通的一天",
+    "summary": "没有大事发生，也值得坐一会儿。",
+    "sections": [
+      {
+        "title": "故事是什么",
+        "text": "收钱、记账、跑堂、洒扫、做饭与孩子的热闹，一起组成客栈的生活。"
+      },
+      {
+        "title": "这件事改变了什么",
+        "text": "这里没有一个需要通关的结局。视线从某人的传奇身份，移向他每天承担的工作，也移向人与人相处的细微时刻。"
+      },
+      {
+        "title": "为什么值得记住",
+        "text": "多年后令人怀念的，可能不是某个惊天动地的事件，而是这间屋子里总有人在的感觉。"
+      },
+      {
+        "title": "回到今天再看",
+        "text": "当生活总催着人取得更大的结果，一顿普通的饭、一段闲聊和一个愿意等你的人，也值得被认真收藏。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "scene",
+        "id": "hall"
+      },
+      {
+        "kind": "relationship",
+        "id": "family"
+      },
+      {
+        "kind": "object",
+        "id": "main-table"
+      },
+      {
+        "kind": "object",
+        "id": "sign"
+      },
+      {
+        "kind": "object",
+        "id": "wine"
+      }
+    ],
+    "keywords": [
+      "陪伴",
+      "劳动",
+      "日常"
+    ],
+    "characters": [
+      "xiangyu",
+      "zhantang",
+      "furong",
+      "xiucai",
+      "dazui",
+      "xiaobei"
+    ],
+    "sceneId": "hall",
+    "sources": [],
+    "contentType": "主题展",
+    "referencePhotos": [
+      {
+        "name": "同福客栈六人",
+        "image": "assets/hall-references/ordinary-group.jpg",
+        "caption": "掌柜、老白、小郭、秀才、大嘴与小贝的合影。",
+        "sourceUrl": "https://k.sina.cn/article_2009722115_77c9ed03001001fyx.html"
+      }
+    ]
+  },
+  {
+    "id": "help",
+    "title": "谁来做那些小事",
+    "summary": "无双的能干，让客栈里的分工重新显形。",
+    "sections": [
+      {
+        "title": "故事是什么",
+        "text": "第32集里，无双的厨艺使掌柜重新安排大嘴的工作。一次看似简单的换岗，碰到了一个人对自己价值的在意。"
+      },
+      {
+        "title": "这件事改变了什么",
+        "text": "本来习惯的工作分配出现变化，大嘴需要面对自己的失落与能力问题。"
+      },
+      {
+        "title": "为什么值得记住",
+        "text": "能干不是一个人的全部，做得好的人也需要被看见。照顾别人不该被当作天生的义务。"
+      },
+      {
+        "title": "回到今天再看",
+        "text": "一起生活时，别只问谁最会做，也要问谁一直在做、谁需要休息。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "wushuang"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "scene",
+        "id": "kitchen"
+      },
+      {
+        "kind": "scene",
+        "id": "courtyard"
+      },
+      {
+        "kind": "object",
+        "id": "washbasin"
+      },
+      {
+        "kind": "relationship",
+        "id": "workmates"
+      }
+    ],
+    "characters": [
+      "wushuang",
+      "dazui",
+      "xiangyu"
+    ],
+    "contentType": "剧情展品",
+    "keywords": [
+      "分工",
+      "价值感",
+      "照顾"
+    ],
+    "sources": [
+      {
+        "label": "央视网 · 第32集",
+        "url": "https://tv.cctv.com/2014/07/31/VIDE1406757817353398.shtml"
+      }
+    ]
+  },
+  {
+    "id": "farewell",
+    "title": "老邢要走的那几天",
+    "summary": "平时嫌他烦，真要走了又舍不得。",
+    "sections": [
+      {
+        "title": "故事是什么",
+        "text": "第50集里，邢捕头为了十八里铺的新工作，在客栈接受几天的考验；燕小六也在临别时显出真情。"
+      },
+      {
+        "title": "这件事改变了什么",
+        "text": "办差的师徒与蹭饭的熟人，多了一次面对分别的机会。"
+      },
+      {
+        "title": "为什么值得记住",
+        "text": "熟人社会不总是温柔的，常有嫌弃和埋怨。但对一个人的留恋，也藏在这些反复的相处里。"
+      },
+      {
+        "title": "回到今天再看",
+        "text": "生活中有些人并不完美，却在很长的时间里成为了我们日常的一部分。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xing"
+      },
+      {
+        "kind": "character",
+        "id": "yan"
+      },
+      {
+        "kind": "scene",
+        "id": "hall"
+      },
+      {
+        "kind": "scene",
+        "id": "entrance"
+      },
+      {
+        "kind": "relationship",
+        "id": "constables"
+      }
+    ],
+    "characters": [
+      "xing",
+      "yan"
+    ],
+    "contentType": "剧情展品",
+    "keywords": [
+      "师徒",
+      "分别",
+      "熟人"
+    ],
+    "sources": [
+      {
+        "label": "央视网 · 第50集",
+        "url": "https://tv.cctv.com/2014/08/03/VIDE1407018788039241.shtml"
+      }
+    ]
+  },
+  {
+    "id": "xing-secret",
+    "title": "老邢的丐帮秘密",
+    "summary": "一段求生经历，变成了难以启齿的秘密。",
+    "sections": [
+      {
+        "title": "故事是什么",
+        "text": "第27集，邢捕头返乡途中遭抢，只得一路讨饭并加入丐帮。小米知晓此事后不断向他索取，老邢最终当众承认，也面对了职务上的处分。"
+      },
+      {
+        "title": "为什么值得记住",
+        "text": "为了维持体面而隐瞒的经历，反过来让人受制于别人。笑料背后，是身份、处境与承认事实之间的拉扯。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xing"
+      },
+      {
+        "kind": "character",
+        "id": "xiaomi"
+      },
+      {
+        "kind": "scene",
+        "id": "entrance"
+      },
+      {
+        "kind": "relationship",
+        "id": "beggar-secret"
+      }
+    ],
+    "characters": [
+      "xing",
+      "xiaomi"
+    ],
+    "sceneId": "entrance",
+    "contentType": "剧情展",
+    "keywords": [
+      "秘密",
+      "身份",
+      "体面"
+    ],
+    "sources": [
+      {
+        "label": "央视网 · 第27集",
+        "url": "https://dianshiju.cctv.com/2010/06/11/VIDE1354532602550609.shtml"
+      }
+    ]
+  },
+  {
+    "id": "roof-love",
+    "title": "月下说起喜欢 · 第24集",
+    "summary": "小郭问起喜欢的缘由，秀才的回答惹出了笑料。",
+    "sections": [
+      {
+        "title": "原剧故事",
+        "text": "月夜，小郭问秀才为什么喜欢自己，秀才提到算命的事，引得小郭生气，把他踢下屋顶。随后，秀才又认真说起自己的心意。"
+      },
+      {
+        "title": "故事余味",
+        "text": "这段相处既有认真，也有笨拙。笑料之后，留下的是把心意说清楚的尝试。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "relationship",
+        "id": "couple"
+      },
+      {
+        "kind": "story",
+        "id": "love"
+      },
+      {
+        "kind": "scene",
+        "id": "roof"
+      }
+    ],
+    "keywords": [
+      "屋顶",
+      "月夜",
+      "心意"
+    ],
+    "characters": [
+      "furong",
+      "xiucai"
+    ],
+    "sceneId": "roof",
+    "sources": [
+      {
+        "label": "央视网 · 第24集屋顶谈心剧情",
+        "url": "https://shaoer.cntv.cn/C19079/classpage/video/20120125/100097.shtml"
+      },
+      {
+        "label": "央视网 · 第24集屋顶情节",
+        "url": "https://tv.cctv.com/2014/07/30/VIDE1406672662507602.shtml"
+      }
+    ],
+    "contentType": "剧情展"
+  },
+  {
+    "id": "roof-talk",
+    "title": "夜深了，聊一会儿 · 第36集",
+    "summary": "秀才睡不着，来到屋顶与无双谈天。",
+    "sections": [
+      {
+        "title": "原剧故事",
+        "text": "秀才从梦中惊醒后，来到屋顶与无双谈天。他不慎跌落，被路过的追风救下；小郭随后回到客栈，让感情中的犹疑有了新的转折。"
+      },
+      {
+        "title": "故事余味",
+        "text": "屋顶容得下轻松的闲聊，也容得下没有想明白的心事。这段关系仍有误会，并不是无双与秀才的圆满结局。"
+      },
+      {
+        "title": "夜话中的这一刻",
+        "text": "无双靠近秀才，秀才紧张地坐直了身体。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "wushuang"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "scene",
+        "id": "roof"
+      }
+    ],
+    "keywords": [
+      "屋顶",
+      "谈心",
+      "犹疑"
+    ],
+    "characters": [
+      "xiucai",
+      "wushuang",
+      "furong"
+    ],
+    "sceneId": "roof",
+    "sources": [
+      {
+        "label": "央视网 · 第36集屋顶谈天剧情",
+        "url": "https://shaoer.cntv.cn/C19079/classpage/video/20120127/100130.shtml"
+      },
+      {
+        "label": "第36集分场台词 · 屋顶夜",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842339.html"
+      }
+    ],
+    "contentType": "剧情展"
+  },
+  {
+    "id": "midautumn",
+    "title": "梦里的另一种人生 · 第40集",
+    "summary": "在“如果当初”的梦境里，掌柜与老白坐上屋顶，谈起小贝，也谈起改变命运。",
+    "sections": [
+      {
+        "title": "大堂里的如果当初",
+        "text": "中秋夜，众人在大堂聚餐，各自想象另一种人生。接下来的梦境里，他们走上了不同的道路。"
+      },
+      {
+        "title": "梦中的屋顶夜话",
+        "text": "小贝服药睡下后，掌柜独坐屋顶。做了郎中的老白上来，听她说起照顾小贝的生活，也谈起自己仍然向往行侠仗义。这里呈现的是梦境中的两人。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "relationship",
+        "id": "family"
+      },
+      {
+        "kind": "scene",
+        "id": "roof"
+      }
+    ],
+    "keywords": [
+      "中秋",
+      "思乡",
+      "陪伴"
+    ],
+    "characters": [
+      "xiangyu",
+      "zhantang",
+      "furong",
+      "xiucai",
+      "dazui",
+      "xiaobei"
+    ],
+    "sceneId": "roof",
+    "sources": [
+      {
+        "label": "央视网 · 第40集",
+        "url": "https://tv.cctv.com/2014/08/02/VIDE1406922130763672.shtml"
+      },
+      {
+        "label": "第40集分场台词 · 梦中屋顶夜话",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842363.html"
+      }
+    ],
+    "contentType": "剧情展"
+  },
+  {
+    "id": "guest-shiniang",
+    "title": "第11集 · 从扬州来的贵客",
+    "summary": "怡红楼受损后，同福客栈接待了扈十娘；她与老白的纠葛，也让掌柜坐不住了。",
+    "sections": [
+      {
+        "title": "先看房，再搬到大堂",
+        "text": "小郭原本带扈十娘去看佟掌柜特意腾出的房间，十娘却嫌别人住过。听说老白睡在大堂，她坚持改住那里。客栈只好照她的要求重新布置大堂。"
+      },
+      {
+        "title": "波公子，坐下来歇歇",
+        "text": "到了大堂，十娘招呼忙了一天的老白坐下，又让小郭给他看茶。两人的亲近让掌柜坐不住；这段招呼与喝茶的互动发生在大堂。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "hall"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "shiniang"
+      }
+    ],
+    "characters": [
+      "zhantang",
+      "shiniang"
+    ],
+    "sceneId": "hall",
+    "sources": [
+      {
+        "label": "央视网 · 第11集",
+        "url": "https://tv.cctv.com/2014/07/28/VIDE1406491031934973.shtml"
+      },
+      {
+        "label": "扈十娘 · 剧照来源",
+        "url": "https://m.baike.com/wikiid/2771222387586168225"
+      },
+      {
+        "label": "第11集台词整理 · 看房与改住大堂",
+        "url": "https://m.aipiaxi.com/xj-web/h5/article/185710"
+      }
+    ],
+    "contentType": "来客往事",
+    "keywords": [
+      "第11集",
+      "扈十娘"
+    ],
+    "referencePhotos": [
+      {
+        "image": "assets/guest-references/shiniang.jpg",
+        "name": "扈十娘",
+        "sourceUrl": "https://m.baike.com/wikiid/2771222387586168225",
+        "caption": "浅青衣、双辫与红花头饰。"
+      }
+    ]
+  },
+  {
+    "id": "guest-yidianhong",
+    "title": "第23集 · 来客带来的风波",
+    "summary": "私盐案的卧底行动还没结束，试图劫狱的平谷一点红又来到客栈。",
+    "sections": [
+      {
+        "title": "来客与往事",
+        "text": "为追查私盐买家，小六到客栈卧底，老白暂代捕快。平谷一点红为劫狱而来，事情随之变得危险，小六也重新拿起钢刀。"
+      },
+      {
+        "title": "这段故事发生在哪里",
+        "text": "一点红进店投宿后，下楼用饭。他对洁净的挑剔与擦桌示范发生在大堂，小六也在楼梯附近观察。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "yan"
+      },
+      {
+        "kind": "scene",
+        "id": "hall"
+      },
+      {
+        "kind": "character",
+        "id": "yidianhong"
+      }
+    ],
+    "characters": [
+      "yan",
+      "yidianhong"
+    ],
+    "sceneId": "hall",
+    "sources": [
+      {
+        "label": "央视网 · 第23集",
+        "url": "https://dianshiju.cctv.com/2010/06/11/VIDE1354532099615442.shtml"
+      },
+      {
+        "label": "平谷一点红 · 剧照来源",
+        "url": "https://www.tvmao.com/character/aCgxIi4%3D"
+      },
+      {
+        "label": "分场台词整理 · 地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842262.html"
+      }
+    ],
+    "contentType": "剧情展",
+    "keywords": [
+      "第23集",
+      "平谷一点红"
+    ],
+    "referencePhotos": [
+      {
+        "image": "assets/guest-references/yidianhong.jpg",
+        "name": "平谷一点红",
+        "sourceUrl": "https://www.tvmao.com/character/aCgxIi4%3D",
+        "caption": "红袍、白内领、红色束发与佩剑。"
+      }
+    ]
+  },
+  {
+    "id": "guest-huilan-first",
+    "title": "敲门问一声",
+    "summary": "蕙兰住进楼上客房，大嘴敲门进来，殷勤询问还有什么吩咐。",
+    "sections": [
+      {
+        "title": "来客与往事",
+        "text": "杨蕙兰带着雇来的假老爹比武招亲。大嘴想赢得她的青睐，与老白想过办法，结果小郭意外胜出。客栈里的一次相遇，成了大嘴此后反复牵挂的开端。"
+      },
+      {
+        "title": "客房里的这一幕",
+        "text": "蕙兰住进楼上客房，大嘴敲门进来，殷勤询问还有什么吩咐。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "huilan"
+      }
+    ],
+    "characters": [
+      "huilan",
+      "dazui"
+    ],
+    "sceneId": "guest-room",
+    "sources": [
+      {
+        "label": "央视网 · 第6集",
+        "url": "https://tv.cctv.com/v/v4/VIDE1406407524783900.html"
+      },
+      {
+        "label": "杨蕙兰 · 剧照来源",
+        "url": "https://cj.sina.com.cn/articles/view/7507435327/1bf7a5f3f00100xstq"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842132.html"
+      }
+    ],
+    "contentType": "来客往事",
+    "keywords": [
+      "第6集",
+      "杨蕙兰"
+    ],
+    "referencePhotos": [
+      {
+        "image": "assets/guest-references/huilan.jpg",
+        "name": "杨蕙兰",
+        "sourceUrl": "https://cj.sina.com.cn/articles/view/7507435327/1bf7a5f3f00100xstq",
+        "caption": "紫红缀片外衣、深色交领与半束发。"
+      }
+    ]
+  },
+  {
+    "id": "guest-huilan-knives",
+    "title": "菜刀门的生意",
+    "summary": "掌柜和大嘴来到蕙兰房里，听她解释买菜刀、入门派的所谓待遇。",
+    "sections": [
+      {
+        "title": "来客与往事",
+        "text": "久别重逢之后，大嘴的期待落在蕙兰带来的菜刀生意上。从第6集的比武招亲到这次重逢，大嘴仍惦记着她，来客却有了新的打算。"
+      },
+      {
+        "title": "客房里的这一幕",
+        "text": "掌柜和大嘴来到蕙兰房里，听她解释买菜刀、入门派的所谓待遇。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "huilan"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      }
+    ],
+    "characters": [
+      "huilan",
+      "dazui",
+      "xiangyu"
+    ],
+    "sceneId": "guest-room",
+    "sources": [
+      {
+        "label": "央视网 · 第41集",
+        "url": "https://tv.cctv.com/2014/08/02/VIDE1406923573119896.shtml"
+      },
+      {
+        "label": "杨蕙兰 · 剧照来源",
+        "url": "https://cj.sina.com.cn/articles/view/7507435327/1bf7a5f3f00100xstq"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842369.html"
+      }
+    ],
+    "contentType": "来客往事",
+    "keywords": [
+      "第41集",
+      "杨蕙兰"
+    ],
+    "referencePhotos": [
+      {
+        "image": "assets/guest-references/huilan.jpg",
+        "name": "杨蕙兰",
+        "sourceUrl": "https://cj.sina.com.cn/articles/view/7507435327/1bf7a5f3f00100xstq",
+        "caption": "紫红缀片外衣、深色交领与半束发。"
+      }
+    ]
+  },
+  {
+    "id": "guest-simpson",
+    "title": "第68集 · 几箱聘礼的圈套",
+    "summary": "小郭张罗相亲，辛普森送来聘礼，无双却发现事情没有那么简单。",
+    "sections": [
+      {
+        "title": "来客与往事",
+        "text": "小郭想还无双的人情，于是安排相亲。辛普森的热情与聘礼让事情迅速推进，等无双提出退礼，才意识到自己被卷进了圈套。"
+      },
+      {
+        "title": "这段故事发生在哪里",
+        "text": "众人在大堂收下聘礼，后来仍在大堂与辛普森交涉退聘，礼单里的圈套由此显露。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "wushuang"
+      },
+      {
+        "kind": "scene",
+        "id": "hall"
+      },
+      {
+        "kind": "character",
+        "id": "simpson"
+      }
+    ],
+    "characters": [
+      "wushuang",
+      "simpson"
+    ],
+    "sceneId": "hall",
+    "sources": [
+      {
+        "label": "央视网 · 第68集",
+        "url": "https://tv.cctv.com/2014/08/06/VIDE1407276916548890.shtml"
+      },
+      {
+        "label": "辛普森 · 剧照来源",
+        "url": "https://www.sohu.com/a/342428190_719912"
+      },
+      {
+        "label": "分场台词整理 · 地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/863396.html"
+      }
+    ],
+    "contentType": "剧情展",
+    "keywords": [
+      "第68集",
+      "辛普森"
+    ],
+    "referencePhotos": [
+      {
+        "name": "辛普森 · 原剧造型",
+        "image": "assets/guest-references/simpson-verified-v02.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "陈智彬饰演的辛普森：黑色西装、白衬衫、黑领结与文明棍。"
+      }
+    ]
+  },
+  {
+    "id": "guest-role-reversal",
+    "title": "从掌柜到丫环",
+    "summary": "老白帮赛貂蝉把行李搬进客房，问起她与小翠为何身份颠倒。",
+    "sections": [
+      {
+        "title": "来客与往事",
+        "text": "曾经的怡红楼掌柜与丫环再次出现，身份却颠倒了。小翠对赛貂蝉的态度让众人看不过眼，掌柜也被卷入她们的旧怨。"
+      },
+      {
+        "title": "客房里的这一幕",
+        "text": "赛貂蝉带着行李上楼，老白帮忙搬进客房。面对老白的询问，她讲起自己如何从掌柜变成小翠的丫环。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      },
+      {
+        "kind": "character",
+        "id": "saidiao"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "xiaocui"
+      }
+    ],
+    "characters": [
+      "saidiao",
+      "zhantang",
+      "xiaocui"
+    ],
+    "sceneId": "guest-room",
+    "sources": [
+      {
+        "label": "央视网 · 第70集",
+        "url": "https://tv.cctv.com/2014/08/07/VIDE1407355927001255.shtml"
+      },
+      {
+        "label": "赛貂蝉（右）与小翠（中） · 剧照来源",
+        "url": "https://www.sohu.com/a/512750797_120099877"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://m.aipiaxi.com/xj-web/h5/article/170062"
+      }
+    ],
+    "contentType": "来客往事",
+    "keywords": [
+      "第70集",
+      "赛貂蝉",
+      "小翠"
+    ],
+    "referencePhotos": [
+      {
+        "image": "assets/guest-references/saidiao.jpg",
+        "name": "赛貂蝉（右）与小翠（中）",
+        "sourceUrl": "https://www.sohu.com/a/512750797_120099877",
+        "caption": "第70集主仆身份互换：右侧赛貂蝉穿朴素粉褐衣，中间小翠穿橙衣、持团扇。"
+      }
+    ]
+  },
+  {
+    "id": "guest-xingyu-arrival",
+    "title": "第73集 · 一场意外的相遇",
+    "summary": "大嘴酒醒后面对柳星雨，一段新的感情让他在过去与未来之间犹豫。",
+    "sections": [
+      {
+        "title": "来客与往事",
+        "text": "大嘴得知自己酒醉时与柳星雨有了约定，起初仍放不下蕙兰，后来决定认真面对新的生活。柳星雨的来历却让这段相遇多了疑点。"
+      },
+      {
+        "title": "这段故事发生在哪里",
+        "text": "大嘴醒来时，柳星雨就在床边。这一场发生在他与秀才同住的男寝。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "scene",
+        "id": "men-room"
+      },
+      {
+        "kind": "character",
+        "id": "liuxingyu"
+      }
+    ],
+    "characters": [
+      "dazui",
+      "liuxingyu"
+    ],
+    "sceneId": "men-room",
+    "sources": [
+      {
+        "label": "央视网 · 第73集",
+        "url": "https://tv.cctv.com/2014/08/07/VIDE1407360792570779.shtml"
+      },
+      {
+        "label": "柳星雨 · 剧照来源",
+        "url": "https://k.sina.com.cn/article_6579716227_1882e808300100m15f.html"
+      },
+      {
+        "label": "分场台词整理 · 地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/863429.html"
+      }
+    ],
+    "contentType": "剧情展",
+    "keywords": [
+      "第73集",
+      "柳星雨"
+    ],
+    "referencePhotos": [
+      {
+        "image": "assets/guest-references/liuxingyu.jpg",
+        "name": "柳星雨",
+        "sourceUrl": "https://k.sina.com.cn/article_6579716227_1882e808300100m15f.html",
+        "caption": "粉白格纹衣、额前碎发与半束发。"
+      }
+    ]
+  },
+  {
+    "id": "guest-sisters",
+    "title": "第74集 · 真心与迷魂散",
+    "summary": "柳月云出现，姐妹的真正目的浮出水面，星雨却被大嘴的真心打动。",
+    "sections": [
+      {
+        "title": "来客与往事",
+        "text": "婚礼前柳月云来到客栈，姐妹原本打算用迷药偷取所谓盗圣宝藏。星雨因大嘴的真诚而动摇，计划与感情发生冲突。妹妹一心推进计划，姐姐却在大嘴的真情前犹豫。"
+      },
+      {
+        "title": "这段故事发生在哪里",
+        "text": "柳月云以住店为由上楼，来到掌柜房找姐姐。姐妹在这里谈起原定的偷盗计划。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "scene",
+        "id": "owner-room"
+      },
+      {
+        "kind": "character",
+        "id": "liuxingyu"
+      },
+      {
+        "kind": "character",
+        "id": "liuyueyun"
+      }
+    ],
+    "characters": [
+      "dazui",
+      "liuxingyu",
+      "liuyueyun"
+    ],
+    "sceneId": "owner-room",
+    "sources": [
+      {
+        "label": "央视网 · 第74集",
+        "url": "https://tv.cctv.com/2014/08/07/VIDE1407363137286390.shtml"
+      },
+      {
+        "label": "柳星雨 · 剧照来源",
+        "url": "https://k.sina.com.cn/article_6579716227_1882e808300100m15f.html"
+      },
+      {
+        "label": "柳月云（右）与柳星雨（左） · 剧照来源",
+        "url": "https://www.bilibili.com/opus/772212580035854354"
+      },
+      {
+        "label": "分场台词整理 · 地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/863435.html"
+      }
+    ],
+    "contentType": "剧情展",
+    "keywords": [
+      "第74集",
+      "柳星雨",
+      "柳月云"
+    ],
+    "referencePhotos": [
+      {
+        "image": "assets/guest-references/liuxingyu.jpg",
+        "name": "柳星雨",
+        "sourceUrl": "https://k.sina.com.cn/article_6579716227_1882e808300100m15f.html",
+        "caption": "粉白格纹衣、额前碎发与半束发。"
+      },
+      {
+        "name": "柳月云（右）与柳星雨（左）",
+        "sourceUrl": "https://www.bilibili.com/opus/772212580035854354",
+        "caption": "姐妹同框参照：右侧柳月云穿浅黄绿衣、留双辫；左侧柳星雨穿粉色衣、额前有碎发。",
+        "image": "assets/guest-references/liuyueyun.jpg"
+      }
+    ]
+  },
+  {
+    "id": "guest-huilan-return",
+    "title": "再陪我聊一会儿",
+    "summary": "蕙兰邀大嘴在客房喝酒说话，大嘴却把这次亲近当成感情有了转机。",
+    "sections": [
+      {
+        "title": "来客与往事",
+        "text": "蕙兰的再次出现让大嘴以为等来了回应。交谈后，蕙兰向他坦白婚姻，身上银票的来历又带来新的疑问。"
+      },
+      {
+        "title": "客房里的这一幕",
+        "text": "蕙兰回来后，大嘴到客房找她。两人在房里喝酒说话，大嘴的期待越来越深；"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "huilan"
+      }
+    ],
+    "characters": [
+      "huilan",
+      "dazui"
+    ],
+    "sceneId": "guest-room",
+    "sources": [
+      {
+        "label": "央视网 · 第78集",
+        "url": "https://tv.cctv.com/2014/08/08/VIDE1407445213526936.shtml"
+      },
+      {
+        "label": "杨蕙兰 · 剧照来源",
+        "url": "https://cj.sina.com.cn/articles/view/7507435327/1bf7a5f3f00100xstq"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/863456.html"
+      }
+    ],
+    "contentType": "来客往事",
+    "keywords": [
+      "第78集",
+      "杨蕙兰"
+    ],
+    "referencePhotos": [
+      {
+        "image": "assets/guest-references/huilan.jpg",
+        "name": "杨蕙兰",
+        "sourceUrl": "https://cj.sina.com.cn/articles/view/7507435327/1bf7a5f3f00100xstq",
+        "caption": "紫红缀片外衣、深色交领与半束发。"
+      }
+    ]
+  },
+  {
+    "id": "guest-huilan-farewell",
+    "title": "别让她东躲西藏",
+    "summary": "蕙兰与杜子俊在房中争执，大嘴推门进来，劝杜子俊别再让她四处躲藏。",
+    "sections": [
+      {
+        "title": "来客与往事",
+        "text": "众人得知杜子俊就是蕙兰的丈夫，银票与珠宝事件背后还有母亲阻挠婚姻的安排。大嘴在自己的失落与帮助二人之间作出选择。这是第78集之后的后续，蕙兰、杜子俊与大嘴分别面对这段关系的变化。"
+      },
+      {
+        "title": "客房里的这一幕",
+        "text": "杜子俊与蕙兰在房内争论母亲与婚姻的问题，众人在门外偷听。大嘴推门进来，劝杜子俊好好对待蕙兰，别让她东躲西藏；说完便知趣离开。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "huilan"
+      },
+      {
+        "kind": "character",
+        "id": "duzijun"
+      }
+    ],
+    "characters": [
+      "huilan",
+      "duzijun",
+      "dazui"
+    ],
+    "sceneId": "guest-room",
+    "sources": [
+      {
+        "label": "央视网 · 第79集",
+        "url": "https://tv.cctv.com/2014/08/08/VIDE1407446657640690.shtml"
+      },
+      {
+        "label": "杨蕙兰 · 剧照来源",
+        "url": "https://cj.sina.com.cn/articles/view/7507435327/1bf7a5f3f00100xstq"
+      },
+      {
+        "label": "杜子俊 · 剧照来源",
+        "url": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/863466.html"
+      }
+    ],
+    "contentType": "来客往事",
+    "keywords": [
+      "第79集",
+      "杨蕙兰",
+      "杜子俊"
+    ],
+    "referencePhotos": [
+      {
+        "image": "assets/guest-references/huilan.jpg",
+        "name": "杨蕙兰",
+        "sourceUrl": "https://cj.sina.com.cn/articles/view/7507435327/1bf7a5f3f00100xstq",
+        "caption": "紫红缀片外衣、深色交领与半束发。"
+      },
+      {
+        "name": "杜子俊",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "原剧杜子俊造型：圆脸、黑金帽饰、黑底团纹外衣和金褐衣袖。",
+        "image": "assets/guest-references/duzijun.jpg"
+      }
+    ]
+  },
+  {
+    "id": "guest-murongyan",
+    "title": "想进六扇门的姑娘",
+    "summary": "慕容嫣一心想进六扇门，老白的盗圣身份，也成了这位来客追问的秘密。",
+    "sections": [
+      {
+        "title": "第5集 · 慕容嫣",
+        "text": "少女慕容嫣来到客栈，希望靠抓住盗圣进入六扇门。老白为应对她的追问，讲起与展红绫有关的往事。"
+      },
+      {
+        "title": "客房里的这一幕",
+        "text": "慕容嫣一心想进六扇门，老白的盗圣身份，也成了这位来客追问的秘密。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "murongyan"
+      }
+    ],
+    "characters": [
+      "murongyan",
+      "zhantang"
+    ],
+    "sceneId": "guest-room",
+    "sources": [
+      {
+        "label": "央视网 · 第5集",
+        "url": "https://tv.cctv.com/2014/07/27/VIDE1406404801863685.shtml"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842124.html"
+      }
+    ],
+    "contentType": "客房往事",
+    "keywords": [
+      "慕容嫣",
+      "第5集",
+      "客房"
+    ],
+    "referencePhotos": [
+      {
+        "name": "慕容嫣",
+        "image": "assets/guest-references/murongyan-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "紫红外衣、浅粉交领、齐刘海与小发饰。"
+      }
+    ]
+  },
+  {
+    "id": "guest-reading-jokes",
+    "title": "楼上传来的笑声",
+    "summary": "老白伤了手，掌柜拿来笑话读给他听；楼上的笑声，又搅动了楼下的日常。",
+    "sections": [
+      {
+        "title": "第13集 · 佟湘玉、白展堂",
+        "text": "老白手受伤后，掌柜细心照顾，还读笑话逗他开心。楼上的笑声让小郭和秀才忍不住较劲，大嘴也卷入其中。这段往事记录的是客栈里的照顾与陪伴。"
+      },
+      {
+        "title": "客房里的这一幕",
+        "text": "老白伤了手，掌柜拿来笑话读给他听；楼上的笑声，又搅动了楼下的日常。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      }
+    ],
+    "characters": [
+      "zhantang",
+      "xiangyu"
+    ],
+    "sceneId": "guest-room",
+    "sources": [
+      {
+        "label": "央视网 · 第13集",
+        "url": "https://tv.cctv.com/2014/07/28/VIDE1406495535995507.shtml"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842189.html"
+      }
+    ],
+    "contentType": "客房往事",
+    "keywords": [
+      "佟湘玉",
+      "白展堂",
+      "第13集",
+      "客房"
+    ],
+    "referencePhotos": []
+  },
+  {
+    "id": "guest-baisanniang",
+    "title": "娘亲带来的新衣",
+    "summary": "客房里，白三娘缝着衣服，叫趴在桌上睡觉的儿子试试新衣。",
+    "sections": [
+      {
+        "title": "第43集 · 白三娘",
+        "text": "白三娘的到来，把老白与掌柜的感情摆到了长辈面前。她对掌柜展开接连考验，平日热闹的客栈，也多了一层家人之间的试探与关心。"
+      },
+      {
+        "title": "客房里的这一幕",
+        "text": "白三娘在客房里缝衣服，老白趴在桌上睡着。她叫儿子起来试夜行衣，母子间的日常先于后来的一连串考验。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "baisanniang"
+      }
+    ],
+    "characters": [
+      "baisanniang",
+      "zhantang"
+    ],
+    "sceneId": "guest-room",
+    "sources": [
+      {
+        "label": "央视网 · 第43集",
+        "url": "https://tv.cctv.com/2014/08/02/VIDE1406930601214587.shtml"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842382.html"
+      }
+    ],
+    "contentType": "客房往事",
+    "keywords": [
+      "白三娘",
+      "第43集",
+      "客房"
+    ],
+    "referencePhotos": [
+      {
+        "name": "白三娘",
+        "image": "assets/guest-references/baisanniang-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "深色大格外衣、米色细纹内衫、紫色交领与耳坠。"
+      }
+    ]
+  },
+  {
+    "id": "guest-bao-arrival",
+    "title": "惹不起的钦差来客",
+    "summary": "小六与无双误把包大仁和展侍卫拿下，得知来客身份时，麻烦已经上门。",
+    "sections": [
+      {
+        "title": "第53集 · 包大仁、展侍卫",
+        "text": "无双刚上任，小六订下许多不靠谱的规矩。途经七侠镇的包大仁与随行展堂被二人拿下，随后才发现包大仁是钦差。一个误会，拉开了连续数集的风波。"
+      },
+      {
+        "title": "随行的展侍卫",
+        "text": "展侍卫本名展堂，与客栈跑堂白展堂是两个人。"
+      },
+      {
+        "title": "客房里的这一幕",
+        "text": "包大仁要了客房，老白上楼接待他和展侍卫，随后被赶出房间。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      },
+      {
+        "kind": "character",
+        "id": "wushuang"
+      },
+      {
+        "kind": "character",
+        "id": "baodaren"
+      },
+      {
+        "kind": "character",
+        "id": "zhanshiwei"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      }
+    ],
+    "characters": [
+      "baodaren",
+      "zhanshiwei",
+      "zhantang"
+    ],
+    "sceneId": "guest-room",
+    "sources": [
+      {
+        "label": "央视网 · 第53集",
+        "url": "https://dianshiju.cctv.com/2010/06/11/VIDE1354532625531950.shtml"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842444.html"
+      }
+    ],
+    "contentType": "客房往事",
+    "keywords": [
+      "包大仁",
+      "展侍卫",
+      "第53集",
+      "客房"
+    ],
+    "referencePhotos": [
+      {
+        "name": "包大仁",
+        "image": "assets/guest-references/baodaren-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "深蓝帽、浅灰绿条纹外衣、蓝灰内领与胡须。"
+      },
+      {
+        "name": "展侍卫",
+        "image": "assets/guest-references/zhanshiwei-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "棕衣、深色襟边、黑色缠袖与半束长发；此人为展堂，并非白展堂。"
+      }
+    ]
+  },
+  {
+    "id": "guest-bao-stays",
+    "title": "看住这位钦差",
+    "summary": "客房里，无双看守包大仁；他仍在盘算怎样逃脱。",
+    "sections": [
+      {
+        "title": "第54集 · 包大仁",
+        "text": "得知买官内情后，众人把包大仁看管起来。无双留在客房看守，他一面试探一面盘算逃走。"
+      },
+      {
+        "title": "客房里的这一幕",
+        "text": "得知买官内情后，众人把包大仁看管起来。无双留在客房看守，他一面试探一面盘算逃走。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "baodaren"
+      },
+      {
+        "kind": "character",
+        "id": "wushuang"
+      }
+    ],
+    "characters": [
+      "baodaren",
+      "wushuang"
+    ],
+    "sceneId": "guest-room",
+    "sources": [
+      {
+        "label": "央视网 · 第54集",
+        "url": "https://dianshiju.cctv.com/2012/12/03/VIDE1354531731309138.shtml"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842450.html"
+      }
+    ],
+    "contentType": "客房往事",
+    "keywords": [
+      "包大仁",
+      "第54集",
+      "客房"
+    ],
+    "referencePhotos": [
+      {
+        "name": "包大仁",
+        "image": "assets/guest-references/baodaren-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "深蓝帽、浅灰绿条纹外衣、蓝灰内领与胡须。"
+      }
+    ]
+  },
+  {
+    "id": "guest-bao-wedding",
+    "title": "书信到底藏在哪儿？",
+    "summary": "客房里，掌柜与小郭劝包大仁交出书信，设法把事情问清。",
+    "sections": [
+      {
+        "title": "第55集 · 包大仁",
+        "text": "包大仁识破众人的计策，索性继续住下。为了应付这位难缠的来客，掌柜答应成为他的十六姨太，大家又不得不围着这场婚事想办法。"
+      },
+      {
+        "title": "客房里的这一幕",
+        "text": "众人寻找包大仁手里的书信。掌柜与小郭留在客房，试着劝他说出实情、交出书信。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "baodaren"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      }
+    ],
+    "characters": [
+      "baodaren",
+      "xiangyu",
+      "furong"
+    ],
+    "sceneId": "guest-room",
+    "sources": [
+      {
+        "label": "央视网 · 第55集",
+        "url": "https://dianshiju.cctv.com/2012/12/03/VIDE1354531986326524.shtml"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842454.html"
+      }
+    ],
+    "contentType": "客房往事",
+    "keywords": [
+      "包大仁",
+      "第55集",
+      "客房"
+    ],
+    "referencePhotos": [
+      {
+        "name": "包大仁",
+        "image": "assets/guest-references/baodaren-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "深蓝帽、浅灰绿条纹外衣、蓝灰内领与胡须。"
+      }
+    ]
+  },
+  {
+    "id": "guest-bao-crisis",
+    "title": "公函来了，他偏不信",
+    "summary": "小六、无双和展侍卫把任命公函拿来，包大仁仍不肯相信自己受骗。",
+    "sections": [
+      {
+        "title": "公函与任命状",
+        "text": "次日客房里，小六、无双和展侍卫告诉包大仁：新任礼部侍郎另有其人。他认定自己的任命状可靠，把众人的提醒都当作戏弄。后来殷十三的到来，才让危险变得无法回避。"
+      },
+      {
+        "title": "客房里的这一幕",
+        "text": "55—56集相接的客房戏里，小六、无双和展侍卫说明任命公函的内容，包大仁仍不相信自己受骗。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      },
+      {
+        "kind": "character",
+        "id": "yan"
+      },
+      {
+        "kind": "character",
+        "id": "wushuang"
+      },
+      {
+        "kind": "character",
+        "id": "baodaren"
+      },
+      {
+        "kind": "character",
+        "id": "zhanshiwei"
+      }
+    ],
+    "characters": [
+      "baodaren",
+      "yan",
+      "wushuang",
+      "zhanshiwei"
+    ],
+    "sceneId": "guest-room",
+    "sources": [
+      {
+        "label": "央视网 · 第56集",
+        "url": "https://tv.cctv.com/2014/08/04/VIDE1407103582876341.shtml"
+      },
+      {
+        "label": "第56集台词整理 · 客房内说明任命公函",
+        "url": "https://m.aipiaxi.com/xj-web/h5/article/701327"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842460.html"
+      }
+    ],
+    "contentType": "客房往事",
+    "keywords": [
+      "包大仁",
+      "第56集",
+      "客房"
+    ],
+    "referencePhotos": [
+      {
+        "name": "包大仁",
+        "image": "assets/guest-references/baodaren-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "深蓝帽、浅灰绿条纹外衣、蓝灰内领与胡须。"
+      }
+    ]
+  },
+  {
+    "id": "hall-floor-night",
+    "title": "在大堂打地铺的那一夜",
+    "summary": "外面有让人害怕的动静，屋里却有铺盖、玩笑，还有老白讲给小贝听的故事。",
+    "sections": [
+      {
+        "title": "第42集 · 先挤在一起，才敢睡下",
+        "text": "神秘高手的消息让客栈众人心里发毛。夜里，大家在大堂沿楼梯到门口的方向铺开被褥：掌柜挨着楼梯，把金银细软藏在自己身下；秀才和大嘴靠近门口，小郭、老白和小贝在中间。人还没睡着，拌嘴已经热闹起来。"
+      },
+      {
+        "title": "小贝还想听个故事",
+        "text": "小贝睡不着，点名要白大哥讲故事。老白讲起一座荒宅和一个赶考书生，大家又围拢过来。门外偏偏传来敲门声，一屋子人一起受了惊，才发现来的是小六。"
+      },
+      {
+        "title": "这场风波从哪里来",
+        "text": "小六带着要保管的官印投宿客栈，众人这才得知“盗圣”重现江湖的传闻。官印随后失窃，真假盗圣的风波继续升级，神秘人的身份最终指向老白的母亲白三娘。"
+      },
+      {
+        "title": "为什么这一夜让人惦记",
+        "text": "大堂白天是迎客吃饭的地方，到了这一夜，却成了大家共同的卧房。害怕还在，玩笑也没停；被褥挨着被褥，有人讲故事，有人接话，就没那么孤单了。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "hall"
+      },
+      {
+        "kind": "object",
+        "id": "main-table"
+      },
+      {
+        "kind": "relationship",
+        "id": "family"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "yan"
+      },
+      {
+        "kind": "story",
+        "id": "guest-baisanniang"
+      }
+    ],
+    "characters": [
+      "xiangyu",
+      "zhantang",
+      "furong",
+      "xiucai",
+      "dazui",
+      "xiaobei",
+      "yan"
+    ],
+    "sceneId": "hall",
+    "sources": [
+      {
+        "label": "央视网 · 第42集",
+        "url": "https://tv.cctv.com/2014/08/02/VIDE1406930419657543.shtml"
+      },
+      {
+        "label": "第42回 · 夜宿大堂片段文字整理",
+        "url": "https://aipiaxi.com/article-detail/747299"
+      },
+      {
+        "label": "新浪新闻 · 关于大堂地铺与讲故事的回忆",
+        "url": "https://k.sina.com.cn/article_5787187353_v158f1789902002a41u.html"
+      }
+    ],
+    "contentType": "大堂往事",
+    "keywords": [
+      "第42集",
+      "打地铺",
+      "老白讲故事",
+      "真假盗圣",
+      "白三娘",
+      "陪伴"
+    ],
+    "referencePhotos": [
+      {
+        "name": "第42集 · 夜宿大堂",
+        "image": "assets/hall-references/episode42-01.webp",
+        "sourceUrl": "https://www.xiaohongshu.com/explore/6a8049c8000000003302eb12?xsec_token=ABt4F3Fqrf-NYKT2fnYFHG-GDn3DYIlMul-binsnKEgZQ=&xsec_source=pc_search&source=web_search_result_notes",
+        "caption": "六人围坐在被褥旁：浅色衣裳、蓝色长衫与条纹被。 截图整理：小红书 ashore。"
+      },
+      {
+        "name": "第42集 · 夜宿大堂",
+        "image": "assets/hall-references/episode42-03.webp",
+        "sourceUrl": "https://www.xiaohongshu.com/explore/6a8049c8000000003302eb12?xsec_token=ABt4F3Fqrf-NYKT2fnYFHG-GDn3DYIlMul-binsnKEgZQ=&xsec_source=pc_search&source=web_search_result_notes",
+        "caption": "小贝靠着老白听故事；前侧是蓝花长枕，秀才抱膝坐在右侧。 截图整理：小红书 ashore。"
+      },
+      {
+        "name": "第42集 · 夜宿大堂",
+        "image": "assets/hall-references/episode42-04.webp",
+        "sourceUrl": "https://www.xiaohongshu.com/explore/6a8049c8000000003302eb12?xsec_token=ABt4F3Fqrf-NYKT2fnYFHG-GDn3DYIlMul-binsnKEgZQ=&xsec_source=pc_search&source=web_search_result_notes",
+        "caption": "小六进门后的另一刻，与六人听故事的画面分开。 截图整理：小红书 ashore。"
+      }
+    ]
+  },
+  {
+    "id": "guest-furong-search",
+    "title": "这间房里有机关吗？",
+    "summary": "小郭误以为同福客栈是黑店，住进客房后，关上门四处寻找机关。",
+    "sections": [
+      {
+        "title": "这一段往事",
+        "text": "佟掌柜带初来的小郭上楼，客气地问来处、问姓名。掌柜离开后，小郭关门查找所谓的黑店机关；她还不知道，自己很快会成为这间客栈里的一员。"
+      },
+      {
+        "title": "客房里的这一幕",
+        "text": "小郭误以为同福客栈是黑店，住进客房后，关上门四处寻找机关。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      }
+    ],
+    "characters": [
+      "furong"
+    ],
+    "sceneId": "guest-room",
+    "sources": [
+      {
+        "label": "央视网 · 第1集",
+        "url": "https://tv.cctv.com/2014/07/27/VIDE1406399770522952.shtml"
+      },
+      {
+        "label": "第1集台词整理 · 客房内查找机关",
+        "url": "https://www.scribd.com/document/868932412/武林外传"
+      }
+    ],
+    "contentType": "来客往事",
+    "keywords": [
+      "第1集",
+      "郭芙蓉"
+    ],
+    "referencePhotos": [
+      {
+        "name": "初来客栈的郭芙蓉",
+        "image": "assets/hall-references/arrival-xhs.webp",
+        "sourceUrl": "https://www.xiaohongshu.com/explore/69ce9f7f00000000210128d1?xsec_token=ABXjr_hydlI1bdgZqRLOhsP9vVArBOTiASkcp7mbtRpHk=&xsec_source=pc_search&source=web_search_result_notes",
+        "caption": "第1集造型参照：蓝灰衣、深色领缘与半束发；画面为原剧截图拼图。"
+      }
+    ]
+  },
+  {
+    "id": "guest-baimei-stay",
+    "title": "姻缘为何要五十两？",
+    "summary": "掌柜到客房请白眉算姻缘，所谓破解命数，竟要先交五十两。",
+    "sections": [
+      {
+        "title": "这一段往事",
+        "text": "白眉听来客栈众人的信息，包装成自己的神算本事，连老白父亲的姓氏也被他误打误撞说中。吃喝之后，他推说疲惫，掌柜便让伙计带他开房；客房留给这位“高人”的款待，恰好衬出众人轻信的代价。"
+      },
+      {
+        "title": "客房里的这一幕",
+        "text": "掌柜在客房里求问姻缘，白眉以命数吓唬她，声称要花五十两才能化解。老白随后设法拆穿骗局。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      },
+      {
+        "kind": "character",
+        "id": "baimei"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      }
+    ],
+    "characters": [
+      "baimei",
+      "xiangyu"
+    ],
+    "sceneId": "guest-room",
+    "sources": [
+      {
+        "label": "央视网 · 第24集",
+        "url": "https://tv.cctv.com/2014/07/30/VIDE1406672662507602.shtml"
+      },
+      {
+        "label": "第24集台词整理 · 掌柜安排开房",
+        "url": "https://aipiaxi.com/article-detail/248344"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842267.html"
+      }
+    ],
+    "contentType": "来客往事",
+    "keywords": [
+      "第24集",
+      "白眉"
+    ],
+    "referencePhotos": [
+      {
+        "name": "白眉",
+        "image": "assets/guest-references/baimei-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "林永健饰：浅绿布帽、灰袍、宽浅灰领缘与灰白山羊胡。"
+      }
+    ]
+  },
+  {
+    "id": "guest-murongzi-stay",
+    "title": "第49集 · 一篇稿子，满店风波",
+    "summary": "采访惹恼了掌柜，稿子被撕后，慕容子要回京城告状；掌柜只好答应重新安排采访。",
+    "sections": [
+      {
+        "title": "这一段往事",
+        "text": "慕容子把客栈里的家常话写得耸人听闻，掌柜一怒之下撕掉稿子。眼看她要离开，掌柜赶紧挽留，又重新安排采访。"
+      },
+      {
+        "title": "这段故事发生在哪里",
+        "text": "采访与挽留牵动了大堂、后院和伙计们的住处。掌柜曾吩咐把饭菜送到客房，重新安排采访。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "hall"
+      },
+      {
+        "kind": "character",
+        "id": "murongzi"
+      }
+    ],
+    "characters": [
+      "murongzi"
+    ],
+    "sceneId": "hall",
+    "sources": [
+      {
+        "label": "央视网 · 第49集",
+        "url": "https://tv.cctv.com/2014/08/03/VIDE1407018085384882.shtml"
+      },
+      {
+        "label": "第49集台词整理 · 饭菜送到客房",
+        "url": "https://m.aipiaxi.com/xj-web/h5/article/414901"
+      },
+      {
+        "label": "分场台词整理 · 地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842416.html"
+      }
+    ],
+    "contentType": "剧情展",
+    "keywords": [
+      "第49集",
+      "慕容子"
+    ],
+    "referencePhotos": [
+      {
+        "name": "慕容子",
+        "image": "assets/guest-references/murongzi-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "周颖饰：碎刘海、蓝色发饰、青色内衣与浅粉花纹外衫。"
+      }
+    ]
+  },
+  {
+    "id": "guest-yinshisan-arrival",
+    "title": "门一推开，来的是刺客",
+    "summary": "殷十三以住店为由上楼，随后推开包大仁的房门，亮明自己来自曹公公一方。",
+    "sections": [
+      {
+        "title": "这一段往事",
+        "text": "殷十三进店询问空房，老白让他自行上楼挑房。他随后找到包大仁，自报身份。包大仁起初还把这场危险当作众人安排的戏码，直到对方真的动手；众人听到楼上声响赶来，老白点住殷十三，才暂时解围。"
+      },
+      {
+        "title": "客房里的这一幕",
+        "text": "殷十三以住店为由上楼，随后推开包大仁的房门，亮明自己来自曹公公一方。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      },
+      {
+        "kind": "character",
+        "id": "baodaren"
+      },
+      {
+        "kind": "character",
+        "id": "yinshisan"
+      }
+    ],
+    "characters": [
+      "baodaren",
+      "yinshisan"
+    ],
+    "sceneId": "guest-room",
+    "sources": [
+      {
+        "label": "央视网 · 第56集",
+        "url": "https://tv.cctv.com/2014/08/04/VIDE1407103582876341.shtml"
+      },
+      {
+        "label": "第56集台词整理 · 客房内殷十三与包大仁",
+        "url": "https://m.aipiaxi.com/xj-web/h5/article/701327"
+      },
+      {
+        "label": "分场台词地点复核",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842460.html"
+      }
+    ],
+    "contentType": "来客往事",
+    "keywords": [
+      "第56集",
+      "包大仁",
+      "殷十三"
+    ],
+    "referencePhotos": [
+      {
+        "name": "殷十三",
+        "image": "assets/guest-references/yinshisan-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "马锐饰：蓝色内衫、土褐交领、细条纹外衣与束起的长发。"
+      },
+      {
+        "name": "包大仁",
+        "image": "assets/guest-references/baodaren-source.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "深蓝帽、灰绿条纹外衣与胡须。"
+      }
+    ]
+  },
+  {
+    "id": "roof-xiangyu-heart",
+    "title": "掌柜也有说不清的心事",
+    "summary": "掌柜独自上屋顶，小郭和无双来陪她，聊起她与老白想要的生活。",
+    "sections": [
+      {
+        "title": "屋顶上的这一幕",
+        "text": "掌柜独自上屋顶，小郭和无双来陪她，聊起她与老白想要的生活。"
+      },
+      {
+        "title": "夜话中的这一刻",
+        "text": "掌柜抱膝坐着，小郭和无双在两边陪她谈心。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "roof"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "wushuang"
+      }
+    ],
+    "keywords": [
+      "屋顶",
+      "夜话",
+      "一个人的心事"
+    ],
+    "characters": [
+      "furong",
+      "xiangyu",
+      "wushuang"
+    ],
+    "sceneId": "roof",
+    "sources": [
+      {
+        "label": "第62集台词整理 · 三人屋顶谈心",
+        "url": "https://blog.sina.com.cn/s/blog_54a564e201000466.html"
+      },
+      {
+        "label": "第62集分场台词 · 房顶",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842493.html"
+      }
+    ],
+    "contentType": "屋顶夜话"
+  },
+  {
+    "id": "roof-simpson-moon",
+    "title": "外国的月亮更圆吗？",
+    "summary": "无双坐在屋顶看月亮，辛普森前来搭话，把荒唐的话说得一本正经。",
+    "sections": [
+      {
+        "title": "屋顶上的这一幕",
+        "text": "无双坐在屋顶看月亮，辛普森前来搭话，把荒唐的话说得一本正经。"
+      },
+      {
+        "title": "夜话中的这一刻",
+        "text": "无双坐着看月亮，辛普森带着文明棍上来搭话。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "roof"
+      },
+      {
+        "kind": "character",
+        "id": "wushuang"
+      },
+      {
+        "kind": "character",
+        "id": "simpson"
+      }
+    ],
+    "keywords": [
+      "屋顶",
+      "夜话",
+      "轻松一刻"
+    ],
+    "characters": [
+      "wushuang",
+      "simpson"
+    ],
+    "sceneId": "roof",
+    "sources": [
+      {
+        "label": "第68集分场台词 · 房顶夜",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/863396.html"
+      }
+    ],
+    "contentType": "屋顶夜话",
+    "referencePhotos": [
+      {
+        "name": "辛普森 · 原剧造型",
+        "image": "assets/guest-references/simpson-verified-v02.jpg",
+        "sourceUrl": "https://k.sina.cn/article_6418924297_17e99030900100iz2g.html?from=ent&subch=tv",
+        "caption": "陈智彬饰演的辛普森：黑色西装、白衬衫、黑领结与文明棍。"
+      }
+    ]
+  },
+  {
+    "id": "yard-washing-rope",
+    "title": "井边的跳绳声",
+    "summary": "小郭一边洗衣一边生闷气，小贝跳着绳经过，几句话又把她惹急了。",
+    "sections": [
+      {
+        "title": "第7集 · 后院里的这一幕",
+        "text": "小郭坐在井边捶洗衣物，小贝在旁边跳绳数数。"
+      },
+      {
+        "title": "事情从哪里来",
+        "text": "小郭一边洗衣一边生闷气，小贝跳着绳经过，几句话又把她惹急了。"
+      },
+      {
+        "title": "留在后院的日常",
+        "text": "木棒敲着衣物，跳绳擦过地面，几句拌嘴，都是这间客栈过日子的声音。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "courtyard"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      }
+    ],
+    "keywords": [
+      "后院",
+      "后院日常",
+      "第7集"
+    ],
+    "characters": [
+      "furong",
+      "xiaobei"
+    ],
+    "sceneId": "courtyard",
+    "sources": [
+      {
+        "label": "央视网 · 第7集",
+        "url": "https://tv.cctv.com/2014/07/27/VIDE1406410408020743.shtml"
+      },
+      {
+        "label": "第7集分场台词 · 后院洗衣与跳绳",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842139.html"
+      }
+    ],
+    "contentType": "后院往事",
+    "referencePhotos": [
+      {
+        "name": "第7集 · 井边洗衣",
+        "image": "assets/courtyard-references/07-1302-v68.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/07/07_1302_%E4%BA%8C%E5%8D%81%E5%9B%9B%E4%B8%AA%E6%9C%88.jpg",
+        "caption": "小郭坐着捶洗衣物；浅青衣衫、白色长袖。"
+      },
+      {
+        "name": "第7集 · 小贝的衣着",
+        "image": "assets/courtyard-references/07-1318-v68.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/07/07_1318_%E5%93%87%E5%B0%8F%E9%83%AD%E5%A7%90%E5%A7%90_%E6%88%91%E5%88%9A%E5%88%9A%E5%8F%91%E7%8E%B0.jpg",
+        "caption": "深色细格衣衫、橙色领口与束起的发髻。"
+      }
+    ]
+  },
+  {
+    "id": "yard-dragon-palm",
+    "title": "我的武功哪儿去了？",
+    "summary": "大嘴对着砖头试掌，砖头没碎，自己的手先疼了。秀才在旁边追问起他的师父。",
+    "sections": [
+      {
+        "title": "第19集 · 后院里的这一幕",
+        "text": "大嘴试掌后揉着手，秀才在一旁追问师父的来历。"
+      },
+      {
+        "title": "事情从哪里来",
+        "text": "大嘴对着砖头试掌，砖头没碎，自己的手先疼了。秀才在旁边追问起他的师父。"
+      },
+      {
+        "title": "留在后院的日常",
+        "text": "大嘴的武侠梦撞上现实，也让秀才有机会把这套所谓神功问个明白。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "courtyard"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      }
+    ],
+    "keywords": [
+      "后院",
+      "练武闹剧",
+      "第19集"
+    ],
+    "characters": [
+      "dazui",
+      "xiucai"
+    ],
+    "sceneId": "courtyard",
+    "sources": [
+      {
+        "label": "CCTV电视剧 · 第19集练掌片段",
+        "url": "https://www.youtube.com/watch?v=urO6Z945NsM"
+      },
+      {
+        "label": "第19集分场台词 · 后院拍砖",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842231.html"
+      }
+    ],
+    "contentType": "后院往事",
+    "referencePhotos": [
+      {
+        "name": "第19集 · 大嘴与秀才",
+        "image": "assets/courtyard-references/19-1714-v68.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/19/19_1714_%E4%B8%8D%E5%8F%AF%E8%83%BD%E5%95%8A_%E6%88%91%E9%83%BD%E6%98%AF%E6%8C%89%E6%88%91%E5%B8%88%E7%88%B6%E6%95%99%E7%9A%84%E6%9D%A5%E7%9A%84%E5%91%80.jpg",
+        "caption": "大嘴灰绿细横纹外衣、土色额带；秀才蓝灰长衫。"
+      },
+      {
+        "name": "第19集 · 磨台旁试掌",
+        "image": "assets/courtyard-references/19-1750-v68.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/19/19_1750_%E7%99%BD%E9%BE%99%E4%BA%AE%E7%BF%85_%E9%BB%91%E9%BE%99%E6%8E%8F%E5%BF%83.jpg",
+        "caption": "大嘴在磨台旁比划招式，画面中没有新增的小石凳。"
+      }
+    ]
+  },
+  {
+    "id": "yard-onion-apology",
+    "title": "这眼泪，是真的吗？",
+    "summary": "抱着玉米筐的小郭来到后院，秀才跪下来求和。看似真情流露，后面却藏着一颗洋葱。",
+    "sections": [
+      {
+        "title": "第24集 · 后院里的这一幕",
+        "text": "秀才戴着白额带，跪下抱住小郭求和；小郭手里还抱着玉米筐。"
+      },
+      {
+        "title": "事情从哪里来",
+        "text": "抱着玉米筐的小郭来到后院，秀才跪下来求和。看似真情流露，后面却藏着一颗洋葱。"
+      },
+      {
+        "title": "留在后院的日常",
+        "text": "想挽回一段关系，却又借用了别人的办法。笨拙的表白里，真心和作假缠在了一起。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "courtyard"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      }
+    ],
+    "keywords": [
+      "后院",
+      "笨拙心意",
+      "第24集"
+    ],
+    "characters": [
+      "xiucai",
+      "furong"
+    ],
+    "sceneId": "courtyard",
+    "sources": [
+      {
+        "label": "央视网 · 第24集",
+        "url": "https://tv.cctv.com/2014/07/30/VIDE1406672662507602.shtml"
+      },
+      {
+        "label": "第24集分场台词 · 后院求和",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842267.html"
+      }
+    ],
+    "contentType": "后院往事",
+    "referencePhotos": [
+      {
+        "name": "第24集 · 跪抱求和",
+        "image": "assets/courtyard-references/24-1944-v68.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/24/24_1944_%E8%8A%99%E8%93%89_%E6%88%91%E4%B8%8D%E8%83%BD%E6%B2%A1%E6%9C%89%E4%BD%A0%E5%95%8A.jpg",
+        "caption": "秀才戴白额带，跪下抱住小郭。"
+      },
+      {
+        "name": "第24集 · 玉米筐与浅色衣裙",
+        "image": "assets/courtyard-references/24-1996-v68.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/24/24_1996_%E8%B7%AA%E6%97%B6%E9%97%B4%E9%95%BF_%E8%85%BF%E4%BC%9A%E7%97%9B%E7%9A%84.jpg",
+        "caption": "小郭穿米白衣裙、藕色领边，手里托着玉米筐。"
+      }
+    ]
+  },
+  {
+    "id": "yard-world-beautiful",
+    "title": "世界如此美妙……",
+    "summary": "众人还在争论菜刀门的生意，小贝一句话又惹急了小郭。秀才轻声提醒，她只好闭眼深呼吸。",
+    "sections": [
+      {
+        "title": "第41集 · 后院里的这一幕",
+        "text": "磨台旁，小郭闭眼抬起双手深呼吸，小贝还拿着玉米。"
+      },
+      {
+        "title": "事情从哪里来",
+        "text": "众人还在争论菜刀门的生意，小贝一句话又惹急了小郭。秀才轻声提醒，她只好闭眼深呼吸。"
+      },
+      {
+        "title": "留在后院的日常",
+        "text": "想动手时先停一停，是小郭一点点学着改变自己的方式。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "courtyard"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      }
+    ],
+    "keywords": [
+      "后院",
+      "一家人的拌嘴",
+      "第41集"
+    ],
+    "characters": [
+      "furong",
+      "xiucai",
+      "xiaobei",
+      "dazui",
+      "xiangyu",
+      "zhantang"
+    ],
+    "sceneId": "courtyard",
+    "sources": [
+      {
+        "label": "央视网 · 第41集",
+        "url": "https://tv.cctv.com/2014/08/02/VIDE1406923573119896.shtml"
+      },
+      {
+        "label": "第41集分场台词 · 后院讨论菜刀门",
+        "url": "https://www.douluodalumh.com/xiaoshuo/wulinwaizhuan/842369.html"
+      }
+    ],
+    "contentType": "后院往事",
+    "referencePhotos": [
+      {
+        "name": "第41集 · 深呼吸与玉米",
+        "image": "assets/courtyard-references/41-1012-v68.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/41/41_1012_%E4%B8%96%E7%95%8C%E5%A6%82%E6%AD%A4%E7%BE%8E%E5%A6%99.jpg",
+        "caption": "小郭闭眼抬手，小贝穿蓝色衣衫、拿着玉米。"
+      },
+      {
+        "name": "第41集 · 磨台旁的三个人",
+        "image": "assets/courtyard-references/41-1032-v68.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/41/41_1032_%E5%B0%91%E6%95%B0%E6%9C%8D%E4%BB%8E%E5%A4%9A%E6%95%B0%E5%90%8C%E6%84%8F%E7%9A%84%E4%B8%BE%E6%89%8B.jpg",
+        "caption": "老白米白衣衫配黑条纹搭片；掌柜粉褐、紫红；大嘴棕衣浅袖。"
+      },
+      {
+        "name": "第41集 · 秀才出声提醒",
+        "image": "assets/courtyard-references/41-1008-v68.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/41/41_1008_%E8%8A%99%E8%93%89.jpg",
+        "caption": "秀才蓝灰衣衫，坐着轻声提醒小郭。"
+      }
+    ]
+  },
+  {
+    "id": "guest-mother-emperor",
+    "title": "假皇上也劝不走",
+    "summary": "大家仍穿着日常衣服，陪大嘴演起皇上、尚书的戏，老太太却坚持要留在京城。",
+    "sections": [
+      {
+        "title": "第4集 · 客房",
+        "text": "大家仍穿着日常衣服，陪大嘴演起皇上、尚书的戏，老太太却坚持要留在京城。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      },
+      {
+        "kind": "character",
+        "id": "duanzhixuanyuan"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      }
+    ],
+    "keywords": [
+      "第4集",
+      "大嘴娘",
+      "断指轩辕"
+    ],
+    "characters": [
+      "duanzhixuanyuan",
+      "dazui",
+      "xiangyu",
+      "xiucai",
+      "zhantang"
+    ],
+    "sceneId": "guest-room",
+    "sources": [
+      {
+        "label": "CCTV电视剧 · 第4集",
+        "url": "https://www.youtube.com/watch?v=QoFuWAO3JUY"
+      }
+    ],
+    "referencePhotos": [
+      {
+        "name": "第4集 · 假皇上也劝不走",
+        "image": "assets/mother-references/ep04-802.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/04/04_0802_%E8%8D%89%E6%B0%91%E6%9D%8E%E6%B0%8F%E5%8F%A9%E8%A7%81%E7%9A%87%E4%B8%8A.jpg",
+        "caption": "对应剧集原画面：人物衣着、动作与相对位置以本图为准。"
+      }
+    ],
+    "contentType": "客房往事"
+  },
+  {
+    "id": "guest-mother-truth",
+    "title": "娘早就看穿了",
+    "summary": "旁人退出客房，老太太揭穿儿子的谎话。她知道大嘴孝顺，却更怕他为了哄自己而学坏。",
+    "sections": [
+      {
+        "title": "第4集 · 客房",
+        "text": "旁人退出客房，老太太揭穿儿子的谎话。她知道大嘴孝顺，却更怕他为了哄自己而学坏。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "guest-room"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "duanzhixuanyuan"
+      }
+    ],
+    "keywords": [
+      "第4集",
+      "大嘴娘",
+      "断指轩辕"
+    ],
+    "characters": [
+      "dazui",
+      "duanzhixuanyuan"
+    ],
+    "sceneId": "guest-room",
+    "sources": [
+      {
+        "label": "CCTV电视剧 · 第4集",
+        "url": "https://www.youtube.com/watch?v=QoFuWAO3JUY"
+      }
+    ],
+    "referencePhotos": [
+      {
+        "name": "第4集 · 娘早就看穿了",
+        "image": "assets/mother-references/ep04-1056.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/04/04_1056_%E5%A8%98%E4%BD%A0%E4%BD%A0%E5%B9%B2%E5%90%97%E6%89%93%E6%88%91%E5%91%80.jpg",
+        "caption": "对应剧集原画面：人物衣着、动作与相对位置以本图为准。"
+      }
+    ],
+    "contentType": "客房往事"
+  },
+  {
+    "id": "hall-mother-mahjong",
+    "title": "老太太又和了",
+    "summary": "大堂的方桌旁，大嘴娘、老白、掌柜和大嘴围坐打牌。老白原本想让着老太太，后来才发现自己根本赢不了。",
+    "sections": [
+      {
+        "title": "第4集 · 大堂",
+        "text": "大堂的方桌旁，大嘴娘、老白、掌柜和大嘴围坐打牌。老白原本想让着老太太，后来才发现自己根本赢不了。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "hall"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "duanzhixuanyuan"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      }
+    ],
+    "keywords": [
+      "第4集",
+      "大嘴娘",
+      "断指轩辕"
+    ],
+    "characters": [
+      "dazui",
+      "duanzhixuanyuan",
+      "xiangyu",
+      "zhantang"
+    ],
+    "sceneId": "hall",
+    "sources": [
+      {
+        "label": "CCTV电视剧 · 第4集",
+        "url": "https://www.youtube.com/watch?v=QoFuWAO3JUY"
+      }
+    ],
+    "referencePhotos": [
+      {
+        "name": "第4集 · 老太太又和了",
+        "image": "assets/mother-references/ep04-1840.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/04/04_1840_%E7%9C%9F%E5%92%8C%E5%95%A6.jpg",
+        "caption": "对应剧集原画面：人物衣着、动作与相对位置以本图为准。"
+      }
+    ],
+    "contentType": "大堂往事"
+  },
+  {
+    "id": "hall-heartvoices",
+    "title": "大堂安静了，心里可热闹了",
+    "summary": "第61集开头，掌柜与老白一句气话闹分开，七个人围桌僵住，各自的心声却越来越热闹。",
+    "sections": [
+      {
+        "title": "一桌人，七种心事",
+        "text": "接着上一回的争执，掌柜说出分开的话。大堂里的人围着主桌站住，谁都没有立刻开口。镜头依次转向每个人，听见的却是完全不同的心事：有人想挽回，有人误会，有人走神。 从楼梯端到门口端，依次是掌柜、无双、秀才、大嘴、小郭、小贝和老白，大家沿桌边连成一列。"
+      },
+      {
+        "title": "最好笑的一场误读",
+        "text": "老白越是慌得发愣，秀才越佩服他的沉着。小郭一边替掌柜着急，一边还得把秀才的注意力拉回来；大嘴想到了蕙兰，小贝盘算着站队，无双则从理想中的伴侣一路想到养狗。"
+      },
+      {
+        "title": "看看大家心里在演什么",
+        "text": "在大堂往事里选择这一幕，点人物或名字就能切换他的心声，也可以按“下一个人的心声”依次看完七个人。心声以剧情概述呈现；原剧截图就在下方。"
+      },
+      {
+        "title": "停在开口之前",
+        "text": "这幅像素情境保留的是白天围桌僵住的一刻。两人其实都想和好，却还没有找到先开口的勇气。后来他们同时俯身、撞到额头，这场漫长的僵持才被打破。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "hall"
+      },
+      {
+        "kind": "object",
+        "id": "main-table"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "wushuang"
+      },
+      {
+        "kind": "story",
+        "id": "women-wait-bai"
+      }
+    ],
+    "characters": [
+      "furong",
+      "xiangyu",
+      "xiucai",
+      "zhantang",
+      "dazui",
+      "xiaobei",
+      "wushuang"
+    ],
+    "sceneId": "hall",
+    "contentType": "大堂往事",
+    "keywords": [
+      "第61集",
+      "分手",
+      "内心小剧场",
+      "心理活动",
+      "围桌",
+      "老白与掌柜"
+    ],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 第61—70集分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941677.shtml"
+      },
+      {
+        "label": "第61回 · 开场心声文字整理",
+        "url": "https://www.aipiaxi.com/article-detail/196406"
+      },
+      {
+        "label": "武林外传台词截图检索 · 剧照来源",
+        "url": "https://wulinwaizhuan.hugo2233.dpdns.org/"
+      }
+    ],
+    "referencePhotos": [
+      {
+        "name": "第61集 · 全员站位宽镜头",
+        "image": "assets/heartvoices-references/episode61-wide.jpg",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/60/60_0122_%E9%97%AE%E9%A2%98%E6%98%AF%E5%BD%93%E7%9D%80%E8%BF%99%E4%B9%88%E5%A4%9A%E4%BA%BA%E5%92%8B%E8%B7%AA%E5%91%80.jpg",
+        "caption": "宽镜头里从楼梯一端到老白一端依次是：掌柜、无双、秀才、大嘴、小郭、小贝、老白；队列沿桌侧延伸。"
+      },
+      {
+        "name": "第61集 · 围桌心声",
+        "image": "assets/heartvoices-references/episode61-0010.jpg",
+        "caption": "围桌僵住的小郭、大嘴、秀才、小贝与老白；小郭是浅紫花衣，老白是深色条纹袍。",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/60/60_0010_%E6%9C%89%E6%B2%A1%E6%9C%89%E6%90%9E%E9%94%99.jpg"
+      },
+      {
+        "name": "第61集 · 围桌心声",
+        "image": "assets/heartvoices-references/episode61-0016.jpg",
+        "caption": "掌柜穿粉色外衫、条纹内衣与深红领边；她已开始懊悔刚才的气话。",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/60/60_0016_%E5%A4%A9%E5%91%90%E6%88%91%E9%83%BD%E8%83%A1%E8%AF%B4%E4%BA%86%E4%BA%9B%E4%BB%80%E4%B9%88%E5%91%80.jpg"
+      },
+      {
+        "name": "第61集 · 围桌心声",
+        "image": "assets/heartvoices-references/episode61-0020.jpg",
+        "caption": "秀才穿蓝袍、浅灰领边，看向老白，却把对方的惊愕误读成沉着。",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/60/60_0020_%E8%80%81%E7%99%BD%E6%9E%9C%E7%84%B6%E6%98%AF%E6%9D%A1%E6%B1%89%E5%AD%90.jpg"
+      },
+      {
+        "name": "第61集 · 围桌心声",
+        "image": "assets/heartvoices-references/episode61-0026.jpg",
+        "caption": "老白表面没动，心里已被分手的念头占满；小贝穿绿衣，站在他与小郭之间。",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/60/60_0026_%E6%88%91%E8%A2%AB%E7%94%A9%E4%BA%86%E6%88%91%E8%A2%AB%E7%94%A9%E4%BA%86.jpg"
+      },
+      {
+        "name": "第61集 · 围桌心声",
+        "image": "assets/heartvoices-references/episode61-0032.jpg",
+        "caption": "大嘴穿棕衣、浅色袖子，戴土色头带，站在桌旁想起蕙兰。",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/60/60_0032_%E7%9C%9F%E7%BE%A1%E6%85%95%E4%BB%96%E4%BB%AC%E8%BF%9E%E5%88%86%E6%89%8B%E7%9A%84%E5%9C%BA%E9%9D%A2%E9%83%BD%E9%82%A3%E4%B9%88%E5%A4%A7.jpg"
+      },
+      {
+        "name": "第61集 · 围桌心声",
+        "image": "assets/heartvoices-references/episode61-0036.jpg",
+        "caption": "小贝在两个大人之间来回打量，琢磨如果动起手该帮谁。",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/60/60_0036_%E5%A6%82%E6%9E%9C%E4%BB%96%E4%BB%AC%E6%89%93%E8%B5%B7%E6%9D%A5%E6%88%91%E5%B8%AE%E8%B0%81%E5%91%80.jpg"
+      },
+      {
+        "name": "第61集 · 围桌心声",
+        "image": "assets/heartvoices-references/episode61-0046.jpg",
+        "caption": "掌柜、无双与秀才同框；无双穿金棕色衣裳与浅色外搭。",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/60/60_0046_%E8%AF%B4%E5%A5%BD%E5%B0%B1%E5%A5%BD%E8%AF%B4%E6%95%A3%E5%B0%B1%E6%95%A3.jpg"
+      },
+      {
+        "name": "第61集 · 围桌心声",
+        "image": "assets/heartvoices-references/episode61-0110.jpg",
+        "caption": "无双的思绪从感情转到了养狗，是这一轮心声里的笑点。",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/60/60_0110_%E9%82%A3%E6%88%91%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E7%9B%B4%E6%8E%A5%E5%85%BB%E5%8F%AA%E7%8B%97%E5%91%A2.jpg"
+      }
+    ]
+  },
+  {
+    "id": "women-wait-bai",
+    "title": "给白大哥留一扇后门",
+    "summary": "老白才走了一天，小贝就把大家叫进女寝，成立“后门战斗队”。队长很认真，队员却已困得睁不开眼。",
+    "sections": [
+      {
+        "title": "一场不肯放弃的动员",
+        "text": "第62集，老白离开后，掌柜决定再招跑堂。那一夜，小贝把小郭、无双、大嘴和秀才叫进女寝，想给白大哥留个回来的机会。她坐在床上，绑起“必胜”布带，认真当起了队长。"
+      },
+      {
+        "title": "队长清醒，队员犯困",
+        "text": "小贝讲得热切，无双答应支持师兄，大嘴只盼别扣工钱，侧躺的秀才则跟着小郭表态。大人们各有顾虑、一个比一个困，反而衬出孩子那份不肯接受离别的认真。"
+      },
+      {
+        "title": "第一项计划，先休息",
+        "text": "这场会议最后并没有立刻出发找人。小贝宣布的第一步是让大家回去睡觉，养足精神再行动。散会后，小郭又把威风的队长拉回了洗脚睡觉的日常。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "women-room"
+      },
+      {
+        "kind": "object",
+        "id": "shared-platform"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "wushuang"
+      },
+      {
+        "kind": "character",
+        "id": "dazui"
+      },
+      {
+        "kind": "character",
+        "id": "xiucai"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      },
+      {
+        "kind": "story",
+        "id": "hall-heartvoices"
+      }
+    ],
+    "characters": [
+      "xiaobei",
+      "furong",
+      "wushuang",
+      "dazui",
+      "xiucai"
+    ],
+    "sceneId": "women-room",
+    "contentType": "女寝往事",
+    "keywords": [
+      "第62集",
+      "后门战斗队",
+      "必胜",
+      "等老白",
+      "女寝"
+    ],
+    "sources": [
+      {
+        "label": "新浪娱乐 · 第61—70集分集介绍",
+        "url": "https://ent.sina.com.cn/v/2005-12-26/ba941677.shtml"
+      },
+      {
+        "label": "第62回 · 后门战斗队文字整理",
+        "url": "https://blog.sina.com.cn/s/blog_54a564e201000466.html"
+      }
+    ],
+    "referencePhotos": [
+      {
+        "name": "第62集 · 女寝",
+        "image": "assets/women-story-references/episode62-1414.jpg",
+        "caption": "小贝坐在床上，额头绑白布，红字为“必胜”，不是“奋斗”。",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/61/61_1414_%E6%88%91%E5%AB%82%E5%AD%90%E4%B9%9F%E6%B2%A1%E6%9C%89%E8%AF%B4%E8%A6%81%E6%8B%9B%E4%B8%80%E4%B8%AA%E6%96%B0%E6%9D%82%E5%BD%B9%E5%90%A7.jpg"
+      },
+      {
+        "name": "第62集 · 女寝",
+        "image": "assets/women-story-references/episode62-1468.jpg",
+        "caption": "小贝举起食指宣布计划；红色内衣、粉领、灰色外袍都与白天绿衣不同。",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/61/61_1468_%E9%82%A3%E4%B9%88%E5%A5%BD%E6%88%91%E5%AE%A3%E5%B8%83%E7%AC%AC%E4%B8%80%E9%A1%B9%E4%BD%9C%E6%88%98%E8%AE%A1%E5%88%92.jpg"
+      },
+      {
+        "name": "第62集 · 女寝",
+        "image": "assets/women-story-references/episode62-1418.jpg",
+        "caption": "小郭在小贝身旁，穿浅紫花衣，困倦地接话。",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/61/61_1418_%E6%8E%8C%E6%9F%9C%E7%9A%84%E5%AF%B9%E6%88%91%E8%BF%98%E4%B8%8D%E9%94%99%E5%98%9B.jpg"
+      },
+      {
+        "name": "第62集 · 女寝",
+        "image": "assets/women-story-references/episode62-1430.jpg",
+        "caption": "无双穿浅色便服站着，大嘴坐在旁边打呵欠。",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/61/61_1430_%E6%88%91%E5%90%8C%E6%84%8F%E4%B8%BA%E4%BA%86%E5%B8%88%E5%85%84%E6%88%91%E8%B7%9F%E6%8E%8C%E6%9F%9C%E7%9A%84%E6%8B%BC%E4%BA%86.jpg"
+      },
+      {
+        "name": "第62集 · 女寝",
+        "image": "assets/women-story-references/episode62-1432.jpg",
+        "caption": "大嘴穿棕衣、浅色袖子，戴土色头带，回应时仍惦记月钱。",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/61/61_1432_%E5%8F%AA%E8%A6%81%E4%B8%8D%E6%89%A3%E6%9C%88%E9%92%B1%E5%92%8B%E7%9A%84%E9%83%BD%E8%A1%8C.jpg"
+      },
+      {
+        "name": "第62集 · 女寝",
+        "image": "assets/women-story-references/episode62-1434.jpg",
+        "caption": "秀才穿蓝袍侧躺，头下是蓝枕，抱着胳膊、闭着眼睛。",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/61/61_1434_%E5%8F%AA%E8%A6%81%E8%8A%99%E5%A6%B9%E4%B8%8D%E5%8F%8D%E5%AF%B9%E6%88%91%E4%B9%9F%E8%B1%81%E5%87%BA%E5%8E%BB%E4%BA%86.jpg"
+      },
+      {
+        "name": "第62集 · 女寝",
+        "image": "assets/women-story-references/episode62-1496.jpg",
+        "caption": "会议结束后，小郭提醒队长也要洗脚；这张是紧随其后的另一刻。",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/61/61_1496_%E9%98%9F%E9%95%BF%E4%B9%9F%E8%A6%81%E6%B4%97%E8%84%9A.jpg"
+      }
+    ]
+  },
+  {
+    "id": "women-feigned-illness",
+    "title": "掌柜来探望装病的小郭",
+    "summary": "小郭想赖床，临时装起了伤风。掌柜一进女寝，先担心的却是她要不要看大夫。",
+    "sections": [
+      {
+        "title": "赖床想出来的办法",
+        "text": "第2集，小郭不想起床干活，和小贝临时商量起装病的说辞。红布扎上头、被子盖起来，她把疲惫演成了伤风。主要的探望与对话就发生在女寝床旁。"
+      },
+      {
+        "title": "来催工，也来照顾你",
+        "text": "掌柜和老白原本来催她起床。看到她像是生病，掌柜却坐到床边试额温，劝她去看大夫，愿意出医药费。这一刻先让刚来的小郭尝到了被照顾的滋味。"
+      },
+      {
+        "title": "一个屋子的两个人",
+        "text": "小郭和小贝挤在这间女寝生活，临时串词、互相拆台，也一点点熟悉起来。这里选的是掌柜最初来探望的场面，后面嗑瓜子和装病被揭穿属于后续发展。"
+      }
+    ],
+    "related": [
+      {
+        "kind": "scene",
+        "id": "women-room"
+      },
+      {
+        "kind": "object",
+        "id": "shared-platform"
+      },
+      {
+        "kind": "character",
+        "id": "furong"
+      },
+      {
+        "kind": "character",
+        "id": "xiangyu"
+      },
+      {
+        "kind": "character",
+        "id": "xiaobei"
+      },
+      {
+        "kind": "character",
+        "id": "zhantang"
+      }
+    ],
+    "characters": [
+      "furong",
+      "xiangyu",
+      "xiaobei",
+      "zhantang"
+    ],
+    "sceneId": "women-room",
+    "contentType": "女寝往事",
+    "keywords": [
+      "第2集",
+      "装病",
+      "赖床",
+      "探望",
+      "女寝"
+    ],
+    "sources": [
+      {
+        "label": "央视网 · 第2集",
+        "url": "https://shaoer.cntv.cn/children/C28434/classpage/video/20091202/100555.shtml"
+      },
+      {
+        "label": "第2回 · 女寝探望片段文字整理",
+        "url": "https://www.aipiaxi.com/article-detail/800737"
+      }
+    ],
+    "referencePhotos": [
+      {
+        "name": "第2集 · 女寝",
+        "image": "assets/women-story-references/episode02-0122.jpg",
+        "caption": "小郭躺在床上，白色寝衣、红色头带、粉色条纹被；小贝和老白在床沿旁。",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/02/02_0122_%E5%B0%8F%E9%83%AD%E5%A7%90%E5%A7%90%E4%BC%A4%E9%A3%8E%E4%BA%86.jpg"
+      },
+      {
+        "name": "第2集 · 女寝",
+        "image": "assets/women-story-references/episode02-0136.jpg",
+        "caption": "掌柜穿深红外衣、深蓝领边，进女寝探望小郭。",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/02/02_0136_%E8%BF%98%E7%9C%9F%E6%98%AF%E6%9C%89%E7%82%B9%E5%84%BF%E7%83%AB.jpg"
+      },
+      {
+        "name": "第2集 · 女寝",
+        "image": "assets/women-story-references/episode02-0140.jpg",
+        "caption": "老白俯身查看，小贝穿蓝袄；小郭仍躺在被褥中。",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/02/02_0140_%E8%BF%99%E5%AE%B6%E4%BC%99%E8%84%B8%E9%83%BD%E7%83%A7%E7%BA%A2%E4%BA%86%E5%A4%B4%E6%99%95%E4%B8%8D%E6%99%95%E5%95%8A.jpg"
+      },
+      {
+        "name": "第2集 · 女寝",
+        "image": "assets/women-story-references/episode02-0170.jpg",
+        "caption": "掌柜答应照顾小郭，担心她的病情。",
+        "sourceUrl": "https://pub-ccb4c97e31d14c5da883eaa8b7e0d4dd.r2.dev/02/02_0170_%E5%A6%B9%E5%AD%90_%E4%BD%A0%E6%94%BE%E5%BF%83_%E5%8C%BB%E8%8D%AF%E8%B4%B9%E6%88%91%E5%85%A8%E5%8C%85%E4%BA%86.jpg"
+      }
+    ]
+  }
+]
