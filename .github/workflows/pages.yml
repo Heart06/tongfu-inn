@@ -1,0 +1,48 @@
+name: Publish Tongfu Inn
+on:
+  push:
+    branches: [main]
+    paths: ['dist/**', 'site.tar.gz.part-*']
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Restore initial website bundle
+        shell: bash
+        run: |
+          if compgen -G 'site.tar.gz.part-*' > /dev/null; then
+            cat site.tar.gz.part-* > /tmp/site.tar.gz
+            echo '4864ce75dac653ac1686073812555cb81450ffb659fadd1e8ff650ea66d3158a  /tmp/site.tar.gz' | sha256sum -c -
+            tar -xzf /tmp/site.tar.gz
+            git rm site.tar.gz.part-*
+            git add dist
+            git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Restore complete standalone website source'
+            git push
+          fi
+          test -f dist/index.html
+          touch dist/.nojekyll
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish website
+        id: deployment
+        uses: actions/deploy-pages@v4
