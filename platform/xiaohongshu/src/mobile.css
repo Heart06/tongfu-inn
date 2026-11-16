@@ -1,0 +1,24 @@
+html{touch-action:manipulation}body{-webkit-touch-callout:none;padding-top:0;padding-top:var(--safe-area-inset-top,env(safe-area-inset-top,0px));padding-bottom:0;padding-bottom:var(--safe-area-inset-bottom,env(safe-area-inset-bottom,0px))}
+[hidden]{display:none!important}.source-citation{display:block;margin:8px 0}.orientation-hint{text-align:center;color:#c6b18f;font-size:12px;margin:8px 0}.mast nav{flex-wrap:wrap}.mast nav a{min-height:36px}.map-scroll,dialog,.tm-panel{-webkit-overflow-scrolling:touch}
+dialog{width:94vw;max-width:1040px;max-height:90vh;overflow:auto}dialog:not([open]){display:none}body.archive-open{overflow:hidden}dialog[open]{position:fixed;top:4vh;bottom:auto;left:0;right:0;margin:0 auto;z-index:100}
+.room-minimap .tm-panel{max-height:65vh}.room-minimap .tm-plan{height:214px}.room-minimap .tm-plan[data-plan=first]{height:205px}
+@supports(aspect-ratio:1 / 1){.room-minimap .tm-plan,.room-minimap .tm-plan[data-plan=first]{height:auto}}
+.story-bookmark-picker{width:280px;max-width:calc(100vw - 52px)}.scene-chrome .memory-dock .story-bookmark-picker,body[data-room=hall] .scene-chrome .memory-dock .story-bookmark-picker{width:280px;max-width:calc(100vw - 52px)}
+.story-bookmark-list{max-height:30vh}.story-bookmark>div[id$="-reader"]{width:270px;max-width:calc(100vw - 52px);max-height:45vh;overflow:auto}
+.map .story-person .story-person-tip{max-width:200px}.guide.is-floating .guide-bubble{width:270px;max-width:calc(100vw - 32px)}.guide.is-floating .guide-details[open]{width:340px;max-width:calc(100vw - 24px)}:root .guide.is-floating{width:calc(100vw - 24px);max-width:1040px;bottom:12px}
+@media(max-width:760px){.mast{height:auto;min-height:62px;padding:8px 12px;align-items:center;flex-wrap:wrap}.mast nav{font-size:14px}.brand{font-size:20px}.brand small{font-size:10px}.mast nav a{padding:8px}.scene-viewport.minimap-expanded .scene-chrome{visibility:hidden}.scene-chrome .story-bookmark-list{max-height:28vh}}
+@media(orientation:landscape) and (max-height:600px){
+ .orientation-hint,.welcome,.visit-note,.museum-footer,.map-tools,.brand small{display:none}
+ main{padding:0 8px}.mast{height:42px;min-height:42px;padding:0 12px}.mast nav{gap:14px;font-size:14px}.mast nav a{padding:8px 0}.brand{font-size:20px}.seal{font-size:12px;padding:3px}
+ .inn-explorer{padding-top:4px}.scene-stage{min-width:0}.map-scroll{width:100%;max-height:calc(100vh - 58px)}.map{min-width:0!important;width:100%;max-width:calc((100vh - 58px)*1.777);margin:auto}.map-art{width:100%;height:auto}
+ .room-minimap{width:180px;left:4px;top:4px}.room-minimap .tm-panel{max-height:calc(100vh - 100px)}.scene-chrome{top:5px;bottom:auto;right:5px}.scene-chrome .memory-dock .story-bookmark-picker,body[data-room=hall] .scene-chrome .memory-dock .story-bookmark-picker{top:calc(100% + 6px);bottom:auto}.scene-chrome .story-bookmark-list{max-height:42vh}
+ .scene-chrome .memory-dock .story-bookmark>div[id$="-reader"]{top:calc(100% + 6px);bottom:auto;max-height:52vh;overflow:auto}.guide:not(.is-floating){margin:5px 0}.guide.is-floating .guide-portrait{max-height:90px}.guide.is-floating .guide-bubble{max-height:28vh;overflow:auto}
+}
+@media(orientation:landscape){.orientation-hint{display:none}}
+.no-flex-gap .mast nav>*+*,.no-flex-gap .scene-chrome>*+*,.no-flex-gap .memory-toolbar>*+*,.no-flex-gap .guide-controls>*+*,.no-flex-gap .character-groups>*+*{margin-left:6px}
+.no-flex-gap .story-bookmark-list>*+*{margin-top:3px}
+@media(max-width:760px){.mast{padding-top:36px}.mast .brand{width:100%}.mast nav{width:100%;justify-content:space-between}.mast nav a{padding-left:0;padding-right:0}}
+@media(orientation:landscape) and (max-height:600px){.mast{padding-top:0;padding-right:95px}.mast .brand,.mast nav{width:auto}.mast nav{flex:1;justify-content:flex-end}.mast nav a{margin-left:16px}}
+/* Reserve the native status/capsule area for every modal, including short landscape windows. */
+dialog[open]{top:100px!important;max-height:calc(100vh - 116px)!important}
+@media(orientation:landscape) and (max-height:600px){dialog[open]{top:76px!important;max-height:calc(100vh - 88px)!important}}
