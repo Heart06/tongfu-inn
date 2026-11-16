@@ -39,6 +39,7 @@ for p in SRC.glob('*.js'):
  s=s.replace("Object.fromEntries(rooms.map(b=>[b.dataset.map,b.querySelector('.tm-name').textContent]))","rooms.reduce((acc,b)=>{acc[b.dataset.map]=b.querySelector('.tm-name').textContent;return acc;},{})")
  if p.name=='app.js':
   s=s.replace("document.querySelector('#back').onclick=backArchive","document.querySelector('#back').addEventListener('click',backArchive)").replace("document.querySelector('#close').onclick=dismissArchive","document.querySelector('#close').addEventListener('click',dismissArchive)")
+  s=s.replace('同福客栈 · 武林外传线上博物馆','七侠镇往事馆 · 武林外传线上博物馆').replace(' · 同福客栈博物馆',' · 七侠镇往事馆')
   s=s.replace('const data={};','let miniRoute="";const data={};')
   s=s.replace('location.hash.slice(1)','miniRoute').replace('if(location.hash)','if(miniRoute)')
   s=s.replace("history.pushState(archiveHistoryState(),'','#'+route)","miniRoute=route")
@@ -66,6 +67,11 @@ html=html.replace('<script type="module" src="app.js"></script>','<script src="c
 html=html.replace('</head>','<link rel="stylesheet" href="mobile.css"></head>')
 html=re.sub(r'<div class="footer-connect".*?</div></div>', '<div class="footer-connect"><span>Sarah · 非官方同人创作</span></div></div>',html,flags=re.S)
 html=html.replace('<div class="map-tools">','<p class="orientation-hint">横过来看，客栈更完整</p><div class="map-tools">')
+# Product branding only; story text and the inn's own name remain unchanged.
+html=html.replace('<title>同福客栈 · 武林外传线上博物馆</title>','<title>七侠镇往事馆 · 武林外传线上博物馆</title>')
+html=html.replace('<span class="seal">同福</span><span>同福客栈<small>','<span class="seal">七侠</span><span>七侠镇往事馆<small>')
+html=html.replace('<strong>同福客栈</strong>','<strong>七侠镇往事馆</strong>').replace('<span class="footer-seal" aria-hidden="true">同福</span>','<span class="footer-seal" aria-hidden="true">七侠</span>')
+html=html.replace('同福客栈 · 馆藏手记','七侠镇往事馆 · 馆藏手记')
 (OUT/'index.html').write_text(html)
 for p in (HERE/'src').glob('*'):shutil.copy2(p,OUT/p.name)
 # Use the platform-recognized assets directory with explicit relative paths.
